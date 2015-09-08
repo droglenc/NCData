@@ -1,0 +1,40 @@
+# Nectar.txt
+#
+# Typical worker honey bees can carry an average of 113 mg of nectar per trip to a
+#   source of pollen.  An Italian company is interested exporting honey bees that can carry
+#   more nectar then the typical honey bee.  To examine this ability they measured the nectar
+#   carried by 32 of the Italian bees.
+#
+carried
+64
+88
+161
+166
+200
+195
+171
+154
+151
+102
+76
+52
+101
+158
+39
+114
+147
+20
+5
+57
+112
+228
+42
+75
+207
+108
+88
+139
+194
+145
+180
+135

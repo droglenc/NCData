@@ -1,0 +1,26 @@
+# Ecottontail.txt
+#
+# Verts et al. (1997; J. Mammology  78:1164-1171) examined sex-bias in eastern cottontail
+#  (Sylvilagus floridanus).  In their study, they recorded the number of viable fetuses
+#   for 17 females.  
+#
+# fetuses: number of viable fetuses in a female
+#
+fetuses
+2
+2
+3
+4
+4
+4
+4
+4
+4
+5
+5
+5
+5
+5
+6
+6
+7

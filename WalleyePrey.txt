@@ -1,0 +1,103 @@
+# WalleyePrey.txt
+#
+# Data extracted from figure 2b in Kaufman, S.D., G.E. Morgan, and J.M. Gunn.  2009.
+#   The role of ciscoes as prey in the trophy growth potential of walleyes.  North
+#   American Journal of Fisheries Management 29:468-477.
+#
+# waeTL: total length (mm) of walleye
+# preyTL: total length (mm) of prey item
+# prey: type of prey item (perch or cisco)
+#
+waeTL	preyTL	prey
+126	55	perch
+142	43	perch
+154	39	perch
+163	39	perch
+148	29	perch
+178	29	perch
+160	49	perch
+157	54	perch
+188	46	perch
+197	45	perch
+199	45	perch
+205	44	perch
+200	36	perch
+216	35	perch
+217	41	perch
+224	44	perch
+212	51	perch
+215	55	perch
+211	45	perch
+243	94	perch
+249	91	perch
+249	78	perch
+250	78	perch
+266	75	perch
+255	74	perch
+247	69	perch
+241	67	perch
+241	64	perch
+241	61	perch
+238	58	perch
+240	51	perch
+241	39	perch
+252	35	perch
+259	36	perch
+259	41	perch
+256	55	perch
+294	59	perch
+294	41	perch
+311	31	perch
+300	56	perch
+305	60	perch
+305	61	perch
+306	65	perch
+294	81	perch
+303	111	perch
+323	99	perch
+345	97	perch
+349	77	perch
+349	73	perch
+362	72	perch
+359	70	perch
+352	52	perch
+340	48	perch
+342	44	perch
+336	46	perch
+348	33	perch
+348	30	perch
+348	25	perch
+433	131	perch
+420	116	perch
+405	111	perch
+405	96	perch
+396	70	perch
+389	59	perch
+399	60	perch
+399	56	perch
+398	53	perch
+393	45	perch
+393	41	perch
+396	38	perch
+417	35	perch
+511	51	perch
+513	63	perch
+162	56	cisco
+178	75	cisco
+199	80	cisco
+232	65	cisco
+297	86	cisco
+320	93	cisco
+320	72	cisco
+321	61	cisco
+321	55	cisco
+351	34	cisco
+354	63	cisco
+364	83	cisco
+373	96	cisco
+405	91	cisco
+453	68	cisco
+544	57	cisco
+684	157	cisco
+668	199	cisco
+740	236	cisco

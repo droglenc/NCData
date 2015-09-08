@@ -1,0 +1,88 @@
+# WTDeerFN.txt
+#
+# Simulated from results in Table 2 of Beier, P.  Sex differences in quality of white-tailed deer
+#   diets.  Journal of Mammology 68:323-329.
+#
+# period: month and year of sample
+# sex: sex of sample (male, female)
+# FN: Fecal nitrogen concentration (percentage), adjusted for date of collection within period
+#
+# data are for yearling and older white-tailed deer sampled at Geroge Reserve, Michigan,
+#
+period	sex	FN
+Nov80	male	2.11
+Nov80	male	2.36
+Nov80	male	2.23
+Nov80	male	2.03
+Nov80	male	1.88
+Nov80	male	1.84
+Nov80	male	2.57
+Nov80	male	2.12
+Nov80	male	2.44
+Nov80	male	1.86
+Nov80	male	2.27
+Nov80	male	2.10
+Nov80	male	2.38
+Nov80	male	2.03
+Nov80	female	2.49
+Nov80	female	1.82
+Nov80	female	2.41
+Nov80	female	2.03
+Nov80	female	2.65
+Nov80	female	1.76
+Nov80	female	2.16
+Nov80	female	2.33
+Nov80	female	2.41
+Nov82	male	2.14
+Nov82	male	2.01
+Nov82	male	2.18
+Nov82	male	2.03
+Nov82	male	2.17
+Nov82	male	1.94
+Nov82	male	2.08
+Nov82	male	2.02
+Nov82	female	2.43
+Nov82	female	1.93
+Nov82	female	2.12
+Nov82	female	2.00
+Nov82	female	2.14
+Nov82	female	2.46
+Nov82	female	2.01
+Nov82	female	1.90
+Nov82	female	2.26
+Nov82	female	2.21
+Nov82	female	1.97
+Nov82	female	1.99
+May83	male	3.00
+May83	male	3.66
+May83	male	3.64
+May83	male	3.02
+May83	male	3.35
+May83	male	3.42
+May83	male	3.37
+May83	male	3.22
+May83	male	3.39
+May83	male	3.28
+May83	male	2.96
+May83	male	3.92
+May83	female	3.96
+May83	female	3.53
+May83	female	3.02
+May83	female	3.01
+May83	female	3.17
+May83	female	3.49
+May83	female	3.39
+May83	female	3.21
+May83	female	2.97
+May83	female	3.76
+May83	female	3.52
+May83	female	3.41
+May83	female	3.91
+May83	female	3.27
+May83	female	3.52
+May83	female	4.04
+May83	female	3.27
+May83	female	3.63
+May83	female	3.49
+May83	female	3.47
+May83	female	3.79

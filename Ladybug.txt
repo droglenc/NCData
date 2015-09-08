@@ -1,0 +1,10 @@
+# Lady bug lengths
+#
+len
+7
+4
+3
+6
+5
+7
+5

@@ -1,0 +1,111 @@
+# Lobster.txt
+#
+# estimated from Figure 2 of Emmerson, W. and S. Philip.  2004.  Diets of Cape clawless otters at two
+#   South African coastal localities.  African Zoology, 39(2): 201-210.
+#
+# lobster: a unique identifier for the lobster that was measured
+# side: side of mandible that was measured
+# carapace: carapace length (mm)
+# mandible: mandible width (mm)
+#
+# note that data are paired by lobster number
+#
+lobster	side	carapace	mandible				
+1	left	46.3	9.8				
+2	left	47.0	9.8				
+3	left	47.0	10.0				
+4	left	47.2	9.0				
+5	left	47.2	9.4				
+6	left	48.0	9.6				
+7	left	49.4	9.5				
+8	left	51.2	9.3				
+9	left	51.3	10.3				
+10	left	51.7	11.0				
+11	left	52.7	10.5				
+12	left	52.8	10.6				
+13	left	53.0	11.0				
+14	left	53.1	11.4				
+15	left	53.4	11.2				
+16	left	53.6	9.8
+17	left	53.8	10.3
+18	left	53.9	10.7
+19	left	54.2	11.0
+20	left	54.5	11.0
+21	left	54.7	10.4
+22	left	54.7	11.7
+23	left	54.8	11.0
+24	left	54.8	12.0
+25	left	55.2	11.5
+26	left	55.8	11.0
+27	left	56.0	11.0
+28	left	56.2	12.1
+29	left	56.3	10.8
+30	left	56.4	11.3
+31	left	56.8	11.5
+32	left	56.9	12.4
+33	left	57.0	12.2
+34	left	57.5	12.0
+35	left	57.7	11.4
+36	left	57.8	12.0
+37	left	58.3	11.6
+38	left	59.1	12.5
+39	left	59.6	11.8
+40	left	60.9	12.7
+41	left	61.3	12.2
+42	left	61.4	12.4
+43	left	61.6	12.8
+44	left	62.8	12.0
+45	left	65.2	13.6
+46	left	69.5	14.2
+47	left	69.8	14.5
+48	left	70.4	15.0
+49	left	70.9	14.5
+1	right	46.3	8.8
+2	right	47.0	8.9
+3	right	47.0	9.2
+4	right	47.2	8.8
+5	right	47.2	9.4
+6	right	48.0	9.6
+7	right	49.4	9.1
+8	right	51.2	9.8
+9	right	51.3	10.1
+10	right	51.7	10.2
+11	right	52.7	9.5
+12	right	52.7	10.0
+13	right	53.0	10.8
+14	right	53.1	10.5
+15	right	53.3	10.3
+16	right	53.6	10.8
+17	right	53.8	10.9
+18	right	53.9	10.1
+19	right	54.2	10.3
+20	right	54.4	10.8
+21	right	54.7	10.4
+22	right	54.7	11.1
+23	right	54.8	10.5
+24	right	54.8	11.9
+25	right	55.2	10.7
+26	right	55.8	10.2
+27	right	56.0	10.0
+28	right	56.2	11.4
+29	right	56.3	10.6
+30	right	56.4	10.4
+31	right	56.7	11.6
+32	right	56.9	11.1
+33	right	56.9	11.5
+34	right	57.5	11.2
+35	right	57.7	11.5
+36	right	57.7	11.7
+37	right	58.3	11.0
+38	right	59.0	11.6
+39	right	59.6	11.7
+40	right	61.0	12.2
+41	right	61.3	11.4
+42	right	61.4	11.2
+43	right	61.5	11.8
+44	right	62.8	12.0
+45	right	65.2	13.0
+46	right	69.5	15.0
+47	right	69.9	14.0
+48	right	70.4	13.9
+49	right	70.9	14.2

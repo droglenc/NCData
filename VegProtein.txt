@@ -1,0 +1,116 @@
+# VegProtein.txt
+#
+# The daily protein intake was measured on 51 female vegetarians and 53 female omnivores 
+#   in Taiwan.
+#
+# protein: daily protein intake in g
+# diet: type of diet (omni=omnivore, veg=vegetarian)
+#
+# Data taken from Weiss, N.A. 2002.  Elementary Statistics.  Addison Wesley. p.452.
+# Dara originally from Lu, X. et al.  2000.  Journal of Nutrition.  130:1591-1596.
+#
+protein	diet
+55	omni
+39	omni
+35	omni
+63	omni
+44	omni
+64	omni
+44	omni
+71	omni
+63	omni
+25	omni
+40	omni
+81	omni
+25	omni
+23	omni
+84	omni
+37	omni
+46	omni
+37	omni
+34	omni
+54	omni
+84	omni
+41	omni
+77	omni
+42	omni
+14	omni
+57	omni
+75	omni
+50	omni
+36	omni
+41	omni
+53	omni
+67	omni
+69	omni
+60	omni
+63	omni
+61	omni
+61	omni
+27	omni
+24	omni
+37	omni
+69	omni
+11	omni
+50	omni
+55	omni
+53	omni
+45	omni
+50	omni
+49	omni
+71	omni
+44	omni
+84	omni
+57	omni
+5	omni
+39	veg
+57	veg
+45	veg
+38	veg
+30	veg
+20	veg
+54	veg
+29	veg
+50	veg
+68	veg
+85	veg
+42	veg
+36	veg
+1	veg
+36	veg
+21	veg
+38	veg
+18	veg
+36	veg
+41	veg
+31	veg
+52	veg
+47	veg
+68	veg
+5	veg
+39	veg
+59	veg
+40	veg
+33	veg
+15	veg
+45	veg
+59	veg
+50	veg
+58	veg
+52	veg
+43	veg
+80	veg
+40	veg
+53	veg
+15	veg
+2	veg
+38	veg
+54	veg
+13	veg
+28	veg
+9	veg
+56	veg
+35	veg
+14	veg
+28	veg
+46	veg
