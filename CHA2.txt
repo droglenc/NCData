@@ -1,0 +1,88 @@
+# CHA2.txt
+#
+# Data was originally collected by Melanie McCahey for the Winter,2007 Biometry class.
+# Data was collected from the Cheqauamegon Humane Association.
+#
+# age: age category of cat (adult, kitten)
+# sex: sex of cat (female, male)
+# days: days before adopted
+#
+age	sex	days
+adult	female	208
+adult	female	29
+adult	female	53
+adult	female	42
+adult	female	21
+adult	female	78
+adult	female	14
+adult	female	16
+adult	female	97
+adult	female	3
+adult	female	100
+adult	female	36
+adult	female	85
+adult	female	42
+adult	female	7
+adult	female	30
+adult	female	0
+adult	female	10
+adult	female	19
+adult	female	68
+adult	female	15
+adult	female	15
+adult	female	68
+adult	female	8
+adult	male	198
+adult	male	67
+adult	male	30
+adult	male	7
+adult	male	10
+adult	male	12
+adult	male	12
+adult	male	5
+adult	male	47
+adult	male	31
+adult	male	32
+adult	male	3
+adult	male	21
+adult	male	6
+kitten	female	16
+kitten	female	29
+kitten	female	29
+kitten	female	23
+kitten	female	31
+kitten	female	139
+kitten	female	30
+kitten	female	14
+kitten	female	28
+kitten	female	9
+kitten	female	11
+kitten	female	66
+kitten	female	49
+kitten	female	36
+kitten	female	9
+kitten	female	36
+kitten	female	51
+kitten	female	65
+kitten	female	22
+kitten	female	25
+kitten	female	32
+kitten	female	19
+kitten	female	16
+kitten	male	13
+kitten	male	13
+kitten	male	28
+kitten	male	63
+kitten	male	73
+kitten	male	91
+kitten	male	34
+kitten	male	78
+kitten	male	12
+kitten	male	66
+kitten	male	66
+kitten	male	20
+kitten	male	49
+kitten	male	22
+kitten	male	0
+kitten	male	19
+kitten	male	53

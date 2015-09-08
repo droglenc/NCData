@@ -1,0 +1,57 @@
+# CarMPG.txt  (tab-delimited)
+#
+# Industry-reported summaries for the make of a car.
+#
+#   mpg = Miles per gallon of gasoline for the car.
+#   weight = Weight of car in pounds.
+#   dfat = Drive-ratio of car.
+#   hp = Horsepower of the car engine.
+#   disp = Displacement of the car engine in cubic inches.
+#   type = Type of origin of the car: Domestic is built in U.S.,
+#             Import is built in Europe or Japan
+#   cyl = Cylinders of the car engine.  Only three choices (four, six, or eight),
+#             so consider this to be categorical.
+#
+mpg	weight	drat	hp	disp	type	cyl
+16.2	3410	3.58	133	163	Import	Six
+17.1	3450	3.48	135	154	Import	Six
+20.3	2830	3.90	103	131	Import	Six
+21.5	2600	3.64	110	121	Import	Four
+30.5	2190	3.70	78	97	Import	Four
+30.0	2290	3.80	82	102	Import	Four
+31.9	1925	3.78	71	89	Import	Four
+31.5	1990	3.78	71	89	Import	Four
+37.3	2130	3.10	69	91	Import	Four
+31.8	2020	3.70	65	85	Import	Four
+32.0	1980	3.60	71	80	Import	Four
+27.2	2300	3.54	97	119	Import	Four
+22.0	2815	3.70	97	146	Import	Six
+35.1	1915	2.97	80	98	Import	Four
+29.5	2135	3.05	68	98	Import	Four
+34.1	1975	3.73	65	86	Import	Four
+27.5	2560	3.05	95	134	Domestic	Four
+21.6	2795	3.77	115	121	Domestic	Four
+20.8	2700	3.60	120	114	Domestic	Four
+17.0	3140	3.50	125	163	Domestic	Six
+18.1	3410	2.73	120	258	Domestic	Six
+27.4	2670	3.08	80	121	Domestic	Four
+20.6	3380	2.73	105	231	Domestic	Six
+16.9	4360	2.73	155	350	Domestic	Eight
+28.4	2670	2.53	90	151	Domestic	Four
+30.0	2155	3.70	68	98	Domestic	Four
+17.0	3840	2.41	130	305	Domestic	Eight
+28.8	2595	2.69	115	173	Domestic	Six
+19.2	3605	2.56	125	267	Domestic	Eight
+18.5	3940	2.45	150	360	Domestic	Eight
+18.6	3620	2.71	110	225	Domestic	Six
+30.9	2230	3.37	75	105	Domestic	Four
+18.2	3830	2.45	135	318	Domestic	Eight
+15.5	4054	2.26	142	351	Domestic	Eight
+17.6	3725	2.26	129	302	Domestic	Eight
+26.5	2585	3.08	88	140	Domestic	Four
+21.9	2910	3.08	109	171	Domestic	Six
+16.5	3955	2.26	138	351	Domestic	Eight
+20.8	3070	3.08	85	200	Import	Six
+26.8	2700	2.84	115	173	Import	Six
+34.2	2200	3.37	70	105	Import	Four
+33.5	2556	2.69	90	151	Import	Four

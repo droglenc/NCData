@@ -1,0 +1,36 @@
+# Gentoo1.txt
+#
+# Data extracted from Figure 4 in Trathana, P.N., J. Forcada, R. Atkinsonb, R.H. Downiea,
+#   and J.R. Shears.  2008.  Population assessments of gentoo penguins (Pygoscelis papua)
+#   breeding at an important Antarctic tourist site, Goudier Island, Port Lockroy, Palmer
+#   Archipelago, Antarctica.  Biological Conservation 141:3019-3028.
+#
+# year: year of study
+# occupied: number of nests occupied by breeding pairs.
+# type: type of colongy -- visited by tourists or not (control).
+#
+year occupied type
+1997 559 visited
+1998 545 visited
+1999 545 visited
+2000 600 visited
+2001 682 visited
+2002 308 visited
+2003 534 visited
+2004 464 visited
+2005 429 visited
+2006 454 visited
+2007 397 visited
+2008 427 visited
+1997 166 control
+1998 158 control
+1999 158 control
+2000 181 control
+2001 226 control
+2002 92 control
+2003 240 control
+2004 222 control
+2005 216 control
+2006 226 control
+2007 156 control
+2008 193 control

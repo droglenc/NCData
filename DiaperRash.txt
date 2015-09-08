@@ -1,0 +1,22 @@
+# DiaperRash.txt
+#
+# Ten infants were involved in a study to determine the effectiveness of two medications
+#   for the treatment of diaper rash.  For each baby, two areas of approximately the same
+#   size and rash severity were selected and one area was treated with medication A and
+#   the other with medication B.  The number of hours for the rash to disappear was recorded
+#   for each medication and each infant. 
+#
+# areaA: time (h) for rash to disappear with medication A
+# areaB: time (h) for rash to disappear with medication B
+#
+areaA	areaB
+46	43
+50	49
+46	48
+51	47
+43	40
+45	40
+47	47
+48	44
+46	41
+48	45

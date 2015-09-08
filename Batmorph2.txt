@@ -1,0 +1,80 @@
+# Batmorph2.txt
+# 
+# Extracted from Table 1 of Hutcheon, J.M.,  J.A.W. Kirsch, T. Garland Jr.  2002.  
+#   A Comparative Analysis of Brain Size in Relation to Foraging Ecology and Phylogeny
+#   in the Chiroptera.  Brain, Behavior, and Evolution. 60:165–180.
+#
+# species: species name
+# diet: factor for feeding behavior – phytophage, gleaner, aerial.insectivore, vampire
+# bodywt: bat body weight (g)
+# brainwt: bat brain weight (ug)
+# audnuc: bat auditory nucleus volume (mm^3)
+# mob: bat main olfactory bulb volume (mm^3)
+# hippo: bat hippocampus volume (mm^3)
+#
+# The authors removed the vampire bats from regression analyses.
+#
+species	diet	bodywt	brainvol	audnuc	mob	hippo
+Rousettus_aegyptiacus	phytophage	136.30	2070.00	9.88	105.77	125.97
+Epomops_franqueti	phytophage	120.00	2210.00	10.44	107.80	159.80
+Eonycteris_spelaea	phytophage	58.70	1310.00	5.48	67.00	97.70
+Cynopterus_sphinx	phytophage	48.30	1184.33	4.77	65.27	95.40
+Dobsonia_praedatrix	phytophage	184.00	3028.00	7.09	213.43	233.30
+Eidolon_helvum	phytophage	262.00	4290.00	12.77	208.70	258.10
+Pteropus_vampyrus	phytophage	1014.00	9121.00	16.93	243.54	331.29
+Macroglossus_miniumus	phytophage	14.60	561.00	2.40	30.05	52.95
+Syconycteris_australis	phytophage	14.70	570.00	2.13	31.40	53.10
+Nyctimene_albiventer	phytophage	29.70	825.00	4.56	68.93	81.40
+Brachyphylla_cavernarum	phytophage	44.50	1196.00	8.63	42.20	78.80
+Lionycteris_spurrelli	phytophage	9.90	393.00	3.71	10.30	29.50
+Glossophaga_soricina	phytophage	10.60	414.00	3.74	12.20	35.00
+Leptonycteris_curasoae	phytophage	24.50	610.00	5.57	18.60	44.95
+Anoura_geofroyi	phytophage	16.00	586.00	5.20	14.15	41.40
+Phylloderma_stenops	phytophage	46.10	1338.00	10.20	87.40	91.70
+Phyllostomus_haustatus	phytophage	90.10	1517.00	12.74	34.33	65.60
+Mimon_crenulatum	phytophage	11.80	326.00	5.92	7.30	18.20
+Trachops_cirrhosus	phytophage	36.90	1003.00	16.34	23.50	50.60
+Tonatia_bidens	phytophage	27.67	684.67	13.37	17.96	28.30
+Vampyrum_spectrum	phytophage	173.00	2587.00	27.60	92.00	110.40
+Micronycteris_brachyotis	phytophage	8.98	319.00	4.19	13.85	17.10
+Carollia_perspicillata	phytophage	17.80	546.00	5.27	23.55	40.75
+Rhinophlylla_pumilio	phytophage	8.90	356.00	4.57	18.80	30.30
+Sturnira_lilium	phytophage	20.20	618.00	4.77	30.77	49.73
+Artibeus_lituratus	phytophage	41.00	1016.00	7.21	34.38	54.90
+Uroderma_bilobatum	phytophage	16.20	612.00	5.98	28.70	42.70
+Vampyrops_vittatus	phytophage	22.60	791.00	11.56	29.22	52.46
+Chiroderma_villosum	phytophage	26.10	814.00	7.95	28.75	47.58
+Pteronotus_parnelli	gleaner	20.20	543.00	5.52	7.98	22.23
+Rhinolophus_landeri	gleaner	6.30	208.00	4.88	4.83	20.89
+Hipposideros_commersoni	gleaner	101.90	750.00	8.79	9.50	27.68
+Aselliscus_stoiczkanus	gleaner	4.90	150.00	2.72	1.88	11.60
+Triaenops_persicus	gleaner	13.70	271.00	4.07	5.22	17.40
+Megaderma_spasma	aerial.insectivore	22.60	644.00	10.56	14.25	35.85
+Macroderma_gigas	aerial.insectivore	119.80	1704.00	22.36	21.60	68.90
+Cardioderma_cor	aerial.insectivore	26.00	670.00	10.81	8.07	32.30
+Lavia_frons	aerial.insectivore	23.40	644.00	10.92	4.35	25.80
+Nycteris_thebaica	aerial.insectivore	8.90	323.00	5.79	3.65	21.65
+Rhinopoma_hardwickei	aerial.insectivore	12.90	275.00	5.20	7.48	20.95
+Craseonycteris_thonglongyai	aerial.insectivore	2.56	87.00	1.84	0.66	4.80
+Mormoops_megalophylla	aerial.insectivore	15.70	386.00	4.19	6.66	27.50
+Noctilio_albiventris	aerial.insectivore	32.70	597.00	11.59	13.54	36.00
+Natalus_tumidirostris	aerial.insectivore	6.90	245.00	3.28	3.58	27.10
+Furipterus_horrens	aerial.insectivore	3.43	127.00	2.78	1.37	9.46
+Molossus_ater	aerial.insectivore	33.60	526.00	7.07	10.26	20.13
+Tadarida_condylura	aerial.insectivore	20.27	367.78	4.94	9.75	18.60
+Molossops_abrasus	aerial.insectivore	19.35	301.00	5.38	6.93	15.87
+Otomops_martiensseni	aerial.insectivore	41.50	756.00	11.41	14.30	30.60
+Cheiromeles_torquatus	aerial.insectivore	167.00	1362.00	13.20	40.50	61.20
+Saccopteryx_leptura	aerial.insectivore	7.80	228.00	3.48	1.49	9.21
+Cyttarops_alecto	aerial.insectivore	5.30	175.00	3.51	0.74	7.96
+Cormura_brevirostris	aerial.insectivore	8.20	219.00	4.37	2.28	11.20
+Peropteryx_trinitatus	aerial.insectivore	5.00	149.50	2.81	1.47	7.54
+Rhynchonycteris_naso	aerial.insectivore	3.80	118.00	2.34	0.91	5.48
+Emballonura_monticola	aerial.insectivore	5.30	166.00	3.16	1.30	8.93
+Coleura_afra	aerial.insectivore	11.50	257.00	4.08	3.98	12.40
+Taphozous_saccolaimus	aerial.insectivore	43.00	671.00	9.65	10.92	26.38
+Kerivoula_papilosa	aerial.insectivore	5.73	209.67	4.47	2.52	19.02
+Myotis_myotis	aerial.insectivore	7.00	190.00	7.50	5.23	16.24
+Miniopterus_medius	aerial.insectivore	11.71	271.22	4.77	5.31	17.28
+Desmodus_rotundus	vampire	36.30	999.00	9.77	33.00	42.40
+Diphylla_ecaudata	vampire	30.90	798.00	8.30	36.20	41.00

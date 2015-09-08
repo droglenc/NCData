@@ -1,0 +1,35 @@
+# Apples.txt
+#
+# Data from www.stat.psu.edu/~jglenn/stat505/12_2wMANOVA/12_2wMANOVA_hwk.html
+#
+# A randomized complete block design was used to investigate the effects
+#   of four fertilizer treatments on the (TN) total nitrogen, (PN) pit
+#   nitrogen, (P) phosphorus, (K) potassium, (CA) calcium, (MG) magnesium,
+#   and (Weight) mean fruit weight of apples. The four treatments were:
+#   (A) Control, (B) Urea, (C), Calcium and Potassium Nitrates, and (D) Ammonium and Sulfate.
+#
+# ttlN: total Nitrogen
+# pitN: pit Nitrogen
+# P: Phosphorous
+# K: Potassium
+# Ca: Calcium
+# Mg: Magnesium
+# wght: mean weight of apples in plot
+#
+treatment	plot	ttlN	pitN	P	K	Ca	Mg	wght
+control	1	3240	1663	836	8747	218	388	97.3
+control	2	3077	1663	891	8460	249	372	75.8
+control	3	3205	1770	831	8575	261	376	78.5
+control	4	3330	1755	889	8330	209	367	77.5
+urea	1	3755	1915	842	10375	145	408	108.2
+urea	2	5037	2180	930	10047	172	420	103.2
+urea	3	4753	2137	945	10447	160	421	95.3
+urea	4	4453	1967	850	9677	206	396	93.5
+Ca.K	1	4200	2063	869	11190	184	398	111.8
+Ca.K	2	5915	2050	1016	12060	184	461	109.7
+Ca.K	3	5193	2210	958	11733	179	428	117.3
+Ca.K	4	5347	2167	919	11910	191	420	99.6
+NH4.SO4	1	5157	2357	1062	10210	136	401	86.7
+NH4.SO4	2	7440	2975	1261	10820	122	446	85.5
+NH4.SO4	3	6950	2527	1137	9710	191	408	70.8
+NH4.SO4	4	4445	2075	846	8820	161	334	81.1

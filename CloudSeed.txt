@@ -1,0 +1,60 @@
+# CloudSeed.txt
+#
+# The effect of seeding clouds on the amount of rainfall produced was examined by randomly
+#   selecting 26 days on which to seed clouds with silver nitrate.  Clouds from another 26
+#   days were left unseeded (but a plane flew through the clouds in a manner similar to the
+#   seeding).  On each of the 52 days, the amount of rainfall was measured (in acre-feet).  
+#
+rainfall	treatment
+1203	unseed
+830	unseed
+372	unseed
+346	unseed
+321	unseed
+244	unseed
+163	unseed
+148	unseed
+95	unseed
+87	unseed
+81	unseed
+69	unseed
+47	unseed
+41	unseed
+37	unseed
+29	unseed
+29	unseed
+26	unseed
+26	unseed
+24	unseed
+23	unseed
+17	unseed
+12	unseed
+5	unseed
+5	unseed
+1	unseed
+2746	seed
+1698	seed
+1656	seed
+978	seed
+703	seed
+489	seed
+430	seed
+334	seed
+303	seed
+275	seed
+275	seed
+255	seed
+243	seed
+201	seed
+199	seed
+130	seed
+119	seed
+118	seed
+115	seed
+92	seed
+41	seed
+33	seed
+31	seed
+18	seed
+8	seed
+4	seed

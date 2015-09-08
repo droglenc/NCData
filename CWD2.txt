@@ -1,0 +1,50 @@
+# CWD2.txt
+#
+# extracted from Figure 2 of Schindler, D.E., S.I. Geib, and M.R. Williams.  2000.
+#   Patterns of Fish Growth along a Residential Development Gradient in North
+#   Temperate Lakes.  Ecosystems 3:229-237.
+# 
+# size: Size grouping of bluegils (60, 100, or 140 )
+# dwelling: Number of shoreline dwellings (no/km of shoreline)
+# cwd: Density of coarse woody debris (no/km of shoreline)
+#
+size	dwelling	growth
+60	0.0	43.2
+60	0.0	39.0
+60	0.0	36.4
+60	0.6	20.0
+60	1.9	24.8
+60	3.7	48.9
+60	4.8	26.5
+60	6.0	27.3
+60	6.8	33.5
+60	11.8	15.7
+60	12.4	24.8
+60	17.0	12.8
+60	24.6	11.7
+100	0.0	37.4
+100	0.0	31.9
+100	0.0	27.8
+100	0.6	20.1
+100	1.9	24.8
+100	3.7	30.6
+100	4.8	19.5
+100	6.0	21.4
+100	6.8	23.2
+100	11.8	15.9
+100	12.4	20.4
+100	17.0	12.8
+100	24.6	11.6
+140	0.0	37.1
+140	0.0	22.9
+140	0.0	19.7
+140	0.6	20.1
+140	1.9	24.7
+140	3.7	19.3
+140	4.8	14.6
+140	6.0	16.7
+140	6.8	16.4
+140	11.8	16.0
+140	12.4	17.1
+140	17.0	12.9
+140	24.6	11.8

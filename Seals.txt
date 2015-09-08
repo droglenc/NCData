@@ -1,0 +1,32 @@
+# Seals.txt
+#
+# from Folkow and Blix (1987; American Journal of Phsyiology)
+#   wanted to better understand the mechanisms that aided blood flow and body temperature regulation
+#   in northern gray seals (Halichoerus grypus).  To get an overall look at body temperature regulation
+#   they calculated the seals’ thermal conductivity (a measure of how easily the body loses heat) at
+#   ambient water temperatures between -40C and 20C.
+#
+# thermcond: seals’s thermal conductivity; W/(m^2*C))
+# ambtemp: ambient water temperature (C)
+#
+thermcond	ambtemp
+2.81	-40
+1.82	-40
+1.80	-40
+2.25	-30
+2.19	-30
+2.02	-30
+1.57	-30
+1.40	-30
+1.94	-20
+1.40	-20
+1.18	-20
+1.63	-10
+1.26	-10
+0.93	-10
+2.22	10
+1.97	10
+1.74	10
+4.49	20
+4.33	20
+3.10	20
