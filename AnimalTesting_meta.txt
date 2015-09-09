@@ -1,0 +1,3 @@
+# AnimalTesting.csv
+# year: Year of GSS survey (1993,2000)
+# response: Respondent's response to question "It is OK to perform tests on animals in order to save humans."

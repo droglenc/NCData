@@ -1,0 +1,6 @@
+# Wolves2.csv
+# Mladenoff et al. (1997) estimated the territory size (km2) of n=17 wolf (Canis lupis)
+#   packs and the density of whitetail deer (number/km2; Odocielius virginianus) in the
+#   same areas in northern Wisconsin.
+# terr: wolf pack territory size (square km)
+# deer: Number of deer per square km

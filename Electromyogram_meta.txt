@@ -1,0 +1,5 @@
+# Electromyogram.csv
+# from Geist et al. (2000, Transactions of the American Fisheries Society, 129:126-135)
+# O2: oxygen consumption (mg O2 / kg / h)
+# EMG: electromyogram estimates of pulse rates (pulses / min)
+# Group: small (<90 cm fork length (FL)) and large (>90 cm FL) fish

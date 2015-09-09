@@ -1,0 +1,7 @@
+# Sharks.csv
+# Originally from Dr. Andrew Taylor -- http://www2.hawaii.edu/~taylor/
+# gonadwt: weight (g) of gonads
+# totwt: total body weight(g)
+# length: total length (cm)
+# sex: sex of the shark (male, female)
+# location: location of collection (Bimini, Biscayne, Lago San Salvador, and Naples)

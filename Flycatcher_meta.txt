@@ -1,0 +1,3 @@
+# Flycather.csv
+# date: capture date (since Jan. 1)
+# winglen: wing length (mm)

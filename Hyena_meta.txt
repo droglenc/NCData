@@ -1,0 +1,7 @@
+# Hyena.csv
+# Holekamp et al. (1997; J. Wildl. Man. 78:55-64) examined the relationship between
+#   the social rank (lower numbers are more dominant) and mean association index
+#   (a measure of the amount of interaction between an animal and all other animals
+#   in a clan group) for female spotted hyenas (Crocuta crocuta).
+# socrank: social rank (lower numbers are more dominant)
+# assoc: association index

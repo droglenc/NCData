@@ -1,0 +1,9 @@
+# Tanner.csv
+# Data read from Table 1 in Zhou, S. and G.H. Kruse.  2000.  Modifications of cod pots to reduce tanner crab bycatch.  North American Journal of Fisheries Management 20:897-907.
+# trial: trial number
+# type: type of cod pot variation -- standard, slick.board, ZK.excluder, and cod.sock.
+# approach: number of tanner crabs that approached cod pots.
+# reached: number of tanner crabs that reached (insereted any body part into pot opening) the cod pots.
+# entered: number of tanner crabs that actually entered the trap completely.
+# authors compared reach probability (reached/approached) and entry probability (entered/reached)
+#  among four cod pot variation types.

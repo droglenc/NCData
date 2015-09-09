@@ -1,0 +1,9 @@
+# TreesRemoteSense1.csv
+# data extracted from Figure 5 of Sexton, J.O., T. Bax, P. Siqueira, J.J. Swenson
+#   S. Hensley.   2009.  A comparison of lidar, radar, and field measurements of canopy
+#   height in pine and hardwood forests of southeastern North America.  Forest Ecology
+#   and Management 257:1136-1147.
+# field.h: measured height (m) of the canopy in the field
+# remote.h: remotely sensed height (m) of the canopy in the field
+# method: Method of remote sensing used for that plot
+# type: type of trees (pine or hardwood) in that plot

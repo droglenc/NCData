@@ -1,0 +1,6 @@
+# LinnCoFarms.csv
+# The average size of farms in the United States is 434 acres.  The county extension agent for Linn
+#   County, IA, wanted to determine if the average size of farms in Linn County was larger than the
+#   national average.  To test this claim, the agent collected a random sample of 40 farms from Linn
+#   County and recorded the acreage for each.  In addition, the researcher assumed that the standard
+#   deviation for Linn County was the same as for the national data, which was 230 acres.

@@ -1,0 +1,11 @@
+# CarMPG.csv  (tab-delimited)
+# Industry-reported summaries for the make of a car.
+#   mpg = Miles per gallon of gasoline for the car.
+#   weight = Weight of car in pounds.
+#   dfat = Drive-ratio of car.
+#   hp = Horsepower of the car engine.
+#   disp = Displacement of the car engine in cubic inches.
+#   type = Type of origin of the car: Domestic is built in U.S.,
+#             Import is built in Europe or Japan
+#   cyl = Cylinders of the car engine.  Only three choices (four, six, or eight),
+#             so consider this to be categorical.

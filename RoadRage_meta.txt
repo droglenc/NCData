@@ -1,0 +1,5 @@
+# RoadRage.csv
+# day: Day on which road rage was reported
+# Data taken from Weiss, N.A.  2002.  Elementary Statistics.  Addison Wesley. p. 537.
+# Data originally from Rathbone, D.B. and J.C .Huckabee.  1999.  Controlling Road Rage: A 
+#   Literature Review and Pilot Study.  AAA Foundation for Traffic Safety

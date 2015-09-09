@@ -1,0 +1,8 @@
+# TreesRemoteSense2.csv
+# data extracted from Figure 6 of Sexton, J.O., T. Bax, P. Siqueira, J.J. Swenson
+#   S. Hensley.   2009.  A comparison of lidar, radar, and field measurements of canopy
+#   height in pine and hardwood forests of southeastern North America.  Forest Ecology
+#   and Management 257:1136-1147.
+# SRTM.h: remotely sensed height (m) of the canopy using SRTM
+# reference.h: reference height (m) of the canopy in the field
+# type: type of trees (pine or hardwood) in that plot

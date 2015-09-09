@@ -1,0 +1,3 @@
+# Wastewater Treatment plant effluent BOD data
+# BOD in lbs/day (averaged for the month)
+# from http://members.aol.com/erikschiff/effluent_data.htm

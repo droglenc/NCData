@@ -1,0 +1,3 @@
+# molt.csv
+# date: start date of molt for wood thrush (days since July 1)
+# duration: duration of molt (days)

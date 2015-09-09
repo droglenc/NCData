@@ -1,0 +1,3 @@
+# PikeDace.csv
+# dace.wt: weight of dace eaten (in grams) divided by pike initial weight
+# pike.wtinc: weight increase of pike (in grams) divided by pike initial weight

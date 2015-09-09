@@ -1,0 +1,25 @@
+# RuffeLarvalDiet.csv
+# Data from Ogle, D.H., B.A. Ray, and W.P. Brown.  2004.  Diet of larval ruffe (Gymnocephalus
+#   cernuus) in the St. Louis River Harbor, Lake Superior.  Journal of Great Lakes Research
+#   30:287-292.
+# date.code: A date code (1=3rd week of May, 2=Last week of May, 3=1st week of June,
+#                         4=2nd week of June, 5= 3rd week of June, 6=Last week of June)
+# loc: Location of capture (Allouez or Whaleback)
+# loc.date: A combination of location and date.
+# len: ruffe length (mm).
+# o.cope: A logical indicating the occurrence of copepods.
+# o.daph: A logical indicating the occurrence of Daphnia.
+# o.bosm: A logical indicating the occurrence of Bosmina.
+# o.eubosm: A logical indicating the occurrence of Eubosmina.
+# o.chyd: A logical indicating the occurrence of chydorids.
+# o.osta: A logical indicating the occurrence of ostracods.
+# o.diaph: A logical indicating the occurrence of Diaphanasoma.
+# o.other: A logical indicating the occurrence of other items.
+# n.cope: The number of observed copepods.
+# n.daph: The number of observed Daphnia.
+# n.bosm: The number of observed Bosmina.
+# n.eubosm: The number of observed Eubosmina.
+# n.chyd: The number of observed chydorids.
+# n.osta: The number of observed ostracods.
+# n.diaph: The number of observed Diaphanasoma.
+# n.other: The number of observed other items.

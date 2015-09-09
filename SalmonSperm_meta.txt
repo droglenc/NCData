@@ -1,0 +1,9 @@
+# SalmonSperm.csv
+# Examined the relationship between sperm tail length and probability of fertilization for 
+#   Atlantic Salmon adults and precocious parr.
+#  step.len: Sperm tail end piece length (um)
+#  fert.succ: Fertilization success
+#  mat: maturity stage -- Adult or Parr
+# Data visually estimted from Fig. 6 of Vladic, T.V., B.A. Afzelilus, and G.E. Bronnikov.  
+#   2002.  Sperm quality as reflected through morphology in salmon alternative life 
+#   histories.  Biology of Reproduction 66:98-105.

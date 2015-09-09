@@ -1,0 +1,6 @@
+# BirdAge.csv
+# extracted from figure 5 in Holmes, D. and K. Martin.  2009.  A bird's-eye view of aging:
+#   What's in it for ornithologists.  The Auk 126:1–23.
+# age: age (years)
+# tel.len: telomere length (bp)
+# species: species of bird

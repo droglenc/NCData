@@ -1,0 +1,4 @@
+# Average daily temperatures (C) at the PILM and buoy 45001 stations in Lake Superior.
+#  YYMMDD --> date
+#  PILM   --> Passage Island Lighthouse station
+#  b45001 --> buoy 45001 station

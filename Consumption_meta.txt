@@ -1,0 +1,15 @@
+# Consumption.csv
+#
+# Population size biomass and annual consumption for a wide variety of
+#  fish species from a wide variety of water bodies.
+#    species: species of fish
+#    loc: water body
+#    year: year of estimates
+#    size: population size (in numbers)
+#    biomass: population biomass (in kg)
+#    consumption: annual consumption by the population (in kg)
+#
+# Data taken from table 1 of Liao at al. 2005.  An Empirical Model for Estimating
+#   Annual Consumption by Freshwater Fish Populations.  North American Journal of
+#   Fisheries Management, 25:525-532.
+#

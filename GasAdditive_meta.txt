@@ -1,0 +1,4 @@
+# GasAdditive.csv
+# A gasoline additive is added to the gas in certain cairs and the mpg is recorded.
+#   w.add: mpg of the car with the additive.
+#  wo.add: mpg of the car without the additive.

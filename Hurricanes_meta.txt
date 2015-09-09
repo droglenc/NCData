@@ -1,0 +1,2 @@
+# Hurricanes.csv
+# num.hurr: The number of hurricanes reaching the East Coast of the U.S. over a 70-year period.

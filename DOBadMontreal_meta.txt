@@ -1,0 +1,9 @@
+# DOBadMontreal.csv
+#
+# Dissolved oxygen levels at various times for station 270004 on the Bad/Montreal River watersheds.
+#  Date: date of measurement
+#  Time: time of measurement
+#  DO: dissolved oxygen measurement (mg/L)
+#
+# Data from http://www.gis.iwr.msu.edu/storet/default.htm
+#

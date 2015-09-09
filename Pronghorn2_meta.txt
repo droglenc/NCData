@@ -1,0 +1,3 @@
+# Pronghorn2.csv
+# originally from Marcus J. Hamilton at http://www.unm.edu/~marcusj/1Samplet.pdf
+# riblen: rib length (cm)

@@ -1,0 +1,7 @@
+# FlyingFox1.csv
+# Extracted from figure 1 of Welbergen, J.A.  2010.  Growth, bimaturation,
+#   and sexual size dimorphism in wild gray-headed flying foxes (Pteropus
+#   poliocephalus).  Journal of Mammalogy 91:38-47.
+# forearm.len: forearm length in mm
+# body.mass: body mass in grams
+# sex: sex (male, female)

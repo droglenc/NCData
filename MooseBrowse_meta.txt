@@ -1,0 +1,12 @@
+# MooseBrowse.csv
+# The height of Scots pine trees in three treatment groups
+#   height: height of tree (cm)
+#   treat: the treatment group
+#     Control: no manipulation
+#     Fertilized: 60g of nitrogen (ammonium nitrate) was applied to the soil within a 2-m
+#                 radius of each tree at the beginning of the growing season
+#     Clipped: all shoots produced in the previous growing year were removed
+#     Shaded: the top- and lateral-most branches were covered with a shade cloth that reduced
+#             the light intensity by 50% in the 400-700 nm wavelengths.
+# Data from Edenius, L. 1993. Browsing by moose on Scots pine in relation to plant resource
+#  availability. Ecology 74:2261-2269.

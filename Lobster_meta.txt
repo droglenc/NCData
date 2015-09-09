@@ -1,0 +1,8 @@
+# Lobster.csv
+# estimated from Figure 2 of Emmerson, W. and S. Philip.  2004.  Diets of Cape clawless otters at two
+#   South African coastal localities.  African Zoology, 39(2): 201-210.
+# lobster: a unique identifier for the lobster that was measured
+# side: side of mandible that was measured
+# carapace: carapace length (mm)
+# mandible: mandible width (mm)
+# note that data are paired by lobster number

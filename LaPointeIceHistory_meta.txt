@@ -1,0 +1,4 @@
+# LaPointeIceHistory.csv
+# from Burke Henry, Madeline Island Resident (via Dean Rick Fairbanks)
+# year: last year of ice season (e.g., 1964 is 1963-64)
+# ice: total number of days with ice between Bayfield and La Pointe, Madeline Island, Lake Superior.

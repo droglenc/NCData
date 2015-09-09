@@ -1,0 +1,4 @@
+# CoyoteHowls.csv
+# conveniently observed coyotes from an area in Colorado
+# simulated from Table 2 in Coyotes: Biology, Behavior, and Management).   
+# howllen: howl length (seconds)

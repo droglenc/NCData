@@ -1,0 +1,5 @@
+# CloudSeed.csv
+# The effect of seeding clouds on the amount of rainfall produced was examined by randomly
+#   selecting 26 days on which to seed clouds with silver nitrate.  Clouds from another 26
+#   days were left unseeded (but a plane flew through the clouds in a manner similar to the
+#   seeding).  On each of the 52 days, the amount of rainfall was measured (in acre-feet).  

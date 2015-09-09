@@ -1,0 +1,6 @@
+# CoyoteRemoval.csv
+# Byers (1997; J. Mammology 78:894-899) examined the relationship between the survival
+#   of young pronghorn antelope (Antilocapra americana) and the number of coyotes
+#   (Canis latrans) removed by the U.S. Fish and Wildlife Service.
+# surv: antelope survival (percentage)
+# coy.removed: number of coyotes removed

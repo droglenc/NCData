@@ -1,16 +1,3 @@
-# WetlandPlants.txt
-#
-# from Appendix 1 of Shipley, B. and M. Parent.  1991.  Germination response of 64 wetland species in relation to seed
-#   size, minimum time to reproduction and seedling relative growth rate.  Functional Ecology, 5:111-118.
-#
-# species: scientific name
-# L: lag time (days from the beginning of the experiment until first seed germination)
-# Gmax: maximum germination rate (% per day) -- maximum proportion of germinable seeds that germinate in 1 day
-# G: final germination percent -- percent of the seeds that had germinated by end of 30-d experiment
-# S: seed weight (10e-5 g) -- averaged over at least 25 seeds
-# R: seedling relative growth rate (g/g/d)
-# type: classification type (OP=obligate perennials, FA=facultative annuals, OA=obligate annuals
-# 
 species,L,Gmax,G,S,R,type
 Acorus calamus,6,0.13,91,91,0.17,OP
 Agostis stolonifera,4,0.1,52,5,0.28,FA

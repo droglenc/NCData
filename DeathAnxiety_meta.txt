@@ -1,0 +1,5 @@
+# DeathAnxiety.csv
+# Death Anxiety Scale (DAS) is a measure of an individual's anxiety concerning death.  A
+#   researcher (Death Studies, 1990) examined 25 organ donors and 69 non-organ donors to
+#   determine if there was a difference in anxiety levels concerning death between these
+#   groups of people.  

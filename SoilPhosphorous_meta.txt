@@ -1,0 +1,17 @@
+# SoilPhosphorous.csv
+# Soil phosphorous is important for the invasion of native vegatation by exotic weeds.
+# Clements (1983) studied the soil phosphorous in the Sydney region (Australia) to determine
+# how soil phosphorous varied with topographical location and soil type.
+# Bushland sites were chosen in Brisbane Waters National Park, Ku-ring-gai Chase National
+# Park and Royal National Park.  These areas were relatively unaffected by suburban development,
+# were free from immediate roadside or track effects, and had not been burned for at least
+# two years.  Shale-derived and sandstone-derived soils in four topographic locations were
+# examined with three 250 m^2 quadrats in each of eight combinations of soil type and
+# topography.  Cores of soil of 75 mm depth and 25 m dameter, free from surface litter, were
+# collected from each of five randomly selected points in each quadrat.  The five soil
+# samples were pooled and the total soil phosphorous (ppm) was determined for each pooled
+# sample.
+# data from aaerg.canberra.edu.au/envirostats/bm/L5/SASBook_5_we2.pdf
+# soil: soil type (shale or sandstone)
+# topo: topographic location (valley, north, south, or hilltop)
+# phos: soil phosphorous level (ppm)

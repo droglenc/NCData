@@ -1,0 +1,3 @@
+# Deer1.csv
+# precip: mean precipitation (mm)
+# fawns: mean number of fawns per 100 does

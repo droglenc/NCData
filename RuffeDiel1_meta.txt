@@ -1,0 +1,10 @@
+# RuffeDiel1.csv
+# From my M.S. thesis.  This is the first of 6 diel samples.
+# sernum: unique serial number (for each fish)
+# mon: month of collection
+# per: time period of collection (in h; note that 2900 is 0500 on next day)
+# strata: habitat strata (fl=Flats, un=Undredged)
+# len: total length (mm)
+# wt: weight (grams)
+# sex: sex of fish (f=Female, m=Male)
+# contwt: weight of stomach contents (grams)

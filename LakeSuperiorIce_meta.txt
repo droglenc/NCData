@@ -1,0 +1,9 @@
+# Lake Superior Ice at Gauge Station 9004  (lat/long=N46.48/W84.62)
+# Source: QELP web page
+# Original Source:  National Snow and Ice Data Center:  www.nsidc.org
+# Temp data at Station 205816 (lat/long = N46.20/W85.30)
+# Source:  Unites States Historical Climate Network:  http://www.ncdc.noaa.gov/ol/climate/research/ushcn/ushcn.html
+# season: First year of the ice season, e.g., 1955 is the 1955-1956 season
+# decade: decade of ice season
+# temp: Mean Dec-Apr temperature for the season
+# days: Number of days of ice for the season

@@ -1,0 +1,12 @@
+# Batmorph2.csv
+# Extracted from Table 1 of Hutcheon, J.M.,  J.A.W. Kirsch, T. Garland Jr.  2002.  
+#   A Comparative Analysis of Brain Size in Relation to Foraging Ecology and Phylogeny
+#   in the Chiroptera.  Brain, Behavior, and Evolution. 60:165–180.
+# species: species name
+# diet: factor for feeding behavior – phytophage, gleaner, aerial.insectivore, vampire
+# bodywt: bat body weight (g)
+# brainwt: bat brain weight (ug)
+# audnuc: bat auditory nucleus volume (mm^3)
+# mob: bat main olfactory bulb volume (mm^3)
+# hippo: bat hippocampus volume (mm^3)
+# The authors removed the vampire bats from regression analyses.

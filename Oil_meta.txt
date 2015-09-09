@@ -1,0 +1,9 @@
+# Oil.csv
+# Data from www.stat.psu.edu/~jglenn/stat505/14_discrim/14_discrim_hwk.html
+# Crude oil samples were analyzed from three zones of sandstone.  Measurements
+#  recorded on each sample were 
+# vanadium:
+# iron
+# beryllium
+# sat.hc: saturated hydrocarbons
+# arom.hc: aromatic hydrocarbons

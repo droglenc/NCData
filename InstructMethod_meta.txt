@@ -1,0 +1,3 @@
+# InstructMethod.csv
+# Score for stutdents in one of two learning types (lecture and self-study) with one of two instructors (A or B).
+# I don't remember the source -- scores probably randomly generated from summary results.

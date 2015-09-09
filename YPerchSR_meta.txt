@@ -1,0 +1,7 @@
+# YPerchSR.csv
+# data from Brazner,J.C. et al.  2004.  Reconstructing habitat use and wetland nursery origin of
+#   yellow perch from Lake Superior using otolith elemental analysis.  Journal of Great Lakes
+#   Research 30:492-507.
+# len: length of the fish (cm)
+# sr: strontium concentration in otolith (ug/g)
+# loc: location of sample (nearshore or wetland)

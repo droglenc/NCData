@@ -1,0 +1,9 @@
+# Caffeine.csv
+# A study of the effect of caffeine on muscle metabolism used 36 male volunteers who
+#   each underwent arm exercise tests.  Eighteen of the men were randomly selected to
+#   take a capsule containing pure caffeine one hour before the test.  The other men
+#   received a placebo capsule.  During each exercise the subject's respiratory exchange
+#   ratio (RER) was measured. [RER is the ratio of CO2 produced to O2 consumed and is an
+#   indicator of whether energy is being obtained from carbohydrates or fats).
+# RER: respiratory exchange ratio
+# treatment: treatment group (caffeine or placebo)

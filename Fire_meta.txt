@@ -1,0 +1,11 @@
+# Fire.csv
+# data from appendix 1 in Hely,C., Y. Bergeron, and M.D. Flannigan. 2000. Effects of Stand
+#   Composition on Fire Hazard in Mixed-Wood Canadian Boreal Forest. Journal of Vegetation
+#   Science 11:813-824.
+# data originally typed by Virginia (Jenny) Robinson, Biometry class Winter 2007
+# sttype: stand type (d=deciduous, c=coniferous, mc=mixed-coniferous, md=mixed-deciduous)
+# tslf: time since last fire (treated as factor by 100 yr blocks)
+# tdw: total dead wood (tons/ha)
+# litdep: litter depth (cm)
+# fuel1h: 1-h time lag in fuel (tons/ha)
+# tltd: total live tree density (stems/ha)

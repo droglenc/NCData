@@ -1,0 +1,7 @@
+# Alligators1.csv
+# Source: estimated from figure 6b of Erickson, G.M., A.K. Lappin, T. Parker, and K.A. Vliet.  2004.
+#   Comparison of bite-force performance between long-term captive and wild American alligators
+#   (Alligator mississippiensis).  Journal of Zoology, 262:21-28.
+# type: type of alligator (wild or captive)
+# svl: snout-vent length (cm)
+# mass: body mass (kg)

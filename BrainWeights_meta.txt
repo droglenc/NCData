@@ -1,0 +1,10 @@
+# BrainWeights.csv
+#
+# from Weisberg's Applied Linear Regression book
+#
+# species: species name
+# brain: average brain weight
+# body: average body weight
+# gestation: average gestation length (days)
+# litter: average litter size
+#

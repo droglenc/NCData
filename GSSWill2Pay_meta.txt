@@ -1,0 +1,6 @@
+# GSSWill2Pay.csv
+# Extracted from the GSS.
+# degree: respondent's highest educational degree
+# grnsol: How willing the respondent is to accept cuts in their standard of living in order to protect the environment?
+# fdegree <- factor(degree,levels=c("ltHS","HS","JC","BS","grad"))
+# fgrnsol <- factor(grnsol,levels=c("vwill","will","neither","un","vun"))

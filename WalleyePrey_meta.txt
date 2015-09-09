@@ -1,0 +1,7 @@
+# WalleyePrey.csv
+# Data extracted from figure 2b in Kaufman, S.D., G.E. Morgan, and J.M. Gunn.  2009.
+#   The role of ciscoes as prey in the trophy growth potential of walleyes.  North
+#   American Journal of Fisheries Management 29:468-477.
+# waeTL: total length (mm) of walleye
+# preyTL: total length (mm) of prey item
+# prey: type of prey item (perch or cisco)

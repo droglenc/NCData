@@ -1,13 +1,3 @@
-# BrainWeights.csv
-#
-# from Weisberg's Applied Linear Regression book
-#
-# species: species name
-# brain: average brain weight
-# body: average body weight
-# gestation: average gestation length (days)
-# litter: average litter size
-#
 species,brain,body,gestation,litter
 Quokka,17.5,3.5,26,1
 Hedgehog,3.5,0.93,34,4.6

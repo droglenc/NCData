@@ -1,0 +1,3 @@
+# Chimps.csv
+# huntparty: Number of chimps in hunting party
+# percsucc: Percentage of hunting trips that are successful

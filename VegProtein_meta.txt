@@ -1,0 +1,7 @@
+# VegProtein.csv
+# The daily protein intake was measured on 51 female vegetarians and 53 female omnivores 
+#   in Taiwan.
+# protein: daily protein intake in g
+# diet: type of diet (omni=omnivore, veg=vegetarian)
+# Data taken from Weiss, N.A. 2002.  Elementary Statistics.  Addison Wesley. p.452.
+# Dara originally from Lu, X. et al.  2000.  Journal of Nutrition.  130:1591-1596.

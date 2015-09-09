@@ -1,0 +1,6 @@
+# CrabClaw.csv
+# Closing force and propodus height (mm) for three species of crabs.
+#   spec: species of crab (cp = Cancer products, lb = Lophopanopeus bellus, and hn = Hemigrapsus nudus)
+#   propodus: propodus height (mm)
+#   force: closing force
+# from Statistical Sleuth, p. 195.

@@ -1,0 +1,3 @@
+# Data from North Fish Creek near Ashland, WI
+#  collected from http://nwis.waterdata.usgs.gov/wi/nwis/qwdata/?site_no=040263491
+# Units on suspended sediment is mg/L

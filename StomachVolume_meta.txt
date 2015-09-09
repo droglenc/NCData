@@ -1,0 +1,8 @@
+# StomachVolume.csv
+# Extracted with extract.data() from Figure 1bc in Pirhonen, J. and J. Koskela.  2005.
+#   Indirect estimation of stomach volume of rainbow trout Oncorhynchus mykiss (Walbaum).
+#   Aquaculture Research, 36:851-856.
+# bodymass: fish body mass (g)
+# stvol: fish stomach volume (ml)
+# stcont: fish stomach content dry mass weight (g)
+# treat: days of starvation treatment factor -- 1d, 4d, 8d, or 16d

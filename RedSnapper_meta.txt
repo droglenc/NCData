@@ -1,0 +1,7 @@
+# RedSnapper.csv
+# data simulated from Rummer, J.J. and W.A. Bennett.  2005.  Physiological effects of swim bladder
+#   overexpansion and catastrophic decompression on red snapper.  Transactions of the American
+#   Fisheries Society 134:1457-1470.
+# data found/simulated by Jennifer Courtwright, Biometry, Winter 2008.
+# volume: total geometric volume of the swimbladder
+# pressure: pressure treatment -- control (101.1 kPa), low (405.3 kPa), medium (608.0 kPa), and high (1215.9 kPa)

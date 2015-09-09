@@ -1,0 +1,4 @@
+# ConcreteCure.csv
+# Concrete road pavement gains strength over time as it cures.  Highway builders use a
+#   regression to predict the strength (pounds per square inch; psi) of the  concrete
+#   after 28 days (when curing is complete; STR28) from measurements made after 7 days (STR7).

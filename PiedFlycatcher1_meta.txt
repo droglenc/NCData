@@ -1,0 +1,6 @@
+# PiedFlycatcher1.csv
+# simulated from results in Figure 1a of Sanz, J.J. 2001.  Experimantally reduced male attractiveness increases parental 
+#   care in the pied flycatcher Ficedula hypoleuca.  Behavioral Ecology 12:171-176.
+# csm: clutch size manipulation factor (reduced, control, or enlarged group).
+# fh: forehead manipulation factor (unmanipulated, reduced).
+# mfr: male feeding rate (feedings per hour) on day 13 after brood hatching.

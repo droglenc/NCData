@@ -1,0 +1,3 @@
+# BirthWeight.csv
+# Researchers (1998; Journal of School Health 271-274) examined the relationship between
+#   the birth weight (grams) and the mother's age (years) for babies born to young mothers.

@@ -1,0 +1,5 @@
+# LKTCPEMI.csv
+# Geometric mean catch-per-unit-effort of lean lake trout in all waters of Michigan from 1929-1998.
+# Data was extracted from Figure 2 in Wilberg, M.J., M.J. Hansen, and C.R. Bronte.  2003.  Historic
+#   and modern abundance of wild lean lake trout in Michigan waters of Lake Superior: Implications
+#   for restoration goals.  North American Journal of Fisheries Management 23:100–108.

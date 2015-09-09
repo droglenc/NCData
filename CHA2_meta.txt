@@ -1,0 +1,6 @@
+# CHA2.csv
+# Data was originally collected by Melanie McCahey for the Winter,2007 Biometry class.
+# Data was collected from the Cheqauamegon Humane Association.
+# age: age category of cat (adult, kitten)
+# sex: sex of cat (female, male)
+# days: days before adopted

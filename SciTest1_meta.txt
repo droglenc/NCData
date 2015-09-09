@@ -1,0 +1,16 @@
+# SciTest1.csv
+# Data from the General Sociological Survey (GSS)
+#   degree: highest completed degree
+#     lt.hs = less than high school
+#     hs = high school
+#     jc = junior college
+#     bach = bachelor's degree
+#     grad = graduate degree
+#   scitest: Opinion about truth of "All radioactivity is made by humans"
+#     def.true = definitely true
+#     prob.true = probably true
+#     prob.not = probably not ture
+#     def.not = definitely not true
+# When loaded into R the levels of these ordinal variables should be set
+#   degree <- factor(degree,levels=c("lt.hs","hs","jc","bach","grad"))
+#   scitest <- factor(scitest,levels=c("def.not","prob.not","prob.true","def.true"))

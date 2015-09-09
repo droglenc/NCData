@@ -1,0 +1,7 @@
+# Marsupial1.csv
+# Data extracted with extract.data() from Figure 1A of Wroe, S., T. Myers, F. Seebacher,
+#   B. Kear, A. Gillespie, M. Crowther, and S. Salisbury.  2003.  An alternative method
+#   for predicting body mass: the case of the Pleistocene marsupial lion.  Paleobiology, 
+#  29(3):403–411.
+# brain: brain weight (g)
+# body: body weight (g)

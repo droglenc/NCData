@@ -1,0 +1,10 @@
+# Petrels.csv
+#
+# Data from Croxall J.P.  1982.  Energy costs of incubation and
+#   moult in petrels and penguins.  J. Anim. Ecol. 51:177-194.
+#
+#  species: scientific name of the petrel.
+#  sex: sex (if known) of the petrels.
+#  weight: mean initial weight (g)
+#  weight.loss: mean weight loss during incubation (g/g/d)
+#

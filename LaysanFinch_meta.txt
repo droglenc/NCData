@@ -1,0 +1,12 @@
+# LaysanFinch.csv
+# Originally from Dr. Andrew Taylor -- http://www2.hawaii.edu/~taylor/
+# I put names in for the sex code and added a location variable (this is not actual locations, 
+#   though.  I wanted a second categorical variable for analysis).
+# weight: weight (g) of bird
+# upwid: width (cm) of upper mandible
+# lowwid: width (cm) of lower mandible
+# bklen: length (cm) of beak
+# tarsus: length (cm) of tarsus
+# stern: length (cm) of sternum
+# sex: sex of bird (female, male)
+# loc: location of capture (generically labeled as A, B,C)

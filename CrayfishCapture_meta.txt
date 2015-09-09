@@ -1,0 +1,14 @@
+# CrayfishCapture.csv
+# Data from experiments conducted by Derek H. Ogle and Lori Kret.
+#   Do not use without permission from Derke H. Ogle (dogle@northland.edu)
+# Index: A combination of day of experiment and treatment type (see below)
+# use: A logical indicating whether the row should be used or not.
+# day: The day of the experiment (1-17, with 13 excluded) -- the replicate.
+# tank: Which paired tank was the crayfish in (A or B).
+# treat: Which treatment was the crayfish in (C=control, T=Treatment (crayfish removed)).
+# date: The actual date the experiment was started.
+# trapped: A logical indicating whether the crayfish was captured (T) or not (F).
+# num: a unique number for each crayfish per treatment, tank, and capture.
+# sex: Sex of the crayfish (M=male, F=female).
+# length: Carapace length (mm).
+# hardness: A shell hardness rating (1=soft, 3=hard).

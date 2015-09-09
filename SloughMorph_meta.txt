@@ -1,0 +1,9 @@
+# SloughMorph.csv
+# Extracted with extract.data() from figure 4 in Hood, W.G. 2002.
+#   Application of Landscape Allometry to Restoration of Tidal Channels.
+#   Restoration Ecology 10:213–222.
+# sllen: slough length (m)
+# slarea: slough area (m^2)
+# slperim: slough perimeter (m)
+# outwid: slough outlet width (m)
+# source: slough river system factor -- North River, South Fork Willapa River, Willapa River

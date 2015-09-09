@@ -1,0 +1,3 @@
+# deer2.csv
+# bodymass: Body mass of does (kg)
+# fawns: Mean number of fawns per doe

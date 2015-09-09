@@ -1,0 +1,9 @@
+# CSETemp.csv
+# date: Date of record.
+# high: High temperature (F) in the Center for Science & Environment building.
+# low: Low temperature (F) in the CSE.
+# flux: Change in temperature (F) in the CSE
+# outTemp: High temperature (F) in Ashland, WI.
+# outConditions: Qualitative indication of weather conditions in Ashland, WI.
+# period: Factor indicating whether the date is before or after the change
+#           in how the building was heated were implemented.

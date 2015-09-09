@@ -1,0 +1,20 @@
+# BodyFat.csv
+# from Stat-Lib, originally submitted by Roger W. Johnson, Carleton College
+# fat.brozek: Percent body fat using Brozek's equation, 457/Density - 414.2
+# fat.siri: Percent body fat using Siri's equation, 495/Density - 450
+# density: Density (gm/cm^3)
+# age: Age (yrs)
+# weight: Weight (lbs)
+# height: Height (inches)
+# adiposity: Adiposity index = Weight/Height^2 (kg/m^2)
+# fatfree.wt: Fat Free Weight = (1 - fraction of body fat) * Weight, using Brozek's formula (lbs) 74 - 77 Neck circumference (cm)
+# neck: Neck circumference (cm)
+# chest: Chest circumference (cm)
+# abdomen: Abdomen circumference (cm) "at the umbilicus and level with the iliac crest"
+# hip: Hip circumference (cm)
+# thigh: Thigh circumference (cm)
+# knee: Knee circumference (cm)
+# ankle: Ankle circumference (cm)
+# biceps: Extended biceps circumference (cm)
+# forearm: Forearm circumference (cm)
+# wrist: Wrist circumference (cm) "distal to the styloid processes"

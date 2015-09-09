@@ -1,0 +1,4 @@
+# Cottontail.csv
+# from Verts et al. (1997; J. Mammology  78:1164-1171)
+#   for eastern cottontail (Sylvilagus floridanus).
+# fetus: the number of viable fetuses

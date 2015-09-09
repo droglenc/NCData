@@ -1,0 +1,5 @@
+# CountSeeds.csv
+# study in the Journal of Ecology (1990:1079-1093) reported on the use of two methods,
+#   Direct and Stratified, for estimating the number of seeds in soil samples.  The
+#   researchers gathered 27 random soil samples and then used both methods to estimate
+#   the number of seeds in each soil sample. 

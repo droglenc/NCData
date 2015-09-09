@@ -1,0 +1,5 @@
+# TVHusbWife.csv
+# The A.C. Nielsen Company collects data on the TV viewing habits of Americans and
+#   publishes the information in Nielsen Report on Television.  Twenty married couples
+#   (note that married couples tend to watch similar amounts of TV) are randomly selected
+#   and the weekly viewing times, in hours, for the couples were recorded.

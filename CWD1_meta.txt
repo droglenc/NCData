@@ -1,0 +1,6 @@
+# CWD1.csv
+# extracted from Figure 1 of Schindler, D.E., S.I. Geib, and M.R. Williams.  2000.
+#   Patterns of Fish Growth along a Residential Development Gradient in North
+#   Temperate Lakes.  Ecosystems 3:229-237.
+# dwelling: Number of shoreline dwellings (no/km of shoreline)
+# cwd: Density of coarse woody debris (no/km of shoreline)

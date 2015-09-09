@@ -1,0 +1,3 @@
+# Pintail.csv
+# year: year of observation
+# dist: distance nest is from water (km)

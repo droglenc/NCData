@@ -1,0 +1,8 @@
+# TreeDim1.csv
+# Extracted with extract.data() from figure 2a in Bolte, A., T. Rahmann, M. Kuhr,
+#   P. Pogoda, D. Murach and K. v. Gadow.  2004.  Relationships between tree dimension
+#   and coarse root biomass in mixed stands of European beech (Fagus sylvatica L.) and
+#   Norway spruce (Picea abies [L.] Karst.).  Plant and Soil 264: 1–11.
+# dbh: tree diameter at breast height (cm)
+# crb: tree coarse root biomass with stump cylinder (kg)
+# species: tree species factor -- Eastern Beech and Norway Spruce

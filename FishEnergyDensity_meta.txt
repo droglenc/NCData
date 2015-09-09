@@ -1,0 +1,7 @@
+# FishEnergyDensity.csv
+# Visually estimated (by Ryan Leveque) from Figure 2 in Hartman, K.J., and S.B. Brandt.  1995.
+#   Estimating energy density of fish.  Transactions of the American Fisheries Society.  124:247-355.
+# species: species [bluefish (Pomatomus saltatrix), weakfish (Cynoscion regalis), 
+#                   striped bass (Morone saxatilis), bay ancovy (Anchoa mitchilli)]
+# dw: percent dry weight (dry weight divided by wet weight as a percentage)
+# ed: energy density (joules per gram of wet weight)

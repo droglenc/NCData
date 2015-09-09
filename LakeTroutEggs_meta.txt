@@ -1,0 +1,7 @@
+# LakeTroutEggs.csv
+# The length and number of eggs of female lake trout from Lake Superior.
+#  tl: Total length (mm)
+#  eggs: Number of eggs for female
+# Data estimated from Figure 2 of Schram, S.T. 1993.  Fecundity and egg
+#  deposition of a wild Lake Superior Lake Trout stock.  Wisconsin Department
+#  of Natural Resources, Fisheries Management Report no. 149.

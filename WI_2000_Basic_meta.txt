@@ -1,0 +1,3 @@
+# Wisconsin 2000 census data (from http://factfinder.census.gov/)
+# Area in acres
+# Densities in per acre of land

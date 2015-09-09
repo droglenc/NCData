@@ -1,0 +1,3 @@
+# AnimalRights.csv
+# year: Year of GSS survey (1993,1994)
+# response: Respondent's response to question "Animals have rights too."

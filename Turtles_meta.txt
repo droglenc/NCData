@@ -1,0 +1,9 @@
+# turtles.csv
+# file from www.stat.psu.edu/~jglenn/stat505/10_2sampHotel/10_2sampHotel_hwk.html
+# I added a location variable (this is not actual locations, though.  I wanted a
+#   second categorical variable for analysis).
+# len: length (mm) of carapace
+# wid: width (mm) of carapace
+# ht: height (mm) of carapace
+# sex: sex of the turtle
+# location: location of capture

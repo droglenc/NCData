@@ -1,0 +1,13 @@
+# Aresenic.csv
+# Measurements of drinking water and toenail levels of arsenic, as well as related 
+#    covariates, for 21 individuals with private wells in N.H.
+#  age: Age (years).
+#  sex: Sex of person.
+#  usedrink: Household well used for drinking (A=<1/4  B=~1/4  C=~1/2  D=~3/4  E=>3/4)
+#  usecook: Household well used for cooking (A=<1/4  B=~1/4  C=~1/2  D=~3/4  E=>3/4)
+#  arswater: Arsenic in water (ppm).
+#  arsnails: Arsenic in toenails (ppm).
+# Data downloaded from StatLib, but originally from
+#  Karagas MR, Morris JS, Weiss JE, Spate V, Baskett C, Greenberg ER. Toenail Samples as 
+#  an Indicator of Drinking Water Arsenic Exposure. Cancer Epidemiology, Biomarkers and 
+#  Prevention 1996;5:849-852.

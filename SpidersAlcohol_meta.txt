@@ -1,0 +1,5 @@
+# SpidersAlcohol.csv
+# simulated from results in Cross, V.E.  2006. The Effects of Alcohol on Spiders: What Happens to
+#   Web Construction after Spiders Consume Alcohol?  American Biology Teacher, 68:347-349,351-352.
+# cells: the area of cells in a spider web (mm^2)
+# group: either before or after the web had been sprayed with vodka

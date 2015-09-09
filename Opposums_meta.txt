@@ -1,0 +1,7 @@
+# Opposums.csv
+# Immunoglobulin protein concentration (g/DL) recorded on Virginia opposums for three seasons.
+#   imm: Immunoglobulin protein concentration (g/DL)
+#   season: season that oppossum was sampled
+# Data simulated from results in Table 2 of Woods II, H.A., and E.C. Hellgren.  2003. Seasonal
+#  changes in the physiology of male Virginia opossums (Didelphis virginiana): Signs of the dasyurid
+#  semelparity syndrome?  Physiological and Biochemical Zoology 76(3):406–417.

@@ -1,0 +1,9 @@
+# WolfPred.csv
+# from Mech, L.D. 1999. Estimated costs of maintaining a recovered wolf population
+#   in agricultural regions of Minnesota.  Wildlife Society Bulletin 26(4):817-822.
+#   Data available online at www.npwrc.usgs.gov/resource/mammals/wpop/wpop.htm
+# year: year of data
+# farms: farms affected by wolf predation
+# dogskild: number of confirmed dogs killed by wolves
+# wolfdstry: number of wolves destroyed
+# comppaid: compensation paid to farmers

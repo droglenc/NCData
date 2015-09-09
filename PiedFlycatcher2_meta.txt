@@ -1,0 +1,6 @@
+# PiedFlycatcher2.csv
+# simulated from results in Table 1 of Sanz, J.J. 2001.  Experimantally reduced male attractiveness increases parental 
+#   care in the pied flycatcher Ficedula hypoleuca.  Behavioral Ecology 12:171-176.
+# csm: clutch size manipulation factor (reduced, control, or enlarged group).
+# fh: forehead manipulation factor (unmanipulated, reduced).
+# hatchlings: number of hatchlings.

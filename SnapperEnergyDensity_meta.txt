@@ -1,0 +1,7 @@
+# SnapperEnergyDensity.csv
+# Visually estimated (by Ryan Leveque) from Figure 1 of Wuenschel, M.J., A.R. Jugovich, J.A Hare.
+#    2006.  Estimating the energy density of fish: The Importance of ontogeny.  Transactions of
+#    the American Fisheries Society.  135:379-385.
+# only for gray snapper (Lutjanus griseus) -- source also had spotted seatrout.
+# sl: standard length (mm)
+# dw: percent dry weight (dry weight divided by wet weight as a percentage).

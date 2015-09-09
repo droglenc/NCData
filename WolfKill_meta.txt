@@ -1,0 +1,6 @@
+# WolfKill.csv
+# data visually estimated (by Alyssa Anderson, Biometry W2008) from Figure X in
+#   Huggard, D.J.  1993.  Effect of snow depth on predation and scavenging by
+#   gray wolves.  The Journal of Wildlife Management, 57:382-388.
+# days: days since last kill (of prey) by wolf pack
+# depth: depth of snow (cm)

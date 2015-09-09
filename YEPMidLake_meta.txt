@@ -1,0 +1,8 @@
+# YEPMidLake.csv
+# The size of yellow perch (Perca flavescens) from electrofishing catches in Mid Lake (WI)
+#   before and after angling was legally allowed.
+# tl: total length (mm)
+# period: before (1974-1976) or after (1977-1979) after angling was allowed.
+# Data extracted from Figure 2 of Goedde, L.E. and D.W. Coble.  1981.  Effects of angling on
+#   a previously fished and an unfished warmwater fish community in two Wisconsin lakes.  
+#   Transactions of the American Fisheries Society.  110:594-603.

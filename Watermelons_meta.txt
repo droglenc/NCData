@@ -1,0 +1,3 @@
+# Watermelons.csv
+# depth: root depth (in) of watermelons
+# weight: weight (lbs) of watermelons

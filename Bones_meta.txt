@@ -1,0 +1,12 @@
+# bones.csv
+# file from www.stat.psu.edu/~jglenn/stat505/09_pHotel/09_pHotel_hwk.html
+# Mineral content was measured by photon absorptiometry for three arm bones
+#   on both the dominant and nondominant sides in a sample of n = 24 volunteers.
+# treatment: before or after one year of diet and exercise treatments
+# subject: subject number
+# rad.dom: dominant radius
+# rad: radius
+# dom.hum: dominant humerus
+# hum: humerus
+# dom.ulna: dominant ulna
+# ulna: ulna

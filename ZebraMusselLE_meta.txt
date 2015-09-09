@@ -1,0 +1,6 @@
+# ZebraMusselLE.csv
+# Berbeiro, R.P. and M.L. Tuchman.  2005.  Long-term Dreissenid impacts on water clarity in 
+#   Lake Erie.  Journal of Great Lakes Research 30:557-565.
+# year: year of measurement
+# sdep: average secchi depth (m)
+# basin: basin in Lake Erie (west, central, east)

@@ -1,0 +1,5 @@
+# PolarBeat.csv
+# Data simulated from Table 1 in Larsen, T.  Sexual dimorphism in the molar rows of the polar
+#   bear.  Journal of Wildlife Management.  35:374-377.
+# len: length of maxillary molar rows (mm)
+# sex: sex of polar bear (m=male, f=female)

@@ -1,0 +1,2 @@
+# Landings (in millions) of cod by age and year
+# Data from http://www.hafro.is/~lorna/saithecatch

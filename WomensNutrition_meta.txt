@@ -1,0 +1,10 @@
+# WomensNutrition.csv
+# Data from www.stat.psu.edu/~jglenn/stat505/data.htm
+# These data are from a United States Department of Agriculture
+#   survey of 747 women in 1985. The data contains the following
+# id: Identification Number
+# caclium: Daily Calcium Intake (mg)
+# iron: Daily Iron Intake (mg)
+# protein: Daily Protein Intake (g)
+# vitA: Daily Vitamin A Intake (micrograms)
+# vitC: Daily Vitamin C Intake (mg).

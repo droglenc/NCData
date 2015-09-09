@@ -1,0 +1,5 @@
+# PianoLessons.csv
+# Rauscher et al. (1997. Neurological Research 19:2-8) examined the effect of piano
+#   lessons on the spatio-temporal reasoning of 34 preschool children.  Each child
+#   was given a standard test for spatio-temporal reasoning before and after six
+#   months of piano lessons.  

@@ -1,0 +1,5 @@
+# AlcovaRes.csv
+# Data from Paul Mavrakis, Wyoming Fish and Game.  These data are only for Alcova Reservoir.
+# day.type: type of day (wday=weekday, wend=weekend)
+# pressure: number of angler hours of fishing pressure
+# index: averaged count of vehicles per access point

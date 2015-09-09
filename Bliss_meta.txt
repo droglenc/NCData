@@ -1,0 +1,5 @@
+# Bliss.csv
+# from Bliss, C.I.  1935.  The calculation of the doesage-mortality curve.  Annals of Applied Biology 22:134-167.
+# outcome: survival (or not) of beetle exposed to gaseous CS2
+# conc: dose of gaseous carbon disulphide (mg/liter)
+# author used log10 of concentration

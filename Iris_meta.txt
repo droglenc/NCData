@@ -1,0 +1,7 @@
+# Iris.csv
+# The classic data set.
+# seplen: sepal length (mm)
+# sepwid: sepal width (mm)
+# petlen: petal length (mm)
+# petwid: petal width (mm)
+# species: species of iris (setosa, versicolor, virginica)

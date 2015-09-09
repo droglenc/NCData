@@ -1,0 +1,7 @@
+# wolfmoose.csv
+# data visually estimated (by Alyssa Anderson, Biometry W2008) from Figure 5 in
+#   Petersen, R.O., N.J. Thomas, J.M. Thurber, J.A. Vucetich, and T.A. Waite.  1998.
+#   Population limitation and the wolves of Isle Royale.  Journal of Mammalogy, 79:828-841.
+# wolves: estimated number of wolves
+# moose: estimated number of moose older than age-10
+# crash: was year of estimate before or after a "crash" in the moose population

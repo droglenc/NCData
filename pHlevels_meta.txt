@@ -1,0 +1,3 @@
+# Acid rain data obtained from National Atmospheric Deposition Program
+#  National Trends Network Location VA 28
+# Shenandoah National Park, Big Meadows

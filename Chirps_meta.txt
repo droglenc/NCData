@@ -1,0 +1,4 @@
+# Chirps.csv
+# from Pierce, G.W. 1948. The Song of Insects.
+# chirps: number of chirps in 15 seconds by a cricket.
+# temp: temperature that cricket was held.

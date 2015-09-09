@@ -1,0 +1,8 @@
+# Beetles.csv
+# Data from www.stat.psu.edu/~jglenn/stat505/14_discrim/14_discrim_hwk.html
+# Data were collected on two species of flea beetles -- Halticus oleracea
+#   and Halticus carduorum.  Measurements made were ...
+# thorax: thorax length (microns)
+# elytra: elytra length (microns)
+# AJ2: length of the second antennal joint (microns)
+# AJ3: length of the third antennal joint (microns)

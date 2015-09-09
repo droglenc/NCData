@@ -1,0 +1,9 @@
+# XMovieAge.csv
+# Data downloaded from the 1979-2004 Cumulative GSS data file found online
+#  at sda.berkeley.edu/cgi-bin/hsda?harscda+gss04.  The file was downloaded
+#  on 16Mar07.  All missing data and all variables coded with 8 or 9 were
+#  deleted.  The seen variable was called xmovie in the GSS database.
+# ID = numeric ID for each respondent
+# age = age of respondent
+# seen = Respondent's answer to "Have you seen an X-rated movie in the last year?"
+# The datafile is very large (~28000 respondents) and is slower than usual in R.

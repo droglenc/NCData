@@ -1,0 +1,7 @@
+# Cigarette.csv
+# from Lauren McIntyre via StatLib
+# type: brand name of cigarette
+# tar: content of tar in mg
+# nicotine: content of nicotine in mg
+# weight: weight of cigarette in g
+# co: carbon monoxide content in mg

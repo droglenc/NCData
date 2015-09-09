@@ -1,0 +1,7 @@
+# Titanic.csv
+# source: Sall, J., L. Creighton, and A. Lehman.  2006.  JMP Start Statistics, Third Edition.
+#   Cary, NC: SAS Institute, Inc.
+# class: class level of passenger (first, second, third, or crew)
+# age: age classification of passenger (adult or child)
+# sex: sex of passenger (male or female)
+# survived: survival stats (yes or no)

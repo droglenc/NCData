@@ -1,0 +1,4 @@
+# Rusconi.csv
+# from Rusconi et al. 1994. Pediatrics 94:350-55.
+# age: age of child (in months)
+# rate: respiratory rate in breaths per minute

@@ -1,0 +1,5 @@
+# CHA1.csv
+# Data was originally collected by Melanie McCahey for the Winter,2007 Biometry class.
+# Data was collected from the Cheqauamegon Humane Association.
+# breed: breed of dog
+# days: days before adopted

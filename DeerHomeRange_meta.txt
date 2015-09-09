@@ -1,0 +1,8 @@
+# DeerHomeRange.csv
+# data simulated from Campbell, T.A., B.R. Laseter, W.F. Ford, and K.V. Miller.  2004.  Feasibility of
+#   localized management to control white tailed deer in forest regeneration areas.  Wildlife Society
+#   Bulletin 32:1124-1131.
+# data found/simulated by Jennifer Courtwright, Biometry, Winter 2008.
+# hr.area: home range area (km^2)
+# season: season factor -- summer, autumn, winter
+# age: age factor -- young, adult

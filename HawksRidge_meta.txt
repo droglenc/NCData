@@ -1,0 +1,5 @@
+# HawksRidge.csv
+# from http://www.hawkridge.org/Research/Raptor_Count/seasonal_count_totals.htm
+# Year: Year of collection
+# all other columns contain observed counts of various bird species
+# Total: total count of all raptors in a given year

@@ -1,0 +1,7 @@
+# AvianPecMusc.csv
+# data extracted from Figure 1 of Lindstrom, A., A. Kvist, T. Piersma,
+#   A. Dekinga, and M.W. Dietz.  2000.  Avian pectoral muscle size rapidly
+#   tracks body mass changes during flight, fasting and fuelling.  The
+#   Journal of Experimental Biology 203:913–919.
+# thickness: pectoral muscle thickness (mm)
+# mass: pectoral muscle mass (g)

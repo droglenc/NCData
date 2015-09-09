@@ -1,0 +1,7 @@
+# GullbilledTern2.csv
+# Data simulated (with mult.rnorm) from Table X in Erwin, R.M., T.B. Eyler, D.B. Stotts,
+#   and J.S. Hatfield. 1998. Aspects of chick growth in gull-billed terns in coastal
+#   Virginia.  Waterbirds: The International Journal of Waterbird Biology, 22: 47-53.
+# growth: daily increase in body mass (g)
+# year: year of data
+# chick: whether chick was first or second born 

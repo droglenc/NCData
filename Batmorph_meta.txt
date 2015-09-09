@@ -1,0 +1,11 @@
+# Batmorph.csv
+# Originally from Dr. Andrew Taylor -- http://www2.hawaii.edu/~taylor/
+# I put names in subspecies code and added a habitat variable (this is not actual habitats, though.  I
+#   simply wanted a second categorical variable for analysis).
+# subsp: subspecies names (Hawaiian = semotus, Mainland = cinereus)
+# bodymass: total body mass (g) at time of collection
+# skulllength: skull length (cm)
+# canine: height (cm) of upper left canine tooth
+# coronoid: height (cm) of left coronoid process
+# wingspan: total wingspan (m)
+# hab: habitat of capture (generically labeled as A, B,C)

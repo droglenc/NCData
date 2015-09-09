@@ -1,0 +1,9 @@
+# Tadpoles.csv
+# Body mass of plains leopard frog tadpoles kept at two levels of UV-B light
+#   intensity and three levels of density
+#     uvb: UV-B light intensity treatment (Low, High)
+#     density: Tadpole density treatment (1,2, or 4 tadpoles per 'tank')
+#     mass: measured body mass of the tadpole (g)
+# Data simulated from Smith et al. 2000. Consequences of embryonic UV-B exposure
+#  for embryos and tadpoles of the plains leopard frog. Conservation Biology 14:1903-1907.
+# use uvb <- factor(uvb,levels=c("Low","High")) after entering

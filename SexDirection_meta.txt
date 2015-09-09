@@ -1,0 +1,10 @@
+# SexDirection.csv
+# A sample of 30 males and 30 female was taken to an unfamiliar wooded park and given 
+#   spatial orientation tests, including pointing to the south.  The absolute 
+#   pointing error, in degrees, was recorded.
+#  abserr: absoluting pointing error in degrees
+#  sex: sex of participant (male, female)
+# Data taken from Weiss, N.A. 2002.  Elementary Statistics.  Addison Wesley. p.451.
+# Data originally from Sholl, X, et al.  2000.  The relation of sex and sense of direction 
+#   to spatial orientation in an unfamiliar environment.  Journal of Environmental 
+#   Psychology.  20:17-28.

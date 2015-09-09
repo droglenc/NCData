@@ -1,0 +1,5 @@
+# Wolves1.csv
+# Mladenoff et al. (1997) examined the relationship between the density of wolves
+#   and the density of whitetail deer from 24 selected locations in Wisconsin.
+# deer: Number of deer per square km
+# wolf: Number of wolves per 1000 square km

@@ -1,0 +1,19 @@
+# TexasWater.csv
+# Data from www.stat.psu.edu/~jglenn/stat505/18_cluster/18_cluster_hwk.html
+# Ground water samples were collected from n = 127 sites in Texas.
+#   The following variables were measured:
+# site: a site identifier
+# coord1: a site coordinate
+# coord2: a site coordinate
+# uranium:
+# arsenic:
+# boron:
+# barium:
+# moybdenum:
+# selenium:
+# vanadium:
+# sulfate: SO4
+# ttl.alk:
+# bicarbonate:
+# conductivity:
+# pH:

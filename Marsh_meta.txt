@@ -1,0 +1,11 @@
+# marsh.csv
+# file from www.stat.psu.edu/~jglenn/stat505/07_partcor/07_partcor_hwk.html
+# Data collected from the Florida Everglades in the Spring of 1996
+# station: a station code
+# long: longitude of station
+# lat: latitude of station
+# ttlHG: total mercury
+# methyl: methyl mercury
+# turb: turbidity
+# ttlP: total phosphorous
+# fishHG: mercury in the fish

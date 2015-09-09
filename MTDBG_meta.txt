@@ -1,0 +1,7 @@
+# MTDBG.csv
+# From Dr. George R. Spangler, University of Minnesota
+# sernum: unique serial number (for each fish)
+# sl: standard length (mm)
+# fl: fork length (mm)
+# tl: total length (mm)
+# wt: weight (grams)

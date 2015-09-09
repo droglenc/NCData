@@ -1,0 +1,3 @@
+# Lumina.csv
+# HMPG: highway MPG for a sample of Chevy luminas
+# CMPG: city MPG for a sample of Chevy luminas

@@ -1,0 +1,7 @@
+# VocabTest.csv
+# A teacher examined the effect of extra reading assignments on the vocabulary skills
+#   of third grade children as part of her master's thesis.  Before the school year 25
+#   students were randomly selected to participate in a traditional classroom (i.e.,
+#   "control" group) and 25 were selected to be in a classroom that was assigned extra
+#   reading assignments.  A standard vocabulary test was administered at the end of the
+#   term (4 months).  

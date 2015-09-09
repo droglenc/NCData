@@ -1,0 +1,12 @@
+# EgyptianSkulls.csv
+# Four measurements of male Egyptian skulls from 5 different time periods. Thirty skulls
+#  are measured from each time period.
+#    mb: Maximal Breadth of Skull
+#    bh: Basibregmatic Height of Skull
+#    bl: Basialveolar Length of Skull
+#    nh: Nasal Height of Skull
+#    year: Approximate Year of Skull Formation (negative = B.C., positive = A.D.)
+# From the DASL.  Originally from Thomson, A. and Randall-Maciver, R. (1905) Ancient
+#   Races of the Thebaid, Oxford: Oxford University Press. Also found in: Hand, D.J., et
+#   al. (1994) A Handbook of Small Data Sets, New York: Chapman & Hall, pp. 299-301. 
+#   Manly, B.F.J. (1986) Multivariate Statistical Methods, New York: Chapman & Hall.

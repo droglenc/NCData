@@ -1,0 +1,6 @@
+# CaribouRoads.csv
+# data simulated from Noel, L.E., K.R. Parker, and M.A. Cronin.  2004.  Caribou distribution near an oilfield
+#   road on Alaska's North Slope, 1978-2001.  Wildlife Society Bulletin 32:757-771.
+# dist: distance (km) factor from oilfield road
+# density: measured density (number per km^2) of caribou in area
+# period: a period factor -- pre=1997-1997 and post=1998-2001.

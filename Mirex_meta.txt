@@ -1,0 +1,8 @@
+# Mirex.csv
+# actual data from Makarewicz, J.C., E.Damaske, T.W. Lewis, and M. Merner.  2003.  Trend analysis reveals a recent 
+#   reduction in mirex concentrations in coho (Oncorhynchus kistuch) and chinook (O. tshawytscha) salmon from Lake 
+#   Ontario.  Environmental Science and Technology, 37:1521-1527.
+# year: year of sample
+# mirex: concentration of mirex in tissue (mg/kg)
+# weight: body weight of fish (kg)
+# species: species of fish (coho or chinook)

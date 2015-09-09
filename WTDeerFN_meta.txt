@@ -1,0 +1,7 @@
+# WTDeerFN.csv
+# Simulated from results in Table 2 of Beier, P.  Sex differences in quality of white-tailed deer
+#   diets.  Journal of Mammology 68:323-329.
+# period: month and year of sample
+# sex: sex of sample (male, female)
+# FN: Fecal nitrogen concentration (percentage), adjusted for date of collection within period
+# data are for yearling and older white-tailed deer sampled at Geroge Reserve, Michigan,

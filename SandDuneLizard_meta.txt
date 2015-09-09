@@ -1,0 +1,6 @@
+# SandDuneLizard.csv
+# Extracted from figure 1 in Attum, O. A. and P. K. Eason.  2006.  Effect of vegatation
+#   loss on the sand dune lizard.  Journal of Wildlife Management 70:27-30.
+# sv.length: snout-vent length (cm)
+# weight: weight of lizard (g)
+# group: whether the lizard was from a protected or unprotected site.

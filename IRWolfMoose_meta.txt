@@ -1,0 +1,5 @@
+# IRWolfMoose.csv
+# from www.isleroyalewolf.org
+# year: end year of data (i.e., 1959 is 1958-59)
+# wolves: number of wolves
+# moose: estimated number of moose

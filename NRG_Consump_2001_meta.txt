@@ -1,0 +1,2 @@
+# From Table S3 of Energy Information Administration, State Energy Data 2001: Consumption
+# Units are Trillions of BTU

@@ -1,0 +1,7 @@
+# Marsupial2.csv
+# Extracted with extract.data() from Figure 2 of Wroe, S., M. Crowther, J. Dortch, and J. Chong.
+#   2003.  The size of the largest marsupial and why it matters.  Proceedings of the Royal
+#   Society of London. B(Suppl.).  e-published.
+# cfh: minimum sum of the mid-shaft circumferences of the femur and humerus (mm)
+# mass: body mass (g)
+# group: factor of type -- placentals or marsupials

@@ -1,0 +1,13 @@
+# FlickerFeather.csv
+# Data obtained from http://udel.edu/~mcdonald/statpaired.html but originally published in
+#   Wiebe, K.L., and G.R. Bortolotti. 2002. Variation in carotenoid-based color in northern
+#   flickers in a hybrid zone. Wilson Bulletin. 114: 393-400.
+# bird: Index of individual bird.
+# typical: "yellowness" of a typical feather on the bird
+# odd: "yellowness of an "odd" feather on the bird
+# Feathers of northern flickers that regrow after being lost are often called "odd" feathers
+#   because they appear to be of a different color or length.  Wiebe and Bortolotti (2002)
+#   hypothesized that the "odd" feathers would appear less yellow than the typical feathers on
+#   a northern flicker.  To test this hypothesis they measured the "yellowness" of one odd feather
+#   on each of 16 birds and compared it with the "yellowness" of one typical feather from the same
+#   bird (note that larger numbers mean "more yellow").

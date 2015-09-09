@@ -1,0 +1,13 @@
+# Yahara.csv
+# Downloaded from the North Temperate Lakes LTER database at: Mon Dec 18 19:18:10 CST 2006
+# see lterquery.limnology.wisc.edu/metadata_new.jsp?dataset_id=NTLLC01
+# investigator: Pete Nowak -- pnowak@wisc.edu
+# year: year of observation
+# mon: month of observation
+# day: day of observation
+# boats.up: number of boats passing upstream through the locks
+# boats.down: number of boats passing downstream through the locks
+# boats.total: boats.up + boats.down
+# lockings: number of times each day the locks are taken through the sequence of filling, closing, and emptying
+# remarks: comments about the data
+1998 7 5 254 211 465 25 "NO LOCK #S AFTER 11AM"

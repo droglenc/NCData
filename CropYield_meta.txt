@@ -1,0 +1,7 @@
+# CropYield.csv
+# Agronomists are interested in determining conditions that increase the yield of crops.  In one
+#   experiment 80 1-acre plots of corn are randomly divided into two groups of 40 plots each.  An
+#   insecticide is used on each plot in one group and sterilized male individuals of an insect pest
+#   are released on the each plot of the other group.
+# group: Tratment for the plot
+# yield: yield (bushels) for the plot

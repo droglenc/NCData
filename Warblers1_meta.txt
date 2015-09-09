@@ -1,0 +1,10 @@
+# Warblers1.csv
+# Source: estimated from Figure 2 in Bauchinger, U. and H. Biebach.  2005.  Phenotypic flexibility of
+#   skeletal muscles during long-distance migration of garden Warblers: Muscle changes are differentially
+#   related to body mass.  Annals of the New York Academy of Science.  1046:271–281.
+# loc: location of collection (Egypt, Ethiopia, or Tanzania)
+# rbm: reduced body mass (g) -- body mass minus flight muscle mass
+# flmusc: flight muscle mass (g) -- combined left and right Musculus pectoralis and Musculus
+#          supracoracoideus muscle.
+# These data are for the spring migration (paper also presented autumn migration data)
+# See Warblers2.csv for similar data on leg muscle mass

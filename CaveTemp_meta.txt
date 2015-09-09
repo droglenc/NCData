@@ -1,0 +1,9 @@
+# cavetemp.csv
+# data simulated (with mult.rnorm) from results in table 1 of Raesly, R. and E. Gates.
+#   1987.  Winter habitat selection by north temperate cave bats.  American Midland
+#   Naturalist, 118:15-31.
+# The ambient temperature was measured on limestone caves in Maryland, Pennsylvania,
+#   and West Virginia inhabited by five difference species of bats.  Temperatures were
+#   measured between 15Nov and 31Mar.
+# amb.temp: Ambient temperature of cave (Celsius)
+# species: Species of bat inhabiting the cave.

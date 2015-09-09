@@ -1,0 +1,4 @@
+# BroilerChicken.csv
+# year: year of data
+# production: Billions of pounds of broiler chickes produced in the U.S.
+# population: Millions of people in the U.S.

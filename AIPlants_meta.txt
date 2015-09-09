@@ -1,0 +1,3 @@
+# Each row corresponds to a plot that is either LOCated on the Apostle
+#   Islands or the Bayfield Peninsula.  For each plot the dominant
+#   species (A,B,C,D,E,F) is recorded.

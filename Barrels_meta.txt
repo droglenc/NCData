@@ -1,0 +1,3 @@
+# Barrels.csv
+# barrel: barrel number
+# gasoline: gallons of gasoline in the barrel

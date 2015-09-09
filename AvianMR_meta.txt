@@ -1,0 +1,7 @@
+# AvianMR.csv
+# Extracted with extract.data() from Figure XXXA of Tieleman, B.I. and J.B. Williams.  2000.  
+#   The Adjustment of Avian Metabolic Rates and Water Fluxes to Desert Environments.  
+#   Physiological and Biochemical Zoology 73(4):461–479.
+# bodymass: bird body mass (g)
+# fmr: field metabolic rate (kJ/d)
+# enviro: factor of collection environment -- desert or nondesert

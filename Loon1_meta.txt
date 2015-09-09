@@ -1,0 +1,13 @@
+# Loon1.csv
+# from Jim Paruk -- modified from his original file
+#   original data found in LoonMaster.xls
+# region: general region of capture (Canada, NewEngland, USOther)
+# state: state or province of capture
+# sex: sex of bird (Female, Male, Unknown)
+# bill.len: bill length (mm)
+# bill.wid: bill width (mm)
+# bill.dep: bill depth (mm)
+# bill.overlap: amound upper bill overlaps lower bill (mm)
+# culmen: size of culmen (mm)
+# weight: weight (g) of bird
+# tarsus: length (mm) of tarsus (some values are average of left and right tarsus measurements)

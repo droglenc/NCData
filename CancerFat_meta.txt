@@ -1,0 +1,5 @@
+# CancerFat.csv
+# fatintake: average dietary fat intake per country (g/day)
+# adjdeath: age-adjusted death rate per country (per 100000 population)
+# country: country name
+# extracted from Carrol (1975)

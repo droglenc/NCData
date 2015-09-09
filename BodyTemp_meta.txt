@@ -1,0 +1,8 @@
+# bodytemp.csv
+# from Mackowiak, P.A., S.S. Wasserman, and M.M. Levine.  1992. A Critical Appraisal
+#   of 98.6 Degrees F, the Upper Limit of the Normal Body Temperature, and Other Legacies
+#   of Carl Reinhold August Wunderlich.  Journal of the American Medical Association,
+#   268: 1578-80.
+# temp: body temperature in F
+# sex: sex of the patient (M=male, F=Female)
+# heart.rate: resting heart rate (bpm)

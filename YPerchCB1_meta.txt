@@ -1,0 +1,6 @@
+# YPerchCB1.csv
+# data reconstructed from Table 2 in Bronte, C.R., J.H. Selgeby, and D.V. Swedberg.  1993.  Dynamics of a Yellow
+#  perch population in western Lake Superior.  North American Journal of Fisheries Management, 13:511-523.
+# age: age (years)
+# sex: sex -- M=male, F=female
+# mat: maturity -- Y=yes, N=no

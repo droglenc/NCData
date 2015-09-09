@@ -1,0 +1,34 @@
+# ABDLakes1.csv
+#
+# county: County that lake is in (Ashland, Bayfield, Douglas)
+# waterbody: Type of waterbody (LP=,RF=,
+# wbic: ???
+# name.official: official name of lake
+# name.local: local name of lake
+# named: logical indicating whether lake is named or not
+# hydro.unit: USGS hydrological unit code
+# basin.maj: Major basin code ()
+# basin.min: Minor basin code ()
+# seg.no: ???
+# landlock: logical indicating whether lake is landlocked or not
+# lake.type: type of lake (SE=seepage, DG=drainage, DP=???, DN=???)
+# access: type of lake access (BR=, NW=, T=, P=)
+# area: size of lake area (acres)
+# impound: total size of lake impoundment (in acres)
+# size.code: a qualitative size code (VS=very small, S=small, M=medium, L=Large, VL=very Large)
+# dep.max: maximum depth of lake (in ft)
+# dep.avg: average depth of lake (in ft)
+# len.shore: length of shoreline (in miles)
+# len.shore.m: length of shoreline (in meters)
+# dist.ash: approximate distance to Ashland (in miles)
+# muskie: muskellunge abundance code (C=common, A=Abundant, P=Present, A=Absent)
+# nor.pike: northern pike abundance code (C=common, A=Abundant, P=Present, A=Absent)
+# wae: walleye abundance code (C=common, A=Abundant, P=Present, A=Absent)
+# lmb: largemouth bass abundance code (C=common, A=Abundant, P=Present, A=Absent)
+# smb: smallmouth bass abundance code (C=common, A=Abundant, P=Present, A=Absent)
+# pan: Panfish abundance code (C=common, A=Abundant, P=Present, A=Absent)
+# trout: trout abundance code (C=common, A=Abundant, P=Present, A=Absent)
+# cat: catfish abundance code (C=common, A=Abundant, P=Present, A=Absent)
+# sturg: sturgeon abundance code (C=common, A=Abundant, P=Present, A=Absent)
+# merc.warn: mercury warning code (???)
+#

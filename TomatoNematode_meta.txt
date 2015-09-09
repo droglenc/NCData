@@ -1,0 +1,5 @@
+# TomatoNematode.csv
+# The growth of tomatoe plants grown at a variety of densities of nematodes
+#   density: number of nematodes per pot
+#   growth: change in height of the plant from beginning to end in inches
+# Note: change density to a factor once loaded into R

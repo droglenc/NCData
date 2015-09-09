@@ -1,0 +1,8 @@
+# AntPredation.csv
+# Source: estimated from Figures 2 and 3 in Chalcraft, D.R. and R.M. Andrews.  1999.  Predation on
+#   lizard eggs by ants: species interactions in a variable physical environment.  Oecologia 119:285-292.
+# treat: teatment - HW=High Water levels, LW=Low Water levels
+# dens: estimated number of ants per 0.25 m^2
+# litter: dried litter mass (g) per 0.25 m^2
+# mort: proportional mortalitly (of 10) lizard eggs
+# surv: average survival time per lizard egg

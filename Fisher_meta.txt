@@ -1,0 +1,4 @@
+# Fisher.csv
+# fisher: individual fisher number
+# speed: (km/h)
+# hr: heart rate (beats/min)
