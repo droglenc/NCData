@@ -1,0 +1,9 @@
+# SolarOffer.csv
+# Originally from http://www.uk.sagepub.com/burns/SPSS%20data%20files/SPSS%20Chap%2024%20Data%20File%20A.sav
+# income: Family income (in 1000s)
+# age: age (years) of head of household
+# takeoffer: Whether or not the household would decide to take the offer
+#             of roof solar panels with a 50% subsidy from the state
+#             government (take or decline).
+# mortage: Monthly morgage (dollars)
+# famsize: Size of family household
