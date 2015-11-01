@@ -1,0 +1,9 @@
+# MetalsFish.txt
+#
+# originally from http://seattlecentral.edu/qelp/sets/022/s022.txt
+#   brought here to put headers on columns
+#
+# also see http://seattlecentral.edu/qelp/sets/022/022.html
+#
+# lead: milligrams of lead per kilogram of fish (i.e., ppm)
+# zinc: milligrams of zinc per kilogram of fish (i.e., ppm)
