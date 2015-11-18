@@ -1,0 +1,19 @@
+Description: Subjects were students in grades 4-6 from three school districts in Ingham and Clinton Counties, Michigan. Chase and Dummer (1992) stratified their sample, selecting students from urban, suburban, and rural school districts with approximately 1/3 of their sample coming from each district. Students indicated whether good grades, athletic ability, or popularity was most important to them. They also ranked four factors(grades, sports, looks, and money) in order of their importance for popularity. The questionnaire also asked for gender, grade level, and other demographic information.
+
+from Chase, M. A., and Dummer, G. M. (1992), The Role of Sports as a Social Determinant for Children.  Research Quarterly for Exercise and Sport. 63:418-424.
+
+From DASL ... http://lib.stat.cmu.edu/DASL/Datafiles/PopularKids.html
+
+gender: Boy or girl
+grade: 4, 5 or 6
+age: Age in years
+race: White, Other
+type: Rural, Suburban, or Urban school district
+school: Brentwood Elementary, Brentwood Middle, Ridge, Sand, Eureka,
+        Brown, Main, Portage, Westdale Middle
+goals: Student's choice in the personal goals question where options
+       were "Make Good Grades,"Be Popular," or "Be Good in Sports"
+grades: Rank of "make good grades" (1=most important for popularity, 4=least important)
+sports: Rank of "being good at sports"
+looks: Rank of "being handsome or pretty"
+money: Rank of "having lots of money"
