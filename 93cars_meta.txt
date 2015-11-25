@@ -1,2 +1,64 @@
 # 93cars.csv
-# from http://www.amstat.org/publications/jse/jse_data_archive.html
+# from http://www.amstat.org/publications/jse/jse_data_archive.htm
+
+DESCRIPTIVE ABSTRACT:
+Specifications are given for 93 new car models for the 1993 year.  Several measures are given to evaluate price, mpg ratings, engine size, body size, and features.
+
+SOURCES:
+Consumer Reports:  The 1993 Cars - Annual Auto Issue (April 1993), Yonkers, NY: Consumers Union.
+PACE New Car & Truck 1993 Buying Guide (1993), Milwaukee, WI: Pace Publications Inc.
+
+VARIABLE DESCRIPTIONS:
+MFG - Manufacturer
+Model - Model
+Type - Car type (Small, Sporty, Compact, Midsize, Large - as defined in the Consumer Reports article)
+MinPrice - Minimum Price (in $1,000) - Price for basic version of this model
+MidPrice - Midrange Price (in $1,000) - Average of Min and Max prices
+MaxPrice - Maximum Price (in $1,000) - Price for a premium version
+CMPG - City MPG (miles per gallon by EPA rating)
+HMPG - Highway MPG
+AirBags - Air Bags standard (0 = none, 1 = driver only, 2 = driver & passenger)
+DriveTrain - Drive train type (0 = rear wheel drive, 1 = front wheel drive, 2 = all wheel drive)
+Cyls - Number of cylinders
+EngSize - Engine size (liters)
+HP - Horsepower (maximum)
+RPM - Revs per minute at maximum horsepower
+EngRev - Engine revolutions per mile (in highest gear)
+Manual - Manual transmission available (No,Yes)
+FuelTank - Fuel tank capacity (gallons)
+Passengers - Passenger capacity (persons)
+Length - Car length (inches)
+Wheelbase - Car wheelbase (inches)
+Width - Car width (inches)
+Uturn - U-turn space (feet)
+RearSeat - Rear seat room (inches)
+Luggage - Luggage capacity (cu. ft.)
+Weight - Car weight (pounds)
+Domestic? - U.S. manufacturer (Yes) or not (no)
+
+SPECIAL NOTES:
+The only missing values are for CYLINDERS in the rotary engine Mazda RX-7, REAR SEAT room for the two-seaters (Corvette and RX-7), and LUGGAGE capacity for the vans and two-seaters.
+
+WEIGHT is taken from the _Consumer Reports_ data and includes a full fuel tank, automatic transmission (if available), and air conditioning.
+
+STORY BEHIND THE DATA:
+Cars were selected at random from among 1993 passenger car models that were listed in both the _Consumer Reports_ issue and the _PACE Buying Guide_.  Pickup trucks and Sport/Utility vehicles were eliminated due to incomplete information in the _Consumer Reports_ source.  Duplicate models (e.g., Dodge Shadow and Plymouth Sundance) were listed at most once.
+
+A similar dataset for 1989 model cars appeared as one of the sample datasets shipped with the _Student Edition of Execustat_ (PWS-KENT 1990).
+
+Further description can be found in the "Datasets and Stories" article "1993 New Car Data" in the _Journal of Statistics Education_ (Lock 1993).
+
+PEDAGOGICAL NOTES:
+This is a multi-purpose dataset that can be used at many points in an introductory course.  It includes many good numeric variables and several options for dividing the cars up into groups.  Students tend to be familiar with most of the variables (and specific car models).  They can anticipate and pose explanations for many of the relationships to be found in the data, although some surprises may be encountered.  One can easily find examples of pairs of variables that demonstrate strong or weak, positive or negative associations.  PRICE and MPG variables tend to be popular choices as "dependent" variables.  Basic graphs will often reveal unusual data values (like the price for a Mercedes-Benz).
+
+REFERENCES:
+Lock, R. H. (1993), "1993 New Car Data," _Journal of Statistics Education_, 1, No. 1.
+_Student Edition of Execustat_ (1990), Boston, MA: PWS-KENT Publishing Co.
+
+FROM:
+Robin H. Lock
+Mathematics Department
+St. Lawrence University
+Canton, NY  13617
+(315) 379-5960
+rlock@stlawu.bitnet
