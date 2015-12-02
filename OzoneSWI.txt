@@ -1,0 +1,2 @@
+# source: http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/svls/frames/frame.html
+# Ozone: January mean thickness of the ozone column above Arosa, Switzerland (Dobson units: one milli-centimeter ozone at standard temperature and pressure). The data is from a random sample of years from 1926 on.
