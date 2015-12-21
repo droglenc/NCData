@@ -1,0 +1,3 @@
+# tv.csv
+# rating: percent of households watching show
+# audience: estimated size of audience watching show (in 1000s)

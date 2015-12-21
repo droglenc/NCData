@@ -1,0 +1,6 @@
+# iris50.csv
+# slen: sepal length (cm)
+# swid: sepal width (cm)
+# plen: petal length (cm)
+# pwid: petal width (cm)
+# from a random sample taken from the classis iris data set.

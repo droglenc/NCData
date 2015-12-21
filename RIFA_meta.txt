@@ -1,0 +1,3 @@
+# rifa.csv
+# rifa: index of red imported fire ant abundance
+# fawnrec: index of fawn recruitment
