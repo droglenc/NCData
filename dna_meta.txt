@@ -1,3 +1,0 @@
-# dna.csv
-# frozen: dna index from frozen samples
-# fresh: dna index from fresh samples

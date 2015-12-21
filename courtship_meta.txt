@@ -1,3 +1,0 @@
-# Courtship.csv
-# A sociologist examined the length of courtship before marriage in a rural district near Kyoto, Japan.
-#   A random sample of 36 middle-income families was interviewed.

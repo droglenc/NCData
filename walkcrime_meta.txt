@@ -1,5 +1,0 @@
-# walkcrime.csv
-# created from table 7-5 in Walker, J.T.  1999.  Statistics in Criminal Justice:
-#   Analysis and Interpretation.  Jones & Bartlett Publishers.
-# walk.night: an ordinal variable for "How often do you walk at night in your neighborhood?"
-# crime.problem: an ordinal variable for "How big a problem is crime in your neighborhood?"
