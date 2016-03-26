@@ -1,0 +1,36 @@
+# LakeSurvey.csv
+#
+# This is only a portion of the actual survey which can be found at
+#   http://lter.limnology.wisc.edu/sites/default/files/ntl/pdf/nwlr_survey.pdf
+#
+# lake: lake that respondent lives on
+# year: year that respondent bought their property
+# prmryRes: whether or not the property is the respondent's primary residence
+# sumDays: number of summer days the respondent (or their family) spends at the residence
+# sumGuest: number of summer days that a guest spends at the residence
+# sumRent: number of summer days that the residence is rented
+# fishing: approx. days (as a category) that respondent spends fishing
+# boating: approx. days (as a category) that respondent spends boating
+# waterSki: approx. days (as a category) that respondent spends water skiing
+# smallBoats: approx. days (as a category) that respondent spends in a canoe, kayak, or rowboat
+# sail: approx. days (as a category) that respondent spends sailboating
+# jetSki: approx. days (as a category) that respondent spends jet skiing
+# swim: approx. days (as a category) that respondent spends swimming
+# gender: the respondent's gender (male or female)
+# age: the respondent's age
+# sizeHousehold: number of members in the respondent's household
+# children: number of children under age-18 in the household
+# educat: categorical level of education (ltHS=no high school diploma,
+#         HS= highschool diploma, someColl=some College, College= BA, BS,
+#         or AA degree, GradProf=graduate or professional degree)
+# inc: income category
+# value: respondent's belief as to the current value of their property
+#
+# Note that the levels for the fishing, boating, waterSki, smallBoats, sail,
+#   jetSki, and swim variables should be ordered.  For example, using the fish
+#   and jetSki variables as examples (and assuming the data frame is called df).
+#
+#    use.levs <- c("0_days","1_6_days","7_14_days","15_30_days","30_60_days","60+_days")
+#    df$fish <- factor(df$fish,levels=use.levs)
+#    df$jetSki <- factor(df$jetSki,levels=use.levs)
+#
