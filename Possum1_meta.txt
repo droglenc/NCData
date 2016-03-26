@@ -1,8 +1,10 @@
 # Possum1.csv
+#
 # Source: Lindenmayer, D. B., Viggers, K. L., Cunningham, R. B., and Donnelly, C. F. 1995.
 #   Morphological variation among columns of the mountain brushtail possum, Trichosurus
 #   caninus gilby (Phalangeridae: Marsupiala). Australian Journal of Zoology 43:449-458.
 #   [obtained from the DAAG package]
+#
 # Morphological measurements on mountain bushytail possums from Australia
 #  site: one of seven trapping locations
 #  pop: a location factor (Vic=Victoria, Other=New South Wales or Queensland)
@@ -14,7 +16,13 @@
 #  footlen: foot length (mm)
 #  miss: logical for whether individual contains any missing data
 #  out: logical for whether individual contains any outlier data
+# 
 # If the data are read into an object called P then use the following commands to obtain a
 #   "clean" data set -- i.e., this removes individuals with missing data or erroneous outliers
-#      P1 <- subset(P,!P$miss & !P$out)
-# The site variable should be converted to a factor variable ==>  P1$f.site <- factor(P1$site)
+#
+#    P <- P[!P$miss & !P$out,]
+#
+# In addition, the site variable should be converted to a factor variable -- i.e., 
+#
+#    P$site <- factor(P$site)
+#

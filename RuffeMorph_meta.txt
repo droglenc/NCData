@@ -1,7 +1,10 @@
 # RuffeMorph.csv
+#
 # Source: Dr. Derek H. Ogle, Northland College, Ashland, WI
+#
 # Morphological measurements on a sample of ruffe (Gymnocephalus cernuus)
 #  captured at various locations in the St. Louis River Harbor, Lake Superior.
+#
 #  loc: location of collection: Allouez Bay, Interstate Island, Whaleback Bay
 #  sex: sex of the fish: m=male, f=female
 #  tl: total length (mm)
@@ -11,7 +14,8 @@
 #  slla: scale along the lateral line
 #  miss: logical is TRUE if some data is missing
 #  out: Logical is TRUE if some data appears erroneous
-# If data are read into an object called RM then use the following to obtaine a
+#
+# If data are read into an object called RM, then use the following to obtain a
 #   "clean" data set -- i.e., remove missing data and erroneous outliers
-#       RM1 <- RM[!RM$miss,]
-#       RM2 <- RM1[!RM1$out,]
+#
+#   RM <- RM[!RM$miss & !RM$out,]
