@@ -1,0 +1,12 @@
+# Cholesterol.csv
+#
+# Originally from here http://www.stat.wisc.edu/~ane/st371/hw/practice2.pdf
+#
+# before: LDL (g/l) level before being administered the treatment.
+# after: LDL (g/l) level before being administered the treatment.
+# tx: drug treatment (Lipanthyl or Befizal)
+#
+# likely want to compute the difference in LDL
+#
+#   df$decrease <- df$before-df$after
+#
