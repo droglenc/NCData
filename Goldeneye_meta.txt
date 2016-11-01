@@ -1,0 +1,7 @@
+# Goldeneye.csv
+# Data extracted from Figure 1B of Poysa, H.  2003.  Parasitic common goldeneye
+#  (Bucephala clangula) females lay preferentially in safe neighbourhoods.
+#  Behavioral Ecology and Sociobiology 54:30–35.  Available from: https://www.researchgate.net/publication/225778809_Parasitic_Common_Goldeneye_Bucephala_clangula_females_lay_preferentially_in_safe_neighbourhoods [accessed Nov 1, 2016].
+#
+# predRisk: a measure of relative risk of predation on experimental nests
+# eggsLaid: mean number of eggs laid in several experimental nests.
