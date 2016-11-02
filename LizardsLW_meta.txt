@@ -1,0 +1,11 @@
+# LizardsLW.csv
+# Source: Appendix S1 of Meiri, S. 2010. Length–weight allometries in lizards. Journal of Zoology, 281:218–226. 
+# Species: Scientific name
+# suborder: Suborder
+# infraorder: Infraorder
+# Family: Family
+# SVL: Snout-vent length (mm).
+# Weight: Weight (g).
+# limbs: Type of limbs.
+# Sex: Sex.
+# mass_measure: Type of weight measure.
