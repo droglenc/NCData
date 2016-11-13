@@ -1,0 +1,21 @@
+# TreesMiombo.csv
+#
+# Data provided in Appendix I (Elements of the 94 trees harvested in three
+#   10×10 blocks in Kasungu, Neno and Salima in Malawi. Eighty-eight trees
+#   were used to develop and test allometric equations for estimating above
+#   ground biomass (AGB) in miombo woodlands. Entries with an asterisk were
+#   identified as outliers during the analysis.) of Kuyah S, Sileshi GW,
+#   Rosenstock TS. 2016. Allometric models based on Bayesian frameworks give
+#   better estimates of aboveground biomass in the Miombo Woodlands. Forests
+#   http://www.mdpi.com/1999-4907/7/2/13.
+#
+# site: location
+# species: species scientific name
+# DBH: tree diameter-at-breast-height (cm)
+# height: tree height (m)
+# crown.area: tree crown area (m^2)
+# stem.biomass: biomass of stems (kg)
+# branch.biomass: biomass of branches (kg)
+# twigs.biomass: biomass of twigs (kg)
+# ABG: total above ground biomass (kg)
+# outlier: outliers defined by the authors.
