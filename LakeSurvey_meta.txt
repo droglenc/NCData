@@ -27,10 +27,10 @@
 # value: respondent's belief as to the current value of their property
 #
 # Note that the levels for the fishing, boating, waterSki, smallBoats, sail,
-#   jetSki, and swim variables should be ordered.  For example, using the fish
-#   and jetSki variables as examples (and assuming the data frame is called df).
+#   jetSki, and swim variables should be ordered.  For example, using the fishing
+#   and jetSki variables as examples (and assuming the data.frame is called df).
 #
 #    use.levs <- c("0_days","1_6_days","7_14_days","15_30_days","30_60_days","60+_days")
-#    df$fish <- factor(df$fish,levels=use.levs)
+#    df$fishing <- factor(df$fishing,levels=use.levs)
 #    df$jetSki <- factor(df$jetSki,levels=use.levs)
 #
