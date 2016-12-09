@@ -23,7 +23,7 @@
 # educat: categorical level of education (ltHS=no high school diploma,
 #         HS= highschool diploma, someColl=some College, College= BA, BS,
 #         or AA degree, GradProf=graduate or professional degree)
-# inc: income category
+# inc: income category (30=30000-39999, 40-40000-49999, etc.)
 # value: respondent's belief as to the current value of their property
 #
 # Note that the levels for the fishing, boating, waterSki, smallBoats, sail,
