@@ -34,3 +34,14 @@
 #    df$fishing <- factor(df$fishing,levels=use.levs)
 #    df$jetSki <- factor(df$jetSki,levels=use.levs)
 #
+# The same for the educat variable
+#
+#    edu.levs <- c("ltHS","HS","someColl","College","GradProf")
+#    df$educat <- factor(df$educat,levels=edu.levs)
+#
+# Finally, these data have lots of missing values that were coded with blanks.
+#   The blanks in the prmryRes variable will cause you some problems.  You can
+#   use the following code to help alleviate those problems.
+#
+#    df$prmryRes <- factor(df$prmryRes,levels=c("No","Yes"))
+#
