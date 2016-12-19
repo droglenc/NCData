@@ -1,0 +1,10 @@
+# brainhead.csv
+#
+# From: http://www.stat.ufl.edu/~winner/data/brainhead.txt
+# Original source: Gladstone, R.J. 1905. A Study of the Relations of the Brain
+#   to the Size of the Head. Biometrika 4:105-123.
+#
+# head.size: Head volume in cubic centimeters
+# brain.weight: Brain weight in grams
+# gender: Gender (male or female)
+# age.group: Age group (20-46 years or 46+ years)
