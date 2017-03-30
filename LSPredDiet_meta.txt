@@ -1,0 +1,4 @@
+# LSPredData.csv
+#
+# predator: Predator ("Lake Trout","Chinook")
+# cisco: Were cisco in the stomach or not ("Cisco", "No Cisco")
