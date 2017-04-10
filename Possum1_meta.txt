@@ -8,6 +8,7 @@
 # Morphological measurements on mountain bushytail possums from Australia
 #  site: one of seven trapping locations
 #  pop: a location factor (Vic=Victoria, Other=New South Wales or Queensland)
+#  sex: sex of possum (f=female, m=male)
 #  age: age of possum
 #  totlen: total length (cm)
 #  chest: chest girth (cm)
@@ -16,13 +17,13 @@
 #  footlen: foot length (mm)
 #  miss: logical for whether individual contains any missing data
 #  out: logical for whether individual contains any outlier data
-# 
+#
 # If the data are read into an object called P then use the following commands to obtain a
 #   "clean" data set -- i.e., this removes individuals with missing data or erroneous outliers
 #
 #    P <- P[!P$miss & !P$out,]
 #
-# In addition, the site variable should be converted to a factor variable -- i.e., 
+# In addition, the site variable should be converted to a factor variable -- i.e.,
 #
 #    P$site <- factor(P$site)
 #
