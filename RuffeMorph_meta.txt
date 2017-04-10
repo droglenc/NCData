@@ -11,7 +11,7 @@
 #  w: weight (g)
 #  bg: body girth (mm)
 #  ujl: upper jaw length (mm)
-#  slla: scale along the lateral line
+#  slla: number of scales along the lateral line
 #  miss: logical is TRUE if some data is missing
 #  out: Logical is TRUE if some data appears erroneous
 #
