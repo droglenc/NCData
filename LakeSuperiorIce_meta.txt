@@ -4,6 +4,7 @@
 # Temp data at Station 205816 (lat/long = N46.20/W85.30)
 # Source:  Unites States Historical Climate Network:  http://www.ncdc.noaa.gov/ol/climate/research/ushcn/ushcn.html
 # season: First year of the ice season, e.g., 1955 is the 1955-1956 season
-# decade: decade of ice season
+# decade: Decade of ice season
+# period: Period of ice season (pre-1975 or post-1975).
 # temp: Mean Dec-Apr temperature for the season
 # days: Number of days of ice for the season
