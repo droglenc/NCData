@@ -1,0 +1,7 @@
+# animals.csv
+# from http://bolt.mph.ufl.edu/2012/12/24/learn-by-doing-correlation-and-outliers-software/
+#
+# animal: the name of the animal species.
+# gestation: the average gestation period of the species, in days.
+# longevity: the average longevity of the species, in years.
+
