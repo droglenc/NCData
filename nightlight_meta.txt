@@ -1,0 +1,7 @@
+# nightlight.csv
+# from http://bolt.mph.ufl.edu/2012/12/23/learn-by-doing-case-c-c-software/
+#
+# Light: Lighting conditions under which child slipt prior to age-2
+#        ("no light","lamp","night light")
+# Nearsightedness: Whether or not the child was nearsighted.
+
