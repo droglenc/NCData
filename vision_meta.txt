@@ -1,0 +1,5 @@
+# vision.csv
+# from http://www.cengage.com/c/mind-on-statistics-5e-utts
+#
+# age: Age of the driver.
+# distance: Maximum distance (ft) at which the driver could clearly read the sign.
