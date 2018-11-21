@@ -15,10 +15,9 @@
 # USE: Should the individual be used for analyses.
 #
 # Note the following (assumes that your data are in an objected called df):
-#  1. The levels for sex and mat should be controlled with
+#  1. The levels for month should be controlled with
 #
-#   df$sex <- factor(df$sex,levels=c("Imm","F","M"))
-#   df$mat <- factor(df$mat,levels=c("Imm","MG","MT"))
+#   df$month <- factor(df$month,levels=c("May","June","July","August","September","October","November"))
 #
 #  2. The year variable should be converted to a factor (i.e., categorical) with
 #
