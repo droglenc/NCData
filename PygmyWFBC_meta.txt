@@ -15,17 +15,17 @@
 # USE: Should the individual be used for analyses.
 #
 # Note the following (assumes that your data are in an objected called df):
-#  1. Remove "bad" records with
-#
-#   df <- filterD(df,USE)
-#
-#     the USE variable can be ignored after this.
-#
-#  2. The levels for sex and mat should be controlled with
+#  1. The levels for sex and mat should be controlled with
 #
 #   df$sex <- factor(df$sex,levels=c("Imm","F","M"))
 #   df$mat <- factor(df$mat,levels=c("Imm","MG","MT"))
 #
-#  3. The year variable should be converted to a factor (i.e., categorical) with
+#  2. The year variable should be converted to a factor (i.e., categorical) with
 #
 #   df$year <- factor(df$year)
+#
+#  3. Remove "bad" records with
+#
+#   df <- filterD(df,USE)
+#
+#     the USE variable can be ignored after this.
