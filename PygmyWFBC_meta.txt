@@ -1,0 +1,29 @@
+# PygmyWFBC.csv
+#
+# year: Year of capture (2000, 2001)
+# month: Month of capture
+# week: Week within a month of capture
+# net_no: Unique net identification number
+# fish_no: Unique fish identification number
+# fl: Fork length (cm)
+# tl: Total length (cm)
+# wt: Weight (g)
+# sex: Sex code (F=Female, M=Male, Imm=immature)
+# mat: Maturity code (Imm=immature, MG=maturing, MT=mature)
+# scale_age: Scale age (in years)
+# oto_age: Otolith age (in years)
+# USE: Should the individual be used for analyses.
+#
+# Note that the levels for sex and mat should be controlled as follows
+#  (this assumes that your data are in an objected called df):
+#
+# df$sex <- factor(df$sex,levels=c("Imm","F","M"))
+# df$mat <- factor(df$mat,levels=c("Imm","MG","MT"))
+#
+# Finally, these data have lots of missing values that were coded with blanks.
+#   These can be removed with the following code:
+#
+#   df <- filterD(df,!USE)
+#
+# Following that the USE variable can be ignored.
+
