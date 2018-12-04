@@ -1,0 +1,5 @@
+# use: Land use category
+#        Abandoned: mine was abandoned
+#        Reclaimed: mine was reclaimed
+#        Unmined: location was never mined
+# FE: Amount of iron recorded (mg/L)      
