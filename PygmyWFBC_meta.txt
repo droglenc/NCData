@@ -28,3 +28,9 @@
 #   df <- filterD(df,USE)
 #
 #     the USE variable can be ignored after this.
+#
+#  4. Remove the variables that you were asked to ignored (as part of the final exam).
+#       This is not needed, but makes your life easier.
+#
+#   df <- dplyr::select(df,-USE,-net_no,-fish_no,-scale_age)
+#
