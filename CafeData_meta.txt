@@ -1,0 +1,32 @@
+# Data originally from http://www.amstat.org/publications/jse/v19n1/cafedata.xls
+# Modified to work more easily with my students.
+#   - Removed all "na" (replaced them with spaces)
+#   - Changed all variables names to be more easily read
+#
+# t: time since cafe opened
+# date: Date
+# day_code: A code for day (1=Mon)
+# day: Day of the week (name)
+# sand_sold: Sandwiches sold that day
+# sand_waste: Sandwiches wasted that day
+# wraps_sold: wraps sold that day
+# wraps_waste: wraps wasted that day
+# muffins_sold: Muffins sold that day
+# muffins_waste: Muffins wasted that day
+# cookies_sold: Cookies sold that day
+# cookies_waste: Cookies wasted that day
+# fruit_sold: Fruit cups sold that day
+# fruit_waste: Fruit cups wasted that day
+# chips: Bags of chips sold that day
+# juices: Juices sold that day
+# sodas: Sodas sold that day
+# coffees: Coffees sold that day
+# soda_and_coffee: Total of sodas and coffees sold that day
+# total_sales: Total sales that day
+# max_temp: Maximum daily temperature
+# total_waste: Total items of waster that day
+#
+# Suggest factoring the day so that the days are in order
+#   this assumes that data are in df
+#
+# df$day <- factor(df$day,levels=c("Mon","Tue","Wed","Thu","Fri"))
