@@ -1,0 +1,10 @@
+# BlackBears.csv
+#
+# Provided as a supplement to Bartareau TM. 2017. Estimating the live body weight of American Black Bears in Florida. Journal of Fish and Wildlife Management. 8:234-239. URL: http://www.fwspubs.org/doi/10.3996/012016-JFWM-003.
+#
+# date: Date of collection
+# sex: Sex (FEMALE, MALE)
+# age: Age (years)
+# weight: Body weight (kg)
+# chest: Chest girth (cm)
+# length: Total body length (cm)
