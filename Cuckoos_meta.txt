@@ -1,0 +1,4 @@
+# Cuckoos.csv
+#
+# length: lengths (mm) of cuckoo eggs found in the host nests
+# species: host nest bird species (Pipet, Sparrow, Wagtail)
