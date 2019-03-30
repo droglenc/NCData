@@ -18,12 +18,10 @@
 #  miss: logical for whether individual contains any missing data
 #  out: logical for whether individual contains any outlier data
 #
-# If the data are read into an object called P then use the following commands to obtain a
-#   "clean" data set -- i.e., this removes individuals with missing data or erroneous outliers
+# If you are using the data for Dr. Ogle's final exam in Intro stats then you
+# should run the following code to clean the data (assumes your data have been
+# loaded into an objected called df).
 #
-#    P <- P[!P$miss & !P$out,]
-#
-# In addition, the site variable should be converted to a factor variable -- i.e.,
-#
-#    P$site <- factor(P$site)
+#    df <- df[!df$miss & !df$out,]
+#    df$site <- factor(df$site)
 #
