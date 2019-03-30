@@ -26,22 +26,15 @@
 # inc: income category (30=30000-39999, 40-40000-49999, etc.)
 # value: respondent's belief as to the current value of their property
 #
-# Note that the levels for the fishing, boating, waterSki, smallBoats, sail,
-#   jetSki, and swim variables should be ordered.  For example, using the fishing
-#   and jetSki variables as examples (and assuming the data.frame is called df).
+# These data are often used for a final exam in Ogle's Intro Stats course. For
+#  that course, run the following code after you have read the data into the
+#  df object to make the data easier to manage.
 #
 #    use.levs <- c("0_days","1_6_days","7_14_days","15_30_days","30_60_days","60+_days")
-#    df$fishing <- factor(df$fishing,levels=use.levs)
-#    df$jetSki <- factor(df$jetSki,levels=use.levs)
-#
-# The same for the educat variable
-#
 #    edu.levs <- c("ltHS","HS","someColl","College","GradProf")
+#
+#    df <- dplyr::select(df,lake:sumDays,educat,fishing,age,value)
+#    df$fishing <- factor(df$fishing,levels=use.levs)
 #    df$educat <- factor(df$educat,levels=edu.levs)
-#
-# Finally, these data have lots of missing values that were coded with blanks.
-#   The blanks in the prmryRes variable will cause you some problems.  You can
-#   use the following code to help alleviate those problems.
-#
 #    df$prmryRes <- factor(df$prmryRes,levels=c("No","Yes"))
 #
