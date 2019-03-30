@@ -14,23 +14,13 @@
 # oto_age: Otolith age (in years)
 # USE: Should the individual be used for analyses.
 #
-# Note the following (assumes that your data are in an objected called df):
-#  1. The levels for month should be controlled with
-#
-#   df$month <- factor(df$month,levels=c("May","June","July","August","September","October","November"))
-#
-#  2. The year variable should be converted to a factor (i.e., categorical) with
-#
-#   df$year <- factor(df$year)
-#
-#  3. Remove "bad" records with
+# If you are using the data for Dr. Ogle's final exam in Intro stats then you
+# should run the following code to clean the data (assumes your data have been
+# loaded into an objected called df).
 #
 #   df <- filterD(df,USE)
-#
-#     the USE variable can be ignored after this.
-#
-#  4. Remove the variables that you were asked to ignored (as part of the final exam).
-#       This is not needed, but makes your life easier.
-#
+#   df$year <- factor(df$year)
+#   mons <- c("May","June","July","August","September","October","November")
+#   df$month <- factor(df$month,levels=mons)
 #   df <- dplyr::select(df,-USE,-net_no,-fish_no,-scale_age)
 #
