@@ -15,7 +15,8 @@
 #  miss: logical is TRUE if some data is missing
 #  out: Logical is TRUE if some data appears erroneous
 #
-# If data are read into an object called RM, then use the following to obtain a
-#   "clean" data set -- i.e., remove missing data and erroneous outliers
+# If you are using the data for Dr. Ogle's final exam in Intro stats then you
+# should run the following code to clean the data (assumes your data have been
+# loaded into an objected called df).
 #
-#   RM <- RM[!RM$miss & !RM$out,]
+#    df <- df[!df$miss & !df$out,]
