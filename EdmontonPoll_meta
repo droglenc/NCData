@@ -1,0 +1,6 @@
+# EdmontonPoll.csv
+# party: Political party affiliation (PC (Progressive Conservative), Liberal)
+# agreement: Strength of agreement with the question "Unemployment is high
+#            because trade unions have priced their members out of a job." On a
+#            seven point scale with 1=Strongly Disagree and 7=Strongly Agree.
+# From http://uregina.ca/~gingrich/ch10.pdf
