@@ -1,0 +1,7 @@
+# From Figure 2 in Eeckman J et al. 2017. Providing a non-deterministic
+#   representation of spatial variability of precipitation in the Everest
+#   region, Hydrology and Earth System Sciences 21(9):4879-4893.
+#
+# Altitude: Altitude lapse rate (oC/km)
+# MeanAirTemp: Mean seasonal air temperature (oC)
+# Season: Season (Monsoon or Winter)
