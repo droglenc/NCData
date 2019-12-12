@@ -1,0 +1,6 @@
+# Sessile.csv
+# Originally from http://environmentalcomputing.net/analysis-variance-factorial/
+#
+# Richness: Species richness (number of species present)
+# Copper: Copper treatment amount (None, Low, High)
+# Orientation: Habitat orientation (Horizontal, Vertical)
