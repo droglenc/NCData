@@ -1,0 +1,9 @@
+# Rattlesnakes.csv
+#  Extracted from Figure 2 in Owings et al. 2002. The rattling sound of
+#  Rattlesnakes (Crotalus viridis) as a communicative resource for Ground
+#  Squirrels (Spermophilus beecheyi) and Burrowing Owls (Athene cunicularia).
+#  Journal of Comparative Psychology 116:197-205.
+#
+# snake: A unique ID for the snake.
+# weight: Weight of the snake in grams.
+# freq: Peak frequency of the snake's rattling in kHz.
