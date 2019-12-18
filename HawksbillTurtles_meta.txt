@@ -1,0 +1,13 @@
+# HawksbillTurtles.csv
+#  From Channgin et al. 2019. Nesting ecology of hawksbill turtles, Eretmochelys
+#  imbricata, in an extreme environmental setting. PLOS One. Available at:
+#  https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0203257.
+#
+# Region: Region where turtle was sampled.
+# Location: Specific location where turtle was sampled (usually a country).
+# Nesting: Nesting season length (days)
+# SCL: Straight carapace length (cm)
+# CCL: Curved carapace length (cm)
+# CCW: Curved carapace width (cm)
+# Clutch.Size: Clutch size (number of eggs)
+# Reference: Reference for information

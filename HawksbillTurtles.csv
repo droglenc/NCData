@@ -1,0 +1,519 @@
+Region,Location,Nesting,SCL,CCL,CCW,Clutch.Size,Reference
+Arabian Gulf,Qatar,52,,65,60,67,Ours
+Arabian Gulf,Qatar,52,,71,67,88,Ours
+Arabian Gulf,Qatar,52,,70,66,86,Ours
+Arabian Gulf,Qatar,52,,71,70,91,Ours
+Arabian Gulf,Qatar,52,,73,63,78,Ours
+Arabian Gulf,Qatar,52,,72,66,93,Ours
+Arabian Gulf,Qatar,52,,75,65,113,Ours
+Arabian Gulf,Qatar,52,,72,62,79,Ours
+Arabian Gulf,Qatar,52,,68,61,78,Ours
+Arabian Gulf,Qatar,52,,70,65,100,Ours
+Arabian Gulf,Qatar,52,,68,62,,Ours
+Arabian Gulf,Qatar,52,,73.5,66.5,93,Ours
+Arabian Gulf,Qatar,52,,73,64.5,69,Ours
+Arabian Gulf,Qatar,52,,70,64,,Ours
+Arabian Gulf,Qatar,52,,71,64,59,Ours
+Arabian Gulf,Qatar,52,,73,66,,Ours
+Arabian Gulf,Qatar,52,,,,77,Ours
+Arabian Gulf,Qatar,52,,71,65,62,Ours
+Arabian Gulf,Qatar,52,,64,61,70,Ours
+Arabian Gulf,Qatar,52,,70,64,82,Ours
+Arabian Gulf,Qatar,52,,,,44,Ours
+Arabian Gulf,Qatar,52,,,,75,Ours
+Arabian Gulf,Qatar,52,,,,83,Ours
+Arabian Gulf,Qatar,52,,,,76,Ours
+Arabian Gulf,Qatar,52,,,,96,Ours
+Arabian Gulf,Qatar,52,,70,65,83,Ours
+Arabian Gulf,Qatar,52,,70,64.5,83,Ours
+Arabian Gulf,Qatar,52,,73,64.5,84,Ours
+Arabian Gulf,Qatar,52,,69,63.5,77,Ours
+Arabian Gulf,Qatar,52,,66,58.5,75,Ours
+Arabian Gulf,Qatar,52,,68,61,64,Ours
+Arabian Gulf,Qatar,52,,70,64,80,Ours
+Arabian Gulf,Qatar,52,,73.5,66.5,104,Ours
+Arabian Gulf,Qatar,52,,73,66,,Ours
+Arabian Gulf,Qatar,52,,71,64,,Ours
+Arabian Gulf,Qatar,52,,73.5,67.5,80,Ours
+Arabian Gulf,Qatar,52,,70,63,,Ours
+Arabian Gulf,Qatar,52,,66.5,61,64,Ours
+Arabian Gulf,Qatar,52,,70,66,59,Ours
+Arabian Gulf,Qatar,52,,73,63,68,Ours
+Arabian Gulf,Qatar,52,,73,67,114,Ours
+Arabian Gulf,Qatar,52,,68,62,76,Ours
+Arabian Gulf,Qatar,52,,69,64.5,61,Ours
+Arabian Gulf,Qatar,52,,72.5,62,67,Ours
+Arabian Gulf,Qatar,52,,69.5,64,75,Ours
+Arabian Gulf,Qatar,52,,72,66,,Ours
+Arabian Gulf,Qatar,52,,73,65.5,63,Ours
+Arabian Gulf,Qatar,52,,73.5,66.5,80,Ours
+Arabian Gulf,Qatar,47,,68,64.5,101,Ours
+Arabian Gulf,Qatar,47,,67.5,64,78,Ours
+Arabian Gulf,Qatar,47,,80,74,111,Ours
+Arabian Gulf,Qatar,47,,69.5,63.5,106,Ours
+Arabian Gulf,Qatar,47,,70.5,65.5,70,Ours
+Arabian Gulf,Qatar,47,,70.5,65.5,59,Ours
+Arabian Gulf,Qatar,47,,77.5,70.5,97,Ours
+Arabian Gulf,Qatar,47,,72,64.5,100,Ours
+Arabian Gulf,Qatar,47,,73.5,68,61,Ours
+Arabian Gulf,Qatar,47,,69.5,63.5,78,Ours
+Arabian Gulf,Qatar,47,,70.5,65.5,78,Ours
+Arabian Gulf,Qatar,47,,71.5,66.5,75,Ours
+Arabian Gulf,Qatar,47,,73.5,68,101,Ours
+Arabian Gulf,Qatar,47,,72,64.5,79,Ours
+Arabian Gulf,Qatar,47,,78.5,68.5,51,Ours
+Arabian Gulf,Qatar,47,,66.5,60,67,Ours
+Arabian Gulf,Qatar,47,,73,68,101,Ours
+Arabian Gulf,Qatar,47,,69.5,63.5,87,Ours
+Arabian Gulf,Qatar,47,,73.5,68,52,Ours
+Arabian Gulf,Qatar,47,,69,59.5,68,Ours
+Arabian Gulf,Qatar,47,,72,64.5,88,Ours
+Arabian Gulf,Qatar,47,,71.5,65.5,84,Ours
+Arabian Gulf,Qatar,47,,71,64,96,Ours
+Arabian Gulf,Qatar,47,,70,67,46,Ours
+Arabian Gulf,Qatar,47,,73.5,69,84,Ours
+Arabian Gulf,Qatar,47,,70,67,80,Ours
+Arabian Gulf,Qatar,47,,69,66.5,110,Ours
+Arabian Gulf,Qatar,47,,71,64,73,Ours
+Arabian Gulf,Qatar,47,,73.5,69,102,Ours
+Arabian Gulf,Qatar,47,,71.5,66,101,Ours
+Arabian Gulf,Qatar,47,,73,69,83,Ours
+Arabian Gulf,Qatar,47,,71,64,86,Ours
+Arabian Gulf,Qatar,47,,73.5,69,101,Ours
+Arabian Gulf,Qatar,47,,69,62,78,Ours
+Arabian Gulf,Qatar,47,,73.5,69,106,Ours
+Arabian Gulf,Qatar,48,,69,65.5,106,Ours
+Arabian Gulf,Qatar,48,,73,66.5,87,Ours
+Arabian Gulf,Qatar,48,,66,63,54,Ours
+Arabian Gulf,Qatar,48,,74,64,110,Ours
+Arabian Gulf,Qatar,48,,67,63,68,Ours
+Arabian Gulf,Qatar,48,,70,66,96,Ours
+Arabian Gulf,Qatar,48,,73,66.5,83,Ours
+Arabian Gulf,Qatar,48,,69,65.5,82,Ours
+Arabian Gulf,Qatar,48,,68,62,96,Ours
+Arabian Gulf,Qatar,48,,71.5,63,69,Ours
+Arabian Gulf,Qatar,48,,69,65,74,Ours
+Arabian Gulf,Qatar,48,,73,66.5,83,Ours
+Arabian Gulf,Qatar,48,,69,65.5,61,Ours
+Arabian Gulf,Qatar,48,,66,65,90,Ours
+Arabian Gulf,Qatar,48,,73,66.5,76,Ours
+Arabian Gulf,Qatar,44,,69,63,99,Ours
+Arabian Gulf,Qatar,44,,70.5,65,86,Ours
+Arabian Gulf,Qatar,44,,69,62.2,86,Ours
+Arabian Gulf,Qatar,44,,70.8,64.2,86,Ours
+Arabian Gulf,Qatar,44,,71.2,63.2,92,Ours
+Arabian Gulf,Qatar,44,,72.3,66.2,97,Ours
+Arabian Gulf,Qatar,44,,67,59,61,Ours
+Arabian Gulf,Qatar,44,,74.6,63.3,102,Ours
+Arabian Gulf,Qatar,44,,64.4,59.4,69,Ours
+Arabian Gulf,Qatar,44,,69.2,64.5,79,Ours
+Arabian Gulf,Qatar,44,,69.8,64,71,Ours
+Arabian Gulf,Qatar,44,,73,66,69,Ours
+Arabian Gulf,Qatar,44,,67.6,68.8,88,Ours
+Arabian Gulf,Qatar,44,,73,67,82,Ours
+Arabian Gulf,Qatar,44,,70.5,65,63,Ours
+Arabian Gulf,Qatar,44,,71.2,63.2,85,Ours
+Arabian Gulf,Qatar,44,,71,62.4,84,Ours
+Arabian Gulf,Qatar,44,,67,59,73,Ours
+Arabian Gulf,Qatar,44,,79.3,73.2,86,Ours
+Arabian Gulf,Qatar,44,,69.2,64.5,87,Ours
+Arabian Gulf,Qatar,44,,71.1,66,86,Ours
+Arabian Gulf,Qatar,44,,67.5,58.2,128,Ours
+Arabian Gulf,Qatar,44,,69.3,62.2,48,Ours
+Arabian Gulf,Qatar,44,,67,63,58,Ours
+Arabian Gulf,Qatar,44,,71.1,66,44,Ours
+Arabian Gulf,Qatar,44,,68.7,61.4,58,Ours
+Arabian Gulf,Qatar,44,,71.5,64,73,Ours
+Arabian Gulf,Qatar,44,,66.4,57.5,67,Ours
+Arabian Gulf,Qatar,44,,72.5,64.2,81,Ours
+Arabian Gulf,Qatar,56,,,,63,Ours
+Arabian Gulf,Qatar,56,,,,30,Ours
+Arabian Gulf,Qatar,56,,,,47,Ours
+Arabian Gulf,Qatar,56,,,,75,Ours
+Arabian Gulf,Qatar,56,,,,74,Ours
+Arabian Gulf,Qatar,56,,74,64,87,Ours
+Arabian Gulf,Qatar,56,,71.5,66,61,Ours
+Arabian Gulf,Qatar,56,,,,71,Ours
+Arabian Gulf,Qatar,56,,,,46,Ours
+Arabian Gulf,Qatar,56,,,,72,Ours
+Arabian Gulf,Qatar,56,,,,100,Ours
+Arabian Gulf,Qatar,56,,,,89,Ours
+Arabian Gulf,Qatar,56,,69,65.5,48,Ours
+Arabian Gulf,Qatar,56,,,,61,Ours
+Arabian Gulf,Qatar,56,,,,82,Ours
+Arabian Gulf,Qatar,56,,,,70,Ours
+Arabian Gulf,Qatar,56,,70.5,64.5,62,Ours
+Arabian Gulf,Qatar,56,,,,74,Ours
+Arabian Gulf,Qatar,56,,,,75,Ours
+Arabian Gulf,Qatar,56,,,,80,Ours
+Arabian Gulf,Qatar,56,,,,53,Ours
+Arabian Gulf,Qatar,56,,,,60,Ours
+Arabian Gulf,Qatar,56,,,,97,Ours
+Arabian Gulf,Qatar,56,,,,79,Ours
+Arabian Gulf,Qatar,56,,76,69.5,64,Ours
+Arabian Gulf,Qatar,56,,,,53,Ours
+Arabian Gulf,Qatar,56,,,,90,Ours
+Arabian Gulf,Qatar,56,,71,65,51,Ours
+Arabian Gulf,Qatar,56,,,,59,Ours
+Arabian Gulf,Qatar,56,,,,89,Ours
+Arabian Gulf,Qatar,56,,71.5,66,72,Ours
+Arabian Gulf,Qatar,63,,,,,Ours
+Arabian Gulf,Qatar,63,,74.5,67,118,Ours
+Arabian Gulf,Qatar,63,,70,66,116,Ours
+Arabian Gulf,Qatar,63,,73.5,66.5,95,Ours
+Arabian Gulf,Qatar,63,,69,61.5,44,Ours
+Arabian Gulf,Qatar,63,,,,,Ours
+Arabian Gulf,Qatar,63,,,,,Ours
+Arabian Gulf,Qatar,63,,,,,Ours
+Arabian Gulf,Qatar,63,,71.5,66,86,Ours
+Arabian Gulf,Qatar,63,,73,68,106,Ours
+Arabian Gulf,Qatar,63,,,,68,Ours
+Arabian Gulf,Qatar,63,,72,67,102,Ours
+Arabian Gulf,Qatar,63,,,,76,Ours
+Arabian Gulf,Qatar,63,,,,78,Ours
+Arabian Gulf,Qatar,63,,,,72,Ours
+Arabian Gulf,Qatar,63,,,,92,Ours
+Arabian Gulf,Qatar,63,,69,63,83,Ours
+Arabian Gulf,Qatar,63,,71,65,81,Ours
+Arabian Gulf,Qatar,63,,60.5,69,62,Ours
+Arabian Gulf,Qatar,63,,73,67.8,107,Ours
+Arabian Gulf,Qatar,63,,,,95,Ours
+Arabian Gulf,Qatar,63,,72,67,82,Ours
+Arabian Gulf,Qatar,63,,71.2,65.5,50,Ours
+Arabian Gulf,Qatar,63,,73.5,67.5,102,Ours
+Arabian Gulf,Qatar,63,,69.1,59.2,81,Ours
+Arabian Gulf,Qatar,63,,,,83,Ours
+Arabian Gulf,Qatar,63,,71.4,64.5,67,Ours
+Arabian Gulf,Qatar,63,,63.5,72,87,Ours
+Arabian Gulf,Qatar,63,,73,67.8,101,Ours
+Arabian Gulf,Qatar,63,,,,92,Ours
+Arabian Gulf,Qatar,63,,,,90,Ours
+Arabian Gulf,Qatar,63,,69.5,62,69,Ours
+Arabian Gulf,Qatar,63,,73.5,66.5,90,Ours
+Arabian Gulf,Qatar,63,,74,68,86,Ours
+Arabian Gulf,Qatar,63,,73.5,66.5,72,Ours
+Arabian Gulf,Iran,,,71,64,54,Pazira et al. (2015)
+Arabian Gulf,Iran,,,70.5,66.5,87,Pazira et al. (2015)
+Arabian Gulf,Iran,,,68.5,61,55,Pazira et al. (2015)
+Arabian Gulf,Iran,,,72,70,62,Pazira et al. (2015)
+Arabian Gulf,Iran,,,73.5,65,79,Pazira et al. (2015)
+Arabian Gulf,Iran,,,68,63,72,Pazira et al. (2015)
+Arabian Gulf,Iran,,,72,65,72,Pazira et al. (2015)
+Arabian Gulf,Iran,,,66,62,54,Pazira et al. (2015)
+Arabian Gulf,Iran,,,67,63,71,Pazira et al. (2015)
+Arabian Gulf,Iran,,,69,63,68,Pazira et al. (2015)
+Arabian Gulf,Iran,,,68.5,64,84,Pazira et al. (2015)
+Arabian Gulf,Iran,,,75,70,73,Pazira et al. (2015)
+Arabian Gulf,Iran,,,67.5,62,92,Pazira et al. (2015)
+Arabian Gulf,Iran,,,69,64.5,81,Pazira et al. (2015)
+Arabian Gulf,Iran,,,73.5,69.5,85,Pazira et al. (2015)
+Arabian Gulf,Iran,,,70,64,86,Pazira et al. (2015)
+Arabian Gulf,Iran,,,71,64,75,Pazira et al. (2015)
+Arabian Gulf,Iran,,,74,67,87,Pazira et al. (2015)
+Arabian Gulf,Iran,,,76.5,68.5,65,Pazira et al. (2015)
+Arabian Gulf,Iran,,,72,66,68,Pazira et al. (2015)
+Arabian Gulf,Iran,,,66,64,73,Pazira et al. (2015)
+Arabian Gulf,Iran,,,63.5,60,81,Pazira et al. (2015)
+Arabian Gulf,Iran,,,75.5,64,69,Pazira et al. (2015)
+Arabian Gulf,Iran,,,71.5,68.5,57,Pazira et al. (2015)
+Arabian Gulf,Iran,,,74,72,87,Pazira et al. (2015)
+Arabian Gulf,Iran,,,73,71,92,Pazira et al. (2015)
+Arabian Gulf,Iran,,,71,68,80,Pazira et al. (2015)
+Arabian Gulf,Iran,,,69.5,66.5,65,Pazira et al. (2015)
+Arabian Gulf,Iran,,,74,68,56,Pazira et al. (2015)
+Arabian Gulf,Iran,,,79.5,72,71,Pazira et al. (2015)
+Arabian Gulf,Iran,,,73,67,94,Pazira et al. (2015)
+Arabian Gulf,Iran,,,70,63.5,90,Pazira et al. (2015)
+Arabian Gulf,Iran,,,68,65,73,Pazira et al. (2015)
+Arabian Gulf,Iran,,,69,64,61,Pazira et al. (2015)
+Arabian Gulf,Iran,,,73,66,54,Pazira et al. (2015)
+Arabian Gulf,Iran,,,72,67,59,Pazira et al. (2015)
+Arabian Gulf,Iran,,,75,68.5,77,Pazira et al. (2015)
+Arabian Gulf,Iran,,,77.5,69,89,Pazira et al. (2015)
+Indian Ocean,Oman,,60,62.8,,93,Ross (1980)
+Indian Ocean,Oman,,61,63.9,,113,Ross (1980)
+Indian Ocean,Oman,,64,67,,113,Ross (1980)
+Indian Ocean,Oman,,68,71.2,,92,Ross (1980)
+Indian Ocean,Oman,,69,72.3,,80,Ross (1980)
+Indian Ocean,Oman,,70,73.3,,106,Ross (1980)
+Indian Ocean,Oman,,70,73.3,,85,Ross (1980)
+Indian Ocean,Oman,,70,73.3,,118,Ross (1980)
+Indian Ocean,Oman,,70,73.3,,75,Ross (1980)
+Indian Ocean,Oman,,70,73.3,,,Ross (1980)
+Indian Ocean,Oman,,70,73.3,,,Ross (1980)
+Indian Ocean,Oman,,70,73.3,,,Ross (1980)
+Indian Ocean,Oman,,70,73.3,,,Ross (1980)
+Indian Ocean,Oman,,70,73.3,,,Ross (1980)
+Indian Ocean,Oman,,70,73.3,,,Ross (1980)
+Indian Ocean,Oman,,71,74.3,,,Ross (1980)
+Indian Ocean,Oman,,71,74.3,,,Ross (1980)
+Indian Ocean,Oman,,71,74.3,,,Ross (1980)
+Indian Ocean,Oman,,71,74.3,,,Ross (1980)
+Indian Ocean,Oman,,71,74.3,,,Ross (1980)
+Indian Ocean,Oman,,71,74.3,,,Ross (1980)
+Indian Ocean,Oman,,71,74.3,,,Ross (1980)
+Indian Ocean,Oman,,71,74.3,,,Ross (1980)
+Indian Ocean,Oman,,72,75.4,,,Ross (1980)
+Indian Ocean,Oman,,72,75.4,,,Ross (1980)
+Indian Ocean,Oman,,73,76.4,,,Ross (1980)
+Indian Ocean,Oman,,74,77.5,,,Ross (1980)
+Indian Ocean,Oman,,74,77.5,,,Ross (1980)
+Indian Ocean,Oman,,75,78.5,,,Ross (1980)
+Indian Ocean,Oman,,75,78.5,,,Ross (1980)
+Indian Ocean,Oman,,76,79.6,,,Ross (1980)
+Indian Ocean,Oman,,76,79.6,,,Ross (1980)
+Indian Ocean,Oman,,76,79.6,,,Ross (1980)
+Indian Ocean,Oman,,76,79.6,,,Ross (1980)
+Indian Ocean,Oman,,77,80.6,,,Ross (1980)
+Indian Ocean,Oman,,77,80.6,,,Ross (1980)
+Indian Ocean,Oman,,77,80.6,,,Ross (1980)
+Indian Ocean,Oman,,77,80.6,,,Ross (1980)
+Indian Ocean,Oman,,77,80.6,,,Ross (1980)
+Indian Ocean,Oman,,77,80.6,,,Ross (1980)
+Indian Ocean,Oman,,78,81.7,,,Ross (1980)
+Indian Ocean,Oman,,78,81.7,,,Ross (1980)
+Indian Ocean,Oman,,78,81.7,,,Ross (1980)
+Indian Ocean,Oman,,79,82.7,,,Ross (1980)
+Indian Ocean,Oman,,79,82.7,,,Ross (1980)
+Indian Ocean,Oman,,80,83.8,,,Ross (1980)
+Indian Ocean,Oman,,80,83.8,,,Ross (1980)
+Indian Ocean,Oman,,80,83.8,,,Ross (1980)
+Indian Ocean,Oman,,80,83.8,,,Ross (1980)
+Indian Ocean,Oman,,80,83.8,,,Ross (1980)
+Indian Ocean,Oman,,81,84.8,,,Ross (1980)
+Indian Ocean,Oman,,82,85.8,,,Ross (1980)
+Indian Ocean,Oman,,83,86.9,,,Ross (1980)
+Caribbean,Mexico,,,94,,180.3,Xavier et al. (2006)
+Caribbean,Mexico,,,94,,173.9,Xavier et al. (2006)
+Caribbean,Mexico,,,93,,171.3,Xavier et al. (2006)
+Caribbean,Mexico,,,88.9,,136.5,Xavier et al. (2006)
+Caribbean,Mexico,,,89.1,,133.1,Xavier et al. (2006)
+Caribbean,Mexico,,,90.1,,124.3,Xavier et al. (2006)
+Caribbean,Mexico,,,92,,134,Xavier et al. (2006)
+Caribbean,Mexico,,,94.1,,130.1,Xavier et al. (2006)
+Caribbean,Mexico,,,94,,118.3,Xavier et al. (2006)
+Caribbean,Mexico,,,94.1,,114.9,Xavier et al. (2006)
+Caribbean,Mexico,,,94.1,,107.2,Xavier et al. (2006)
+Caribbean,Mexico,,,96.1,,108.9,Xavier et al. (2006)
+Caribbean,Mexico,,,95.1,,120.9,Xavier et al. (2006)
+Caribbean,Mexico,,,95.1,,152.9,Xavier et al. (2006)
+Caribbean,Mexico,,,94,,157,Xavier et al. (2006)
+Caribbean,Mexico,,,95.1,,159.9,Xavier et al. (2006)
+Caribbean,Mexico,,,96,,181.3,Xavier et al. (2006)
+Caribbean,Mexico,,,97.1,,168.9,Xavier et al. (2006)
+Caribbean,Mexico,,,97.1,,161.1,Xavier et al. (2006)
+Caribbean,Mexico,,,96.1,,154.4,Xavier et al. (2006)
+Caribbean,Mexico,,,97,,150,Xavier et al. (2006)
+Caribbean,Mexico,,,98.1,,153,Xavier et al. (2006)
+Caribbean,Mexico,,,98,,155.4,Xavier et al. (2006)
+Caribbean,Mexico,,,98.1,,159.4,Xavier et al. (2006)
+Caribbean,Mexico,,,99,,159.1,Xavier et al. (2006)
+Caribbean,Mexico,,,99,,157,Xavier et al. (2006)
+Caribbean,Mexico,,,99.9,,158.7,Xavier et al. (2006)
+Caribbean,Mexico,,,99,,131.5,Xavier et al. (2006)
+Caribbean,Mexico,,,97,,122.3,Xavier et al. (2006)
+Caribbean,Mexico,,,98.1,,122.5,Xavier et al. (2006)
+Caribbean,Mexico,,,98.1,,121.3,Xavier et al. (2006)
+Caribbean,Mexico,,,98.1,,118.1,Xavier et al. (2006)
+Caribbean,Mexico,,,99.1,,97.2,Xavier et al. (2006)
+Caribbean,Mexico,,,100.1,,92,Xavier et al. (2006)
+Caribbean,Mexico,,,100.1,,94.9,Xavier et al. (2006)
+Caribbean,Mexico,,,100,,96.9,Xavier et al. (2006)
+Caribbean,Mexico,,,100.1,,106.1,Xavier et al. (2006)
+Caribbean,Mexico,,,101,,145.3,Xavier et al. (2006)
+Caribbean,Mexico,,,102,,139.2,Xavier et al. (2006)
+Caribbean,Mexico,,,101.1,,124.3,Xavier et al. (2006)
+Caribbean,Mexico,,,101.1,,123.3,Xavier et al. (2006)
+Caribbean,Mexico,,,101.1,,111.9,Xavier et al. (2006)
+Caribbean,Mexico,,,101,,95.2,Xavier et al. (2006)
+Caribbean,Mexico,,,102,,110.9,Xavier et al. (2006)
+Caribbean,Mexico,,,102.6,,113.3,Xavier et al. (2006)
+Caribbean,Mexico,,,102.1,,118.9,Xavier et al. (2006)
+Caribbean,Mexico,,,102.1,,124.3,Xavier et al. (2006)
+Caribbean,Mexico,,,102.1,,128.6,Xavier et al. (2006)
+Caribbean,Mexico,,,103,,129.6,Xavier et al. (2006)
+Caribbean,Mexico,,,103,,127.8,Xavier et al. (2006)
+Caribbean,Mexico,,,103,,125.1,Xavier et al. (2006)
+Caribbean,Mexico,,,103.1,,124.1,Xavier et al. (2006)
+Caribbean,Mexico,,,103,,116.3,Xavier et al. (2006)
+Caribbean,Mexico,,,103.1,,109.2,Xavier et al. (2006)
+Caribbean,Mexico,,,103,,97.5,Xavier et al. (2006)
+Caribbean,Mexico,,,105.5,,89,Xavier et al. (2006)
+Caribbean,Mexico,,,104,,104.2,Xavier et al. (2006)
+Caribbean,Mexico,,,105,,107.1,Xavier et al. (2006)
+Caribbean,Mexico,,,106.1,,107.9,Xavier et al. (2006)
+Caribbean,Mexico,,,106,,115.6,Xavier et al. (2006)
+Caribbean,Mexico,,,106,,121.1,Xavier et al. (2006)
+Caribbean,Mexico,,,106,,123.6,Xavier et al. (2006)
+Caribbean,Mexico,,,106,,125,Xavier et al. (2006)
+Caribbean,Mexico,,,105.1,,124.8,Xavier et al. (2006)
+Caribbean,Mexico,,,104.5,,126.1,Xavier et al. (2006)
+Caribbean,Mexico,,,105.6,,131.1,Xavier et al. (2006)
+Caribbean,Mexico,,,106,,136.2,Xavier et al. (2006)
+Caribbean,Mexico,,,105,,137,Xavier et al. (2006)
+Caribbean,Mexico,,,103.9,,136,Xavier et al. (2006)
+Caribbean,Mexico,,,106,,144,Xavier et al. (2006)
+Caribbean,Mexico,,,106,,151.4,Xavier et al. (2006)
+Caribbean,Mexico,,,105.1,,162.9,Xavier et al. (2006)
+Caribbean,Mexico,,,106,,173.9,Xavier et al. (2006)
+Caribbean,Mexico,,,106,,176.9,Xavier et al. (2006)
+Caribbean,Mexico,,,108,,153.2,Xavier et al. (2006)
+Caribbean,Mexico,,,106.9,,141.3,Xavier et al. (2006)
+Caribbean,Mexico,,,107,,134.3,Xavier et al. (2006)
+Caribbean,Mexico,,,107,,129.1,Xavier et al. (2006)
+Caribbean,Mexico,,,108.1,,111.1,Xavier et al. (2006)
+Caribbean,Mexico,,,108.1,,122.8,Xavier et al. (2006)
+Caribbean,Mexico,,,108,,124.6,Xavier et al. (2006)
+Caribbean,Mexico,,,108.1,,135,Xavier et al. (2006)
+Caribbean,Mexico,,,109.1,,160.4,Xavier et al. (2006)
+Caribbean,Mexico,,,109,,144.5,Xavier et al. (2006)
+Caribbean,Mexico,,,109,,138.2,Xavier et al. (2006)
+Caribbean,Mexico,,,109.1,,133,Xavier et al. (2006)
+Caribbean,Mexico,,,109,,126.5,Xavier et al. (2006)
+Caribbean,Mexico,,,109.1,,119.1,Xavier et al. (2006)
+Caribbean,Mexico,,,109.1,,117.3,Xavier et al. (2006)
+Caribbean,Mexico,,,109,,108.6,Xavier et al. (2006)
+Caribbean,Mexico,,,110.1,,108.2,Xavier et al. (2006)
+Caribbean,Mexico,,,109.5,,125.8,Xavier et al. (2006)
+Caribbean,Mexico,,,110,,131.1,Xavier et al. (2006)
+Caribbean,Mexico,,,110,,146.4,Xavier et al. (2006)
+Caribbean,Mexico,,,110,,151.9,Xavier et al. (2006)
+Caribbean,Mexico,,,110,,154,Xavier et al. (2006)
+Caribbean,Mexico,,,110.1,,161.1,Xavier et al. (2006)
+Caribbean,Mexico,,,110,,165.2,Xavier et al. (2006)
+Caribbean,Mexico,,,112,,147.5,Xavier et al. (2006)
+Caribbean,Mexico,,,111,,138.7,Xavier et al. (2006)
+Caribbean,Mexico,,,111.1,,135.7,Xavier et al. (2006)
+Caribbean,Mexico,,,111,,130.1,Xavier et al. (2006)
+Caribbean,Mexico,,,111,,127.6,Xavier et al. (2006)
+Caribbean,Mexico,,,111,,107.2,Xavier et al. (2006)
+Caribbean,Mexico,,,112,,96,Xavier et al. (2006)
+Caribbean,Mexico,,,112,,104.2,Xavier et al. (2006)
+Caribbean,Mexico,,,112,,134,Xavier et al. (2006)
+Caribbean,Mexico,,,112.9,,140,Xavier et al. (2006)
+Caribbean,Mexico,,,113,,141.8,Xavier et al. (2006)
+Caribbean,Mexico,,,113,,144,Xavier et al. (2006)
+Caribbean,Mexico,,,113,,146.7,Xavier et al. (2006)
+Caribbean,Mexico,,,113,,188.3,Xavier et al. (2006)
+Caribbean,Mexico,,,116,,160.2,Xavier et al. (2006)
+Caribbean,Mexico,,,113.9,,129.3,Xavier et al. (2006)
+Caribbean,Mexico,,,114,,112.3,Xavier et al. (2006)
+Caribbean,Mexico,,,115,,103.2,Xavier et al. (2006)
+Caribbean,Mexico,,,118.5,,174.8,Xavier et al. (2006)
+Caribbean,Mexico,,,118.9,,189.8,Xavier et al. (2006)
+Caribbean,Mexico,,,119.9,,183.5,Xavier et al. (2006)
+Caribbean,Mexico,,,119,,166.2,Xavier et al. (2006)
+Caribbean,Mexico,,,119.4,,164.4,Xavier et al. (2006)
+Caribbean,Mexico,,,120.5,,160.2,Xavier et al. (2006)
+Caribbean,Mexico,,,122,,164.2,Xavier et al. (2006)
+Caribbean,Mexico,,,122,,173.9,Xavier et al. (2006)
+West Atlantic,Brazil,,,86.1,,114.2,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,86.1,,121.8,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,88.1,,124.8,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,92.2,,172.8,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,91.1,,134.4,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,91.1,,119.9,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,92,,90.6,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,94.9,,49.1,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,94.1,,97.8,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,94.1,,102.4,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,94.1,,109.2,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,93,,126.7,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,92.1,,154.5,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,93.1,,164,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,95.2,,172,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,95.2,,166.7,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,96.1,,158.3,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,95.1,,139.3,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,97.6,,141.6,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,98.1,,122.6,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,98.1,,104.3,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,99,,84.5,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,103.1,,76.5,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,102.1,,88.3,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,101.6,,108.5,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,99.1,,158,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,99.3,,199.8,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,100.7,,188,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,101.2,,178.5,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,103.2,,129,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,103.2,,122.6,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,103.6,,102.4,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,104.2,,129.4,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,107.1,,112.3,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,107.3,,166.7,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,108.3,,205.2,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,110.2,,151.5,Marcovaldi et al. (1999)
+West Atlantic,Brazil,,,110.2,,146.9,Marcovaldi et al. (1999)
+Red Sea,Sudan,,53.1,55.6,,33.7,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,56.1,58.8,,88,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,57.1,59.8,,74.3,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,61.2,64.1,,66.3,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,61.1,64,,84.6,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,64.2,67.2,,86.1,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,64.2,67.2,,88.3,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,64.2,67.3,,129.2,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,66.1,69.3,,146,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,66.1,69.3,,142.6,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,66.1,69.2,,139.1,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,66.2,69.3,,112.8,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,64.9,68,,94.2,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,66.1,69.2,,82.4,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,66.1,69.2,,79.6,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,67,70.2,,68.4,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,70.1,73.4,,141,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,67.3,70.4,,100.4,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,69.1,72.3,,111.6,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,70.1,73.4,,113.7,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,71.1,74.5,,113.1,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,71.1,74.4,,109.1,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,70.9,74.3,,106.3,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,71.1,74.5,,97,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,72.5,75.9,,86.7,Hirth and Abdel Latif (1980)
+Red Sea,Sudan,,74.1,77.6,,101,Hirth and Abdel Latif (1980)
+Arabian Gulf,Iran,,,70,,,Pilcher et al. (2014)
+Arabian Gulf,Iran,,,75,,,Pilcher et al. (2014)
+Arabian Gulf,Iran,,,75,,,Pilcher et al. (2014)
+Arabian Gulf,UAE,,,72,,,Pilcher et al. (2014)
+Arabian Gulf,UAE,,,72,,,Pilcher et al. (2014)
+Arabian Gulf,UAE,,,70.5,,,Pilcher et al. (2014)
+Arabian Gulf,UAE,,,67.6,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,73.5,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,89.5,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,84.5,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,83,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,79.5,,,Pilcher et al. (2014)
+Indian Ocean,Qatar,,,68.4,,,Pilcher et al. (2014)
+Indian Ocean,Qatar,,,78.5,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,81,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,81.5,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,83,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,83,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,83,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,83,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,81,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,78.5,,,Pilcher et al. (2014)
+Arabian Gulf,UAE,,,68.9,,,Pilcher et al. (2014)
+Arabian Gulf,UAE,,,67.2,,,Pilcher et al. (2014)
+Arabian Gulf,UAE,,,67,,,Pilcher et al. (2014)
+Arabian Gulf,Iran,,,74.4,,,Pilcher et al. (2014)
+Arabian Gulf,Iran,,,71.5,,,Pilcher et al. (2014)
+Arabian Gulf,Iran,,,71,,,Pilcher et al. (2014)
+Arabian Gulf,Iran,,,75.5,,,Pilcher et al. (2014)
+Arabian Gulf,Qatar,,,69,,,Pilcher et al. (2014)
+Arabian Gulf,Qatar,,,78,,,Pilcher et al. (2014)
+Arabian Gulf,Iran,,,68,,,Pilcher et al. (2014)
+Arabian Gulf,Iran,,,65,,,Pilcher et al. (2014)
+Arabian Gulf,Iran,,,68,,,Pilcher et al. (2014)
+Arabian Gulf,Iran,,,68,,,Pilcher et al. (2014)
+Arabian Gulf,Iran,,,67.5,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,75,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,85,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,81,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,81,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,80,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,86,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,81,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,77,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,77,,,Pilcher et al. (2014)
+Indian Ocean,Oman,,,78,,,Pilcher et al. (2014)
