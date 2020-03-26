@@ -1,0 +1,10 @@
+# PlasticRecycling.csv
+#
+# From Table 7 in Augustinack AM. 1992. Structural analysis of recycling attitudes
+#   and behavior: a comparison of Minneapolis, MN and Des Moines, IA. MS Thesis,
+#   Iowa State University.
+#
+# city: City of survey (Des Moines or Minneapolis)
+# method: Method of disposing of plastic containers
+# method2: Method of disposing of plastic containers with "curbside",
+#          "buy-back center", and "drop-off facility" combined to "recycle"
