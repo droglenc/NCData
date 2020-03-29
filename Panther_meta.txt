@@ -12,7 +12,3 @@
 # tlength: Total length (body+tail; cm)
 # set: Whether the individual was in the model constructuion or validation set.
 #
-# If you are using the data for Dr. Ogle's final exam in Intro stats then you
-# should run the following code to clean the data (assumes your data have been
-# loaded into an objected called df).
-#
