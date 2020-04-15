@@ -1,0 +1,221 @@
+orig,label,new
+state,state,state
+zip_code,zip_code,zip
+v9,PART 1-1: Have you ever seen a wolf in the wild?,seen_wolf
+v10,1-2: Have you ever heard a wolf in the wild?,heard_wolf
+v11,1-3: Have you ever seen wolf tracks in the wild?,seen_tracks
+v12,1-4: Have you ever seen a wold in a zoo?,seen_zoo
+v13,1-5: Have you ever seen a nature show about wolves on television?,seen_show
+v14,1-6: Have you ever attended a lecture or presentation about wolves?,seen_lecture
+v15,1-7: Have you ever had a pet killed or injured by a wolf?,your_pet
+v16,1-8: Have you ever known someone who has had a pet killed or injured by a wolf?,others_pet
+v17,1-9: Have you ever attended a sporting type show where a booth about wolves was present?,seen_sportshow
+v18,1-10: Have you ever known anyone who owned or owns a wolf-dog hybrid?,own_hybrid
+v19,1-11: Have you ever read any fiction books about wolves?,read_fiction
+v20,1-12: Have you ever read any non-ficiton books about wolves?,read_nonfiction
+v21,1-13: Have you ever visited a nature center that specializes in wolves?,seen_naturecenter
+v22,1-14: Have you ever seen a film about wolves?,seen_film
+v23,1-15: Have you ever read and books about wolves in Wisconsin?,read_book_WI
+v24,1-16: Have you ever read a newspaper article about wolves in Wisconsin?,read_news_WI
+v25,1-17: Have you ever seen a news broadcast about wolves in Wisconsin?,seen_news_WI
+v26,1-18: Have you ever attended a public meeting about wolves in Wisconsin?,public_meeting_WI
+v27,"PART 2-1: If I knew wolves lived where I participated in Deer Hunting, I would:",part_deer
+v28,"2-2: If I knew wolves lived where I participated in Bird Watching, I would:",part_birdwatch
+v29,"2-3: If I knew wolves lived where I participated in Bike Riding, I would:",part_bike
+v30,"2-4: If I knew wolves lived where I participated in Running, I would:",part_run
+v31,"2-5: If I knew wolves lived where I participated in Riding ATV's, I would:",part_atv
+v32,"2-6: If I knew wolves lived where I participated in Snowmobiling, I would:",part_snowmobile
+v33,"2-7: If I knew wolves lived where I participated in Bear Hunting, I would:",part_bear
+v34,"2-8: If I knew wolves lived where I participated in Bird Hunting, I would:",part_birdhunt
+v35,"2-9: If I knew wolves lived where I participated in Hiking, I would:",part_hike
+v36,"2-10: If I knew wolves lived where I participated in Gardening, I would:",part_garden
+v37,"2-11: If I knew wolves lived where I participated in Trapping, I would:",part_trapping
+v38,"2-12: If I knew wolves lived where I participated in Cross Country Skiing, I would:",part_ski
+v39,"2-13: If I knew wolves lived where I participated in Raising Livestock, I would:",part_raise_livestock
+v40,"2-14: If I knew wolves lived where I participated in Canoeing, I would:",part_canoe
+v41,"2-15: If I knew wolves lived where I participated in Backpacking, I would:",part_backpack
+v42,"2-16: If I knew wolves lived where I participated in Nature Photography, I would:",part_photo
+v43,"2-17: If I knew wolves lived where I participated in Fishing, I would:",part_fish
+v44,"2-18: If I knew wolves lived where I participated in Picnicking, I would:",part_picnic
+v45,"2-19: If I knew wolves lived where I participated in Camping, I would:",part_camp
+v46,"2-20: If I knew wolves lived where I participated in Walking Dog, I would:",part_walk_dog
+v47,"2-21: If I knew wolves lived where I participated in Berry or Mushroom Picking, I would:",part_forage
+v48,"2-22: If I knew wolves lived where I participated in Other activities, I would:",part_other
+v49,"2-23: If in the above section you indicated a change in participation, please take a moment to explain why your participation would be affected.",part_EXPLAIN
+v50,"PART 3-1: If you knew wolves lived near your home, how concerned would you be about: Your own safety?",conc_safety_own
+v51,"3-2: If you knew wolves lived near your home, how concerned would you be about: The safety of your children?",conc_safety_children
+v52,"3-3: If you knew wolves lived near your home, how concerned would you be about: The safety of other children in the area?",conc_safety_otherchilren
+v53,"3-4: If you knew wolves lived near your home, how concerned would you be about: The safety of livestock?",conc_safety_livestock
+v54,"3-5: If you knew wolves lived near your home, how concerned would you be about: The safety of pets?",conc_safety_pet
+v55,"3-6: If you knew wolves lived near your home, how concerned would you be about: Getting into an auto accident with a wolf?",conc_auto_accident
+v56,PART 4-1: Please indicate the extent to which you agree or disagree with the following statement: The wolf is a symbol of the beauty and wonder of nature.,ad_nature
+v57,4-2: Please indicate the extent to which you agree or disagree with the following statement: Farmers should be responsible for protecting creatures like sheep and young calves from predators such as wolves.,ad_farmers_protect
+v58,4-3: Please indicate the extent to which you agree or disagree with the following statement: The DNR (spl-out) is concerned more with meeting the needs of special interest groups than protecting the animals of Wisconsin for everyone to enjoy.,ad_DNR_sig
+v59,"4-4: Please indicate the extent to which you agree or disagree with the following statement: If there are enough wolves, I think we should allow some of them to be killed for sport.",ad_kill_sport
+v60,4-5: Please indicate the extent to which you agree or disagree with the following statement: It's wrong to kill wolves because they seem so intelligent and emotionally sensitive.,ad_intelligent
+v61,4-6: Please indicate the extent to which you agree or disagree with the following statement: Wolves are a part of our vanishing wilderness and should be protected.,ad_wilderness
+v62,4-7: Please indicate the extent to which you agree or disagree with the following statement: The DNR (spl-out) doesn't spend enough time informing the public about wolf management issues.,ad_DNR_education
+v63,4-8: Please indicate the extent to which you agree or disagree with the following statement: The DNR (spl-out) is concerned more with preserving land than allowing people to make a living off the land.,ad_DNR_preservation
+v64,4-9: Please indicate the extent to which you agree or disagree with the following statement: Wolves help keep deer herds healthy by killing the sick and the weak animals.,ad_healthy_deer
+v65,4-10: Please indicate the extent to which you agree or disagree with the following statement: The DNR (spl-out) is concerned more with animal rights than people's rights.,ad_DNR_animal_rights
+v66,"4-11: Please indicate the extent to which you agree or disagree with the following statement: If farmers are more careful about how they take care of their cattle, there will be fewer livestock killed by wolves.",ad_farmers_careful
+v67,4-12: Please indicate the extent to which you agree or disagree with the following statement: The DNR (spl-out) works too closely with big business.,ad_DNR_bigbusiness
+v68,4-13: Please indicate the extent to which you agree or disagree with the following statement: I would shoot a wolf if it threatened my pet.,ad_shoot_pet
+v69,4-14: Please indicate the extent to which you agree or disagree with the following statement: I do not think wolves and farmers can coexist in the same area because wolves eat livestock.,ad_farmers_coexist
+v70,4-15: Please indicate the extent to which you agree or disagree with the following statement: A hunting season on wolves would encourage more illegal killing on wolves.,ad_season_illegal
+v71,4-16: Please indicate the extent to which you agree or disagree with the following statement: I think the elimination of wolves from most of the United States has resulted in overabundant and unhealthy deer populations in many places.,ad_nowolves_deer
+v72,4-17: Please indicate the extent to which you agree or disagree with the following statement: It upsets me to think how a wolf actually kills a deer.,ad_kill_deer
+v73,4-18: Please indicate the extent to which you agree or disagree with the following statement: The DNR (spl-out) works too closely with environmentalists.,ad_DNR_environmentalists
+v74,4-19: Please indicate the extent to which you agree or disagree with the following statement: People who feel strongly about protecting wolves are usually city people with little understanding of farming or how to make a living off the land.,ad_city_people
+v75,4-20: Please indicate the extent to which you agree or disagree with the following statement: Some animals such as wolves and rattlesnakes are naturally cruel.,ad_cruelty
+v76,4-21: Please indicate the extent to which you agree or disagree with the following statement: Wolves are a part of our vanishing wilderness and should be protected even if some farmers have to make economic sacrifices.,ad_wilderness_economics
+v77,4-22: Please indicate the extent to which you agree or disagree with the following statement: The DNR (spl-out) is run by environmentalists who are out to save land and animals at the expense of hard working people.,ad_DNR_environmentalists2
+v78,4-23: Please indicate the extent to which you agree or disagree with the following statement: A wolf's howl is one of the most frightening sounds in nature.,ad_howl_frighten
+v79,4-24: Please indicate the extent to which you agree or disagree with the following statement: Wolves are essential to maintaing the balance of nature.,ad_balance_nature
+v80,4-25: Please indicate the extent to which you agree or disagree with the following statement: Wisconsin's wolf population threatens deer hunting opportunities.,ad_threaten_deer
+v81,4-26: Please indicate the extent to which you agree or disagree with the following statement: The DNR (spl-out) currently does a good job of managing wolves in Wisconsin.,ad_DNR_goodjob
+v82,4-27: Please indicate the extent to which you agree or disagree with the following statement: A wolf-dog hybrid would make a good pet.,ad_hybrid_pet
+v83,4-28: Please indicate the extent to which you agree or disagree with the following statement: Seeing a wolf in the wild would be one of the greatest outdoor experiences of my life.,ad_great_experience
+v84,"4-29: Please indicate the extent to which you agree or disagree with the following statement: Wolves belong in places like Alaska, not in Wisconsin.",ad_Alaska
+v85,4-30: Please indicate the extent to which you agree or disagree with the following statement: There is no way sportsmen can have good deer hunting if wolves live in the same area.,ad_deer_hunting
+v86,4-31: Please indicate the extent to which you agree or disagree with the following statement: Our state is in bad shape when we choose wolves instead of hardworking farmers.,ad_bad_shape
+v87,"4-32: Please indicate the extent to which you agree or disagree with the following statement: Because we no longer hunt wolves, I believe they have lost their fear of people.",ad_fear_people
+v88,PART 5-1: How knowledgeable do you believe you are about wolves?,knwldg_general
+v89,5-2: How knowledgeable do you believe you are about wolves living in Wisconsin?,knwldg_WI
+v90,5-3: I think there are about _____ wolves living in Wisconsin.,knwldg_popsizeWI
+v91,5-3a Please indicate how confident you are in your answer.,knwldg_popsizeWI_c
+v92,5-4: The average weight of an adult male wolf in Wisconsin is _____ pounds.,knwldg_size
+v93,5-4a Please indicate how confident you are in your answer.,knwldg_size_c
+v94,"5-5: On average, a typical wolf pack in Wisconsin consists of:",knwldg_packsize
+v95,5-5a Please indicate how confident you are in your answer.,knwldg_packsize_c
+v96,5-6: Wisconisn currently has ____ wolf packs.,knwldg_numpacks
+v97,5-6a Please indicate how confident you are in your answer.,knwldg_numpacks_c
+v98,"5-7: In an average year, what percentage of Wisconsin livestock farmers do you think lose livestock to wolves?",knwldg_livestock
+v99,5-7a Please indicate how confident you are in your answer.,knwldg_livestocknwldg_c
+v100,"5-8: As far as you know, has a wolf ever attacked and killed a pet in Wisconsin?",knwldg_killedpet
+v101,5-8a Please indicate how confident you are in your answer.,knwldg_killedpet_c
+v102,"5-9: As far as you know, has a wolf ever attacked a human in Wisconsin?",knwldg_attackhuman
+v103,5-9a Please indicate how confident you are in your answer.,knwldg_attackhuman_c
+v104,"5-10: In Wisconsin, how many deer does the average wolf kill in a year.",knwldg_deerkilled
+v105,5-10a Please indicate how confident you are in your answer.,knwldg_deerkilled_c
+v106,5-11: Do you think that:,knwldg_unknown
+v107,PART 6-1: Please indicate the extent to which you agree or disagree with each of the following methods for managing the population of wolves in Wisconsin: A public hunting season on wolves.,mgmt_hunting_season
+v108,6-2: Please indicate the extent to which you agree or disagree with each of the following methods for managing the population of wolves in Wisconsin: A public trapping season on wolves.,mgmt_trapping_season
+v109,6-3: Please indicate the extent to which you agree or disagree with each of the following methods for managing the population of wolves in Wisconsin: DNR shooting wolves to control the population.,mgmt_DNR_shoot_control
+v110,6-4: Please indicate the extent to which you agree or disagree with each of the following methods for managing the population of wolves in Wisconsin: DNR trapping wolves to control the population.,mgmt_DNR_trap_control
+v111,6-5: Please indicate the extent to which you agree or disagree with each of the following methods for managing the population of wolves in Wisconsin: DNR poisoning wolves to control the population.,mgmt_DNR_poison_control
+v112,6-6: Please indicate the extent to which you agree or disagree with each of the following methods for managing the population of wolves in Wisconsin: Sterilizing wolves to control the population.,mgmt_DNR_sterilize_control
+v113,6-7: Please indicate the extent to which you agree or disagree with each of the following methods for managing problem wolves in Wisconsin: Having the DNR shoot problem wolves.,mgmt_DNR_shoot_problems
+v114,6-8: Please indicate the extent to which you agree or disagree with each of the following methods for managing problem wolves in Wisconsin: Having the DNR relocate problem wolves.,mgmt_DNR_relocate_problems
+v115,6-9: Please indicate the extent to which you agree or disagree with each of the following methods for managing problem wolves in Wisconsin: Having the DNR poison problem wolves.,mgmt_DNR_poison_problems
+v116,6-10: Please indicate the extent to which you agree or disagree with each of the following methods for managing problem wolves in Wisconsin: Having farmers learn Best Management Practices for protecting their livestock from wolves.,mgmt_farmers_bmp
+v117,6-11: Please indicate the extent to which you agree or disagree with each of the following methods for managing problem wolves in Wisconsin: Allowing farmers to shoot wolves they find attacking their livestock.,mgmt_farmers_shoot
+v118,6-12: Currently the Department of Natural Resources compensates livestock farmers for livestock that are proven to have been killed by a wolf. Do you think that the DNR should:,mgmt_DNR_compensate1
+v119,"6-14: In the fiscal year of 2000-2001, the Department of Natural Resources paid out $2,900 to compensate farmers whose livestock were killed by wolves. Do you think the DNR (spl-out) should:",mgmt_DNR_compensate2
+v120,"6-16: Overall, how much would you say you care about how Wisconsin chooses to manage wolves?",mgmt_care_how
+v121,"6-17-1: As the wolf population continues to expand, wolves are moving into areas that they have previously not occupied. In your opinion, should wolves be allowed to live in: Nowhere in Wisconsin.",live_nowhereWI
+v123,"6-17-2: As the wolf population continues to expand, wolves are moving into areas that they have previously not occupied. In your opinion, should wolves be allowed to live in: National Forests.",live_national_forests
+v124,"6-17-3: As the wolf population continues to expand, wolves are moving into areas that they have previously not occupied. In your opinion, should wolves be allowed to live in: State Forests.",live_state_forests
+v125,"6-17-4: As the wolf population continues to expand, wolves are moving into areas that they have previously not occupied. In your opinion, should wolves be allowed to live in: County Forests.",life_county_forests
+v126,"6-17-5: As the wolf population continues to expand, wolves are moving into areas that they have previously not occupied. In your opinion, should wolves be allowed to live in: National Wildlife Refuges.",live_national_refuges
+v127,"6-17-6: As the wolf population continues to expand, wolves are moving into areas that they have previously not occupied. In your opinion, should wolves be allowed to live in: State Wildlife Refuges.",live_state_refuges
+v128,"6-17-7: As the wolf population continues to expand, wolves are moving into areas that they have previously not occupied. In your opinion, should wolves be allowed to live in: Other.",live_other
+v129,"6-18: If a wolf causes harm to livestock or a domestic animal, the wolf should be: Captured and moved to a new location by the Department of Natural Resources.",llivestock_relocate_DNR
+v130,"6-19: If a wolf causes harm to livestock or a domestic animal, the wolf should be: Captured and relocated by the land owner.",livestock_relocate_farmer
+v131,"6-20: If a wolf causes harm to livestock or a domestic animal, the wolf should be: Killed by the Department of Natural Resources.",livestock_killed_DNR
+v132,"6-21: If a wolf causes harm to livestock or a domestic animal, the wolf should be: Killed by the landowner.",livestock_killed_farmer
+v133,"6-22: If a wolf causes harm to livestock or a domestic animal, the wolf should be: Ignored, it is just doing what it has to do to survive.",livestock_ignore1
+v134,"6-23: If a wolf causes harm to livestock or a domestic animal, the wolf should be: Ignored, because you can never know for sure if you will get the actual wolf that is causing the damage.",livestock_ignore2
+v135,"6-24: If a wolf becomes a problem animal to a farm by repeatedly killing or injuring livestock and or domestic animals, the farmer: Should change his/her farming practices to discourage wolves from preying on livestock.",livestock2_change_practices
+v136,"6-25: If a wolf becomes a problem animal to a farm by repeatedly killing or injuring livestock and or domestic animals, the farmer: Should be obliged to make necessary changes to farming practices to discourage wolves from preying on his/her livestock.",livestock2_change_practices2
+v137,"6-26: If a wolf becomes a problem animal to a farm by repeatedly killing or injuring livestock and or domestic animals, the farmer: Should have the right to shoot and kill the offending wolf.",livestock2_shoot
+v138,"6-27: If a wolf becomes a problem animal to a farm by repeatedly killing or injuring livestock and or domestic animals, the farmer: Should have the right to trap the offending wolf.",livestock2_trap
+v139,"6-28: If a wolf becomes a problem animal to a farm by repeatedly killing or injuring livestock and or domestic animals, the farmer: Should make a claim to his/her insurance company for damages.",livestock2_insurance1
+v140,"6-29: If a wolf becomes a problem animal to a farm by repeatedly killing or injuring livestock and or domestic animals, the farmer: Should be obligated by law to make a claim to his/her insurance company for damages.",livestock2_insurance2
+v141,"6-30: If a wolf becomes a problem animal to a farm by repeatedly killing or injuring livestock and or domestic animals, the farmer: Should have no responsibilities in the matter because these problems should be dealt with only by the DNR (spl-out).",livestock2_DNRhandle
+v142,PART 7-1: Please indicate the highest level of education you have achieved.,dem_education
+v143,7-2: Are you a male or a female?,dem_sex
+v144,7-3: What is your age?,dem_age
+v145,7-4: Which of the following best describes the area in which you currently reside?,dem_reside
+v146,7-5: Approximately how many people live in your community?,dem_community_size
+v147,7-6: Do you own your home?,dem_ownhome
+v148,"7-6a: If yes, How many acres does your property consist of?",dem_homeacres
+v149,7-7: What is your occupation?,dem_occupation
+v150,"7-7a: If retired, what was your occupation?",dem_retired_occupation
+v151,"7-8: If you are living with a spouse or partner, what does he or she do?",dem_spouse_occupation
+v152,7-9: Do you own recreational land or property?,dem_own_recland
+v153,"7-9a-1: If yes, in what ways do you use it: Livestock farming?",ownland_livestock_farming
+v154,"7-9a-2: If yes, in what ways do you use it: Crop farming?",ownland_crop_farming
+v155,"7-9a-3: If yes, in what ways do you use it: Hunting?",ownland_hunting
+v156,"7-9a-4: If yes, in what ways do you use it: Timber?",ownland_timber
+v157,"7-9a-5: If yes, in what ways do you use it: Nature Conservation?",ownland_conservation
+v158,"7-9a-6: If yes, in what ways do you use it: Fishing?",ownland_fishing
+v159,"7-9a-7: If yes, in what ways do you use it: Hiking?",ownland_hiking
+v160,"7-9a-8: If yes, in what ways do you use it: Nature Conservation?",ownland_conservation2
+v161,"7-9a-9: If yes, in what ways do you use it: None of the Above?",ownland_none
+v162,"7-9a-10: If yes, in what ways do you use it: Other?",ownland_other
+v163,7-9b: In what zone is your recreational land or property located?,ownland_zone
+v164,7-10: Please check the range that comes closest to your total family annual income before taxes.,dem_income
+v165,7-11: Do you have pets in your household?,dem_pets
+v166,"7-11a: If yes, do any of these pets spend most of their time outside?",dem_pets_num
+v167,7-12: Do you raise livestock for a living?,dem_livestock
+v168,7-13: Have you hunted in the past two years?,dem_hunt
+v169,"7-13a-1 If yes, what did you hunt: Deer?",hunt_deer
+v170,"7-13a-2 If yes, what did you hunt: Game Birds?",hunt_birds
+v171,"7-13a-3 If yes, what did you hunt: Bears?",hunt_bears
+v172,"7-13a-4 If yes, what did you hunt: Small Game (squirrels, rabbits, etc.)?",hunt_smallgame
+v173,"7-13a-5 If yes, what did you hunt: Other?",hunt_other
+v174,7-14: What is your relationship status?,dem_relationship
+v175,7-15: Do you have children?,dem_children
+v176,7-16: Are you involved politically in your community in ways other than voting?,dem_politically_involved
+v177,7-17-1: Are you a member of any of the following conservation or wildlife related organizations: American Humane Association?,member_AHA
+v178,7-17-2: Are you a member of any of the following conservation or wildlife related organizations: Audubon Society?,member_Audubon
+v179,7-17-3: Are you a member of any of the following conservation or wildlife related organizations: Defenders of the Wildlife?,member_DOW
+v180,7-17-4: Are you a member of any of the following conservation or wildlife related organizations: Ducks Unlimited?,member_DU
+v181,7-17-5: Are you a member of any of the following conservation or wildlife related organizations: Environmental Defense Fund?,member_EDF
+v182,7-17-6: Are you a member of any of the following conservation or wildlife related organizations: Friends of Animals?,member_FofA
+v183,7-17-7: Are you a member of any of the following conservation or wildlife related organizations: Friends of the Earth?,member_FofE
+v184,7-17-8: Are you a member of any of the following conservation or wildlife related organizations: Humane Society of the U.S.?,member_HumaneSoc
+v185,7-17-9: Are you a member of any of the following conservation or wildlife related organizations: National Rifle Association?,member_NRA
+v186,7-17-10: Are you a member of any of the following conservation or wildlife related organizations: National Wildlife Federation?,member_NWF
+v187,7-17-11: Are you a member of any of the following conservation or wildlife related organizations: The Nature Conservancy?,member_NatureConservancy
+v188,7-17-12: Are you a member of any of the following conservation or wildlife related organizations: None,member_none
+v189,7-17-13: Are you a member of any of the following conservation or wildlife related organizations: Sierra Club?,member_SierraClub
+v190,7-17-14: Are you a member of any of the following conservation or wildlife related organizations: Sport Fishing Institute?,members_SFI
+v191,7-17-15: Are you a member of any of the following conservation or wildlife related organizations: Timber Wolf Alliance?,member_TWA
+v192,7-17-16: Are you a member of any of the following conservation or wildlife related organizations: Trout Unlimited?,member_TU
+v193,7-17-17: Are you a member of any of the following conservation or wildlife related organizations: Whitetails Unlimited?,member_WU
+v194,7-17-18: Are you a member of any of the following conservation or wildlife related organizations: Wilderness Society?,member_WS
+v195,7-17-19: Are you a member of any of the following conservation or wildlife related organizations: Wisconsin Bear Hunters Association?,member_WiBHA
+v196,7-17-20: Are you a member of any of the following conservation or wildlife related organizations: Wisconsin Bow Hunters?,member_WiBH
+v197,7-17-21: Are you a member of any of the following conservation or wildlife related organizations: Wisconsin Conservation Congress?,member_WiCC
+v198,7-17-22: Are you a member of any of the following conservation or wildlife related organizations: World Wildlife Fund?,member_WWF
+v199,7-17-23: Are you a member of any of the following conservation or wildlife related organizations: Other?,member_other
+v200,7-18: Do you consider yourself to be:,dem_race
+v201,PART 8-1: Have you read anything about wolves in the past year?,read_anything
+v202,"8-1a-1 If yes, where did you find the reading: Newspaper?",read_newspaper
+v203,"8-1a-2 If yes, where did you find the reading: Magazine?",read_magazine
+v204,"8-1a-3 If yes, where did you find the reading: Scientific Journal?",read_science
+v205,"8-1a-4 If yes, where did you find the reading: Book?",read_book
+v206,"8-1a-5 If yes, where did you find the reading: Brochure?",read_brochure
+v207,"8-1a-6 If yes, where did you find the reading: Internet?",read_internet
+v208,"8-1a-7 If yes, where did you find the reading: Other?",read_other
+v209,8-2: Have you seen TV programs on wolves?,seen_tv
+v210,"8-2a If yes, was it fiction, a documentary, or have you seen both?",tv_type
+v211,"8-2b-1 What type of station was the program(s) on: Educational/Scientific (Discover, etc.)?",tv_education
+v212,"8-2b-2 What type of station was the program(s) on: Entertainment (NBC, FOX, etc.)?",tv_entertainment
+v213,8-2b-3 What type of station was the program(s) on: Public Broadcasting (PBS)?,tv_PBS
+v214,"8-2b-4 What type of station was the program(s) on: Hunting/Sporting (OLN, ESPN, etc.)?",tv_sporting
+v215,8-2b-5 What type of station was the program(s) on: Other?,tv_other
+v216,"8-3-1 If you have questions about wildlife, where do you get your information: Internet?",quest_internet
+v217,"8-3-2 If you have questions about wildlife, where do you get your information: Television?",quet_tv
+v218,"8-3-3 If you have questions about wildlife, where do you get your information: Magazines/Books?",quest_magazine
+v219,"8-3-4 If you have questions about wildlife, where do you get your information: Department of Natural Resources?",quest_DNR
+v220,"8-3-5 If you have questions about wildlife, where do you get your information: Police and Local Authorities?",quest_authorities
+v221,"8-3-6 If you have questions about wildlife, where do you get your information: Newspapers?",quest_newspaper
+v222,"8-3-7 If you have questions about wildlife, where do you get your information: Radio?",quest_radio
+v223,"8-3-8 If you have questions about wildlife, where do you get your information: Friends and/or family?",quest_friends
+v224,"8-3-9 If you have questions about wildlife, where do you get your information: Teacher/Professor?",quest_teacher
+v225,"8-3-10 If you have questions about wildlife, where do you get your information: Government Agencies (other than DNR)?",quest_govt
+v226,"8-3-11 If you have questions about wildlife, where do you get your information: Other Agencies?",quest_other_agencies
+v227,"8-3-12 If you have questions about wildlife, where do you get your information: Other?",quest_other
