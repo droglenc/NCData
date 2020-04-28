@@ -1,0 +1,8 @@
+# GreatLakesIce.csv
+#
+# from https://www.glerl.noaa.gov/data/ice/#historical
+#
+# lake: Great lake
+# year: Year of ice season
+# date: Date that maximum ice coverage was recorded
+# max.cover: Maximum percent of lake covered with ice

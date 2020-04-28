@@ -1,0 +1,236 @@
+lake,year,date,max.cover
+ Superior,1973,27-Feb,69.8
+ Superior,1974,27-Feb,73.8
+ Superior,1975,13-Feb,64.9
+ Superior,1976,16-Mar,49.9
+ Superior,1977,16-Feb,96
+ Superior,1978,1-Mar,92.5
+ Superior,1979,25-Feb,97.1
+ Superior,1980,5-Mar,77.2
+ Superior,1981,11-Feb,84.7
+ Superior,1982,9-Mar,85.3
+ Superior,1983,7-Feb,20.2
+ Superior,1984,7-Mar,88.2
+ Superior,1985,2-Mar,81.9
+ Superior,1986,22-Feb,90.7
+ Superior,1987,25-Jan,14.5
+ Superior,1988,15-Feb,67.3
+ Superior,1989,8-Mar,82.3
+ Superior,1990,5-Mar,78.1
+ Superior,1991,4-Mar,89.6
+ Superior,1992,23-Mar,73.3
+ Superior,1993,1-Mar,77.2
+ Superior,1994,9-Feb,96.1
+ Superior,1995,3-Mar,28.8
+ Superior,1996,8-Mar,100
+ Superior,1997,23-Mar,89
+ Superior,1998,16-Jan,11.1
+ Superior,1999,23-Feb,18.3
+ Superior,2000,18-Feb,33.5
+ Superior,2001,12-Mar,46.7
+ Superior,2002,17-Mar,10.3
+ Superior,2003,4-Mar,95.5
+ Superior,2004,19-Feb,52.2
+ Superior,2005,17-Mar,54.5
+ Superior,2006,2-Mar,16.66
+ Superior,2007,8-Mar,51.83
+ Superior,2008,10-Mar,62.7
+ Superior,2009,2-Mar,93.63
+ Superior,2010,22-Feb,27.34
+ Superior,2011,2-Apr,33.64
+ Superior,2012,22-Jan,8.22
+ Superior,2013,17-Feb,38.62
+ Superior,2014,3-Mar,95.82
+ Superior,2015,28-Feb,95.7
+ Superior,2016,14-Feb,22.69
+ Superior,2017,4-Mar,18.7
+ Superior,2018,11-Feb,77.17
+ Superior,2019,8-Mar,94.91
+Michigan,1973,27-Feb,33
+Michigan,1974,21-Feb,39.4
+Michigan,1975,29-Jan,28.1
+Michigan,1976,3-Feb,29.5
+Michigan,1977,9-Feb,93.1
+Michigan,1978,22-Feb,66.6
+Michigan,1979,25-Feb,92.3
+Michigan,1980,20-Feb,38.6
+Michigan,1981,21-Jan,53.8
+Michigan,1982,9-Feb,60.2
+Michigan,1983,8-Feb,23.6
+Michigan,1984,8-Feb,43.3
+Michigan,1985,23-Feb,41.3
+Michigan,1986,23-Feb,66.8
+Michigan,1987,21-Feb,20
+Michigan,1988,7-Feb,32.7
+Michigan,1989,19-Mar,30.9
+Michigan,1990,14-Jan,32.4
+Michigan,1991,30-Jan,21.5
+Michigan,1992,3-Feb,32.8
+Michigan,1993,28-Feb,32.2
+Michigan,1994,14-Feb,82.7
+Michigan,1995,13-Feb,21.6
+Michigan,1996,7-Feb,75
+Michigan,1997,5-Feb,37.8
+Michigan,1998,6-Feb,15.1
+Michigan,1999,15-Jan,23
+Michigan,2000,28-Jan,27.2
+Michigan,2001,22-Feb,29.5
+Michigan,2002,7-Mar,12.4
+Michigan,2003,10-Mar,48
+Michigan,2004,5-Feb,36.4
+Michigan,2005,24-Jan,29.4
+Michigan,2006,20-Feb,16.15
+Michigan,2007,8-Mar,37.19
+Michigan,2008,21-Feb,33.51
+Michigan,2009,29-Jan,52.27
+Michigan,2010,8-Feb,23.46
+Michigan,2011,11-Feb,29.35
+Michigan,2012,21-Jan,16.72
+Michigan,2013,18-Feb,24.38
+Michigan,2014,8-Mar,93.08
+Michigan,2015,27-Feb,72.9
+Michigan,2016,14-Feb,26.75
+Michigan,2017,18-Jan,18.2
+Michigan,2018,11-Feb,51.32
+Michigan,2019,8-Mar,55.83
+Huron,1973,26-Feb,66.7
+Huron,1974,27-Feb,61.4
+Huron,1975,13-Feb,55.1
+Huron,1976,28-Jan,52.5
+Huron,1977,9-Feb,95
+Huron,1978,1-Mar,95.8
+Huron,1979,19-Feb,96.4
+Huron,1980,5-Mar,70.3
+Huron,1981,4-Feb,93.8
+Huron,1982,9-Mar,93.3
+Huron,1983,1-Feb,31.8
+Huron,1984,14-Mar,77.6
+Huron,1985,23-Feb,87.4
+Huron,1986,23-Feb,73.5
+Huron,1987,15-Feb,43.5
+Huron,1988,6-Mar,60.1
+Huron,1989,19-Mar,76.3
+Huron,1990,7-Mar,73.8
+Huron,1991,1-Feb,43.8
+Huron,1992,23-Mar,69.9
+Huron,1993,28-Feb,78.3
+Huron,1994,2-Mar,96.9
+Huron,1995,5-Mar,41.7
+Huron,1996,19-Feb,98.2
+Huron,1997,23-Feb,65.3
+Huron,1998,6-Feb,28.6
+Huron,1999,9-Mar,36
+Huron,2000,18-Feb,41.9
+Huron,2001,19-Feb,45.7
+Huron,2002,4-Mar,26.1
+Huron,2003,8-Mar,96.2
+Huron,2004,19-Feb,64.5
+Huron,2005,9-Mar,58.9
+Huron,2006,2-Mar,32.17
+Huron,2007,8-Mar,71.39
+Huron,2008,17-Mar,59.51
+Huron,2009,2-Mar,85.11
+Huron,2010,18-Feb,36.95
+Huron,2011,24-Feb,63.79
+Huron,2012,5-Mar,23.06
+Huron,2013,18-Feb,47.75
+Huron,2014,6-Mar,96.1
+Huron,2015,6-Mar,96.4
+Huron,2016,14-Feb,47.98
+Huron,2017,14-Mar,35.35
+Huron,2018,11-Feb,81.39
+Huron,2019,9-Mar,95.7
+Erie,1973,27-Feb,95.7
+Erie,1974,21-Feb,88.5
+Erie,1975,13-Feb,80.1
+Erie,1976,8-Feb,95.4
+Erie,1977,8-Feb,99.8
+Erie,1978,8-Feb,100
+Erie,1979,12-Feb,100
+Erie,1980,5-Mar,93.4
+Erie,1981,14-Jan,96
+Erie,1982,15-Feb,99.1
+Erie,1983,14-Feb,40.8
+Erie,1984,18-Jan,95.7
+Erie,1985,9-Feb,96
+Erie,1986,1-Feb,95.5
+Erie,1987,14-Feb,88
+Erie,1988,7-Feb,91.5
+Erie,1989,17-Feb,91.6
+Erie,1990,9-Mar,72.8
+Erie,1991,1-Feb,35.1
+Erie,1992,16-Feb,89.8
+Erie,1993,24-Feb,94.3
+Erie,1994,9-Feb,96.7
+Erie,1995,13-Feb,94
+Erie,1996,5-Feb,100
+Erie,1997,2-Feb,99.6
+Erie,1998,23-Jan,5.4
+Erie,1999,15-Jan,74.8
+Erie,2000,1-Feb,90.7
+Erie,2001,12-Feb,94
+Erie,2002,3-Jan,14.4
+Erie,2003,27-Jan,95.7
+Erie,2004,2-Feb,95.4
+Erie,2005,7-Feb,93
+Erie,2006,2-Mar,21.88
+Erie,2007,19-Feb,95.77
+Erie,2008,10-Mar,93.38
+Erie,2009,5-Feb,95.55
+Erie,2010,8-Feb,93.13
+Erie,2011,1-Feb,95.85
+Erie,2012,21-Jan,13.87
+Erie,2013,22-Feb,83.72
+Erie,2014,6-Mar,96.08
+Erie,2015,18-Feb,98.1
+Erie,2016,15-Feb,78.73
+Erie,2017,8-Feb,35.51
+Erie,2018,9-Feb,95.12
+Erie,2019,2-Mar,94.28
+Ontario,1973,20-Feb,62.6
+Ontario,1974,10-Jan,24.5
+Ontario,1975,13-Feb,14.9
+Ontario,1976,3-Feb,15.2
+Ontario,1977,17-Feb,46.7
+Ontario,1978,15-Feb,57.7
+Ontario,1979,19-Feb,86.2
+Ontario,1980,13-Feb,30.6
+Ontario,1981,7-Jan,47.6
+Ontario,1982,25-Jan,50.7
+Ontario,1983,8-Feb,12.5
+Ontario,1984,18-Jan,40.7
+Ontario,1985,9-Feb,38.2
+Ontario,1986,28-Feb,43.7
+Ontario,1987,14-Feb,8.4
+Ontario,1988,10-Jan,21.1
+Ontario,1989,13-Mar,15.5
+Ontario,1990,28-Feb,29.5
+Ontario,1991,2-Feb,11.6
+Ontario,1992,16-Feb,17.5
+Ontario,1993,28-Feb,29
+Ontario,1994,11-Feb,55.7
+Ontario,1995,13-Feb,18.8
+Ontario,1996,16-Feb,45.1
+Ontario,1997,23-Feb,25.6
+Ontario,1998,30-Jan,6.2
+Ontario,1999,9-Mar,17.9
+Ontario,2000,1-Feb,22.3
+Ontario,2001,15-Feb,17.9
+Ontario,2002,10-Jan,4
+Ontario,2003,27-Feb,49.6
+Ontario,2004,29-Jan,38.5
+Ontario,2005,31-Jan,37.8
+Ontario,2006,2-Mar,14.25
+Ontario,2007,8-Mar,23.77
+Ontario,2008,10-Mar,13.97
+Ontario,2009,5-Feb,25.9
+Ontario,2010,8-Feb,13.1
+Ontario,2011,24-Feb,31.09
+Ontario,2012,17-Feb,1.86
+Ontario,2013,23-Feb,15.58
+Ontario,2014,6-Mar,60.84
+Ontario,2015,18-Feb,82.4
+Ontario,2016,14-Feb,23.46
+Ontario,2017,16-Mar,5.75
+Ontario,2018,17-Jan,24.67
+Ontario,2019,1-Mar,39.78
