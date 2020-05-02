@@ -1,0 +1,18 @@
+# DeerHarvest.csv
+#
+# from https://dnr.wi.gov/wideermetrics/DeerStats.aspx?ID=1
+#
+# County: County of harest
+# year: Year of harest
+# Ttl.Antlered: Total antlered deer harested.
+# Ttl.Antlerless: Total antlerless deer harvested.
+# Ttl.All: Total antlered and antlerless deer harvested.
+# Gun.Antlered: Total antlered deer harested with a gun.
+# Gun.Antlerless: Total antlerless deer harvested with a gun.
+# Gun.All: Total antlered and antlerless deer harvested a gun.
+# Bow.Antlered: Total antlered deer harested with a bow.
+# Bow.Antlerless: Total antlerless deer harvested with a bow.
+# Bow.All: Total antlered and antlerless deer harvested a bow.
+# Xbow.Antlered: Total antlered deer harested with a crossbow.
+# Xbow.Antlerless: Total antlerless deer harvested with a crossbow.
+# Xbow.All: Total antlered and antlerless deer harvested a crossbow.
