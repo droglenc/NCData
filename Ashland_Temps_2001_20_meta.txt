@@ -1,0 +1,14 @@
+# Ashland_Temps_2001_20.csv
+#
+# Source: downloaded from a query at https://www.ncdc.noaa.gov/cdo-web/
+#
+# STATION: CDO station code.
+# NAME: CDO station name (all ASHLAND KENNEDY MEMORIAL AIRPORT).
+# LATITUDE: CDO station latitude.
+# LONGITUDE: CDO station longitude.
+# ELEVATION: CDO station elevation.
+# DATE: Date of observation.
+# PRCP: Precipitation amount (water-equivalents, inches).
+# TAVG: Average temperature (F).
+# TMAX: Maximum temperature (F).
+# TMIN: Minimum temperature (F).
