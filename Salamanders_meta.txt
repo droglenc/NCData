@@ -1,0 +1,9 @@
+# Salamanders.csv
+#
+# Data randomly recreated from Polich R.L., C. A. Searcy, and H. B. Shaffer.
+#   2013. Effects of tail‐clipping on survivorship and growth of larval
+#   salamanders. Journal of Wildlife Management 77:1420-1425.
+#
+# TL: Total length (mm)
+# Treatment: Tail clipping treatment (Control (0.0-mm), Small (2.5-mm),
+#            Medium (5.0-mm), Large (10.0-mm))
