@@ -1,0 +1,23 @@
+﻿# Charr.csv
+#
+# Data from 
+#
+# 
+# num: a unique fish identification code.
+# form: fish form (Anadromous or Landlocked).
+# season: season of capture (Fall or Winter).
+# habitat: habitat of capture (Benthic, Littoral, or Pelagic).
+# fl: fork length (mm)
+# sl: standard lengt (mm)
+# wt: body weight (g)
+# sex: fish sex (Female, Male, or Unknown)
+# age: estimated age (from otoliths; years)
+# snout: length of snout (mm)
+# ujl: upper jaw length (mm)
+# eyediam: eye diameter (mm)
+# peclen: pectoral fin length (mm)
+# pelvlen: pelvic fin length (mm)
+# caudped: caudal peduncle depth (mm)
+# bodydep: body depth (mm)
+
+
