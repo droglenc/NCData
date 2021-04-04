@@ -17,6 +17,8 @@ pairs(~DBH+Ht+Age+Pst+Pbr+Pf+Pabo,data=df1)
 xtabs(~Age+Country,data=df1)
 
 df2 <- df1 %>%
+  filter(!is.na(Pbr)) %>%
+  filter(!is.na(Pf)) %>%
   mutate(GAge=case_when(
     Age<50 ~ "<50",
     Age<=100 ~ "50-100",
