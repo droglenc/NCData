@@ -1,6 +1,7 @@
 # Panther.csv
 #
-# from Bartareau, TM. 2017. Estimating the Body Weight of Florida Panthers From Standard Morphometric Measurements. Journal of Fish and Wildlife Management 8:618-624.
+# from Bartareau, TM. 2017. Estimating the Body Weight of Florida Panthers From
+#  Standard Morphometric Measurements. Journal of Fish and Wildlife Management 8:618-624.
 #
 # date: Date of capture
 # sex: sex of individual (Female, Male)
@@ -11,4 +12,5 @@
 # tail: Tail length (cm)
 # tlength: Total length (body+tail; cm)
 # set: Whether the individual was in the model constructuion or validation set.
-#
+# year: Year of capture
+# decade: Decade of capture
