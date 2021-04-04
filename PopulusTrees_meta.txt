@@ -14,3 +14,8 @@
 # Pabo: Above-ground biomass (dried KG)
 # Country: Country location of tree (RUSsia or KAZhakstan)
 # GAge: Grouped age (<40, 40-50, >50).
+#
+# You should control the levels of the GAge variable as shown
+#   below assuming that your data is an objected called df
+#
+# df$GAge <- factor(df$GAge,levels=c("<40","40-50",">50"))
