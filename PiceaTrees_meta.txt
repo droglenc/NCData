@@ -12,7 +12,7 @@
 # Pbr: Stem bark biomass (dried KG)
 # Pf: Foliage biomas (dried KG)
 # Pabo: Above-ground biomass (dried KG)
-# Country: Country location of tree (RUSsia or KAZhakstan)
+# Country: Country location of tree (Germany (GER), Switzerland (SWZ), and Ukraine (UKR))
 # GAge: Grouped age (<50, 50-100, >100).
 #
 # You should control the levels of the GAge variable as shown
