@@ -8,7 +8,7 @@
 # Age: Age of tree (years)
 # DBH: Diameter-at-breast-height (cm)
 # Ht: Tree height (m)
-# Pst: Live biomass of stem over bak (dried KG)
+# Pst: Stem over bark biomass (dried KG)
 # Pbr: Stem bark biomass (dried KG)
 # Pf: Foliage biomas (dried KG)
 # Pabo: Above-ground biomass (dried KG)
